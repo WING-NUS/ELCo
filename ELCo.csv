@@ -1,0 +1,1656 @@
+EN,EM,Description,Composition strategy,Attribute
+big business,👔📈,"[':necktie:', ':chart_increasing:']",Metaphorical,SIZE
+big business,🏢🤑🤑,"[':office_building:', ':money-mouth_face:', ':money-mouth_face:']",Metaphorical,SIZE
+big business,👨‍💻🤝,"[':man_technologist:', ':handshake:']",Metaphorical,SIZE
+big business,🏢🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑,"[':office_building:', ':people_holding_hands:', ':people_holding_hands:', ':people_holding_hands:']",Metaphorical,SIZE
+big business,👩‍💻🤑,"[':woman_technologist:', ':money-mouth_face:']",Metaphorical,SIZE
+big business,💰📈,"[':money_bag:', ':chart_increasing:']",Metaphorical,SIZE
+big business,🏢🏢🏢📊🌍,"[':office_building:', ':office_building:', ':office_building:', ':bar_chart:', ':globe_showing_Europe-Africa:']",Metaphorical,SIZE
+big business,🤝📆,"[':handshake:', ':tear-off_calendar:']",Metaphorical,SIZE
+big expenditure,📈💸,"[':chart_increasing:', ':money_with_wings:']",Direct,SIZE
+big expenditure,🥘🌯🌯🤑🤑💸💸,"[':shallow_pan_of_food:', ':burrito:', ':burrito:', ':money-mouth_face:', ':money-mouth_face:', ':money_with_wings:', ':money_with_wings:']",Metaphorical,SIZE
+big expenditure,👨‍💻💸,"[':man_technologist:', ':money_with_wings:']",Metaphorical,SIZE
+big expenditure,💸💸,"[':money_with_wings:', ':money_with_wings:']",Reduplication,SIZE
+big expenditure,🤑💸,"[':money-mouth_face:', ':money_with_wings:']",Metaphorical,SIZE
+big expenditure,📈💸,"[':chart_increasing:', ':money_with_wings:']",Direct,SIZE
+big expenditure,🐘💵💸,"[':elephant:', ':dollar_banknote:', ':money_with_wings:']",Direct,SIZE
+big expenditure,🤑💸,"[':money-mouth_face:', ':money_with_wings:']",Metaphorical,SIZE
+big voice,📢🗣️,"[':loudspeaker:', ':speaking_head:']",Metaphorical,VOLUME
+big voice,📢📣,"[':loudspeaker:', ':megaphone:']",Semantic list,VOLUME
+big voice,🔊,[':speaker_high_volume:'],Single,VOLUME
+big voice,🗣📢,"[':speaking_head:', ':loudspeaker:']",Metaphorical,VOLUME
+big voice,🗣️💢,"[':speaking_head:', ':anger_symbol:']",Metaphorical,VOLUME
+big voice,🎙🗣,"[':studio_microphone:', ':speaking_head:']",Metaphorical,VOLUME
+big voice,🤬🤬,"[':face_with_symbols_on_mouth:', ':face_with_symbols_on_mouth:']",Reduplication,VOLUME
+big voice,🗣️💢,"[':speaking_head:', ':anger_symbol:']",Metaphorical,VOLUME
+big group,🧑‍🤝‍🧑👫👭👬,"[':people_holding_hands:', ':woman_and_man_holding_hands:', ':women_holding_hands:', ':men_holding_hands:']",Reduplication,SIZE
+big group,👨‍👦👨‍👦👨‍👦👨‍👦👨‍👦👨‍👦👨‍👦,"[':family_man_boy:', ':family_man_boy:', ':family_man_boy:', ':family_man_boy:', ':family_man_boy:', ':family_man_boy:', ':family_man_boy:']",Reduplication,SIZE
+big group,👬👬👬👬👬👬👬👬👬👬👬,"[':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:', ':men_holding_hands:']",Reduplication,SIZE
+big group,👥👥👥,"[':busts_in_silhouette:', ':busts_in_silhouette:', ':busts_in_silhouette:']",Reduplication,SIZE
+big group,👫👭👨‍👨‍👧‍👧👬👨‍👨‍👧,"[':woman_and_man_holding_hands:', ':women_holding_hands:', ':family_man_man_girl_girl:', ':men_holding_hands:', ':family_man_man_girl:']",Semantic list,SIZE
+big group,👥👥,"[':busts_in_silhouette:', ':busts_in_silhouette:']",Reduplication,SIZE
+big group,👩‍👩‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👦‍👦,"[':family_woman_woman_boy_boy:', ':family_woman_woman_boy_boy:', ':family_woman_woman_boy_boy:', ':family_woman_woman_boy_boy:', ':family_woman_woman_boy_boy:']",Reduplication,SIZE
+big group,🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑,"[':people_holding_hands:', ':people_holding_hands:', ':people_holding_hands:']",Reduplication,SIZE
+big man,🧔‍♂️😲⬆️,"[':man_beard:', ':astonished_face:', ':up_arrow:']",Metaphorical,CONSPICUOUSNESS
+big man,🎅,[':Santa_Claus:'],Single,CONSPICUOUSNESS
+big man,🧑‍🦱,[':person_curly_hair:'],Single,CONSPICUOUSNESS
+big man,🧍‍♂️💪,"[':man_standing:', ':flexed_biceps:']",Metaphorical,CONSPICUOUSNESS
+big man,💪🧔‍♂️,"[':flexed_biceps:', ':man_beard:']",Metaphorical,CONSPICUOUSNESS
+big man,👱‍♂️↔️↕️,"[':man_blond_hair:', ':left-right_arrow:', ':up-down_arrow:']",Metaphorical,CONSPICUOUSNESS
+big man,🦸🦸‍♂️,"[':superhero:', ':man_superhero:']",Metaphorical,CONSPICUOUSNESS
+big man,💪🧍‍♂️,"[':flexed_biceps:', ':man_standing:']",Metaphorical,CONSPICUOUSNESS
+big city,🌇❗,"[':sunset:', ':red_exclamation_mark:']",Metaphorical,SIZE
+big city,🌇🌁🌆🏙🌃🗽,"[':sunset:', ':foggy:', ':cityscape_at_dusk:', ':cityscape:', ':night_with_stars:', ':Statue_of_Liberty:']",Semantic list,SIZE
+big city,🇷🇺,[':Russia:'],Single,SIZE
+big city,🏙,[':cityscape:'],Single,SIZE
+big city,🌆🤯,"[':cityscape_at_dusk:', ':exploding_head:']",Metaphorical,SIZE
+big city,🏙↕️↔️,"[':cityscape:', ':up-down_arrow:', ':left-right_arrow:']",Metaphorical,SIZE
+big city,🌃🌃🌃🌃🌃,"[':night_with_stars:', ':night_with_stars:', ':night_with_stars:', ':night_with_stars:', ':night_with_stars:']",Reduplication,SIZE
+big city,🌇🏙️,"[':sunset:', ':cityscape:']",Semantic list,SIZE
+big tipper,🧔‍♂️💰,"[':man_beard:', ':money_bag:']",Metaphorical,GENEROSITY
+big tipper,🥞💸,"[':pancakes:', ':money_with_wings:']",Metaphorical,GENEROSITY
+big tipper,💴💴💆‍♂️💇‍♂️,"[':yen_banknote:', ':yen_banknote:', ':man_getting_massage:', ':man_getting_haircut:']",Metaphorical,GENEROSITY
+big tipper,🪙🪙,"[':coin:', ':coin:']",Reduplication,GENEROSITY
+big tipper,🤑👨‍🦰💰,"[':money-mouth_face:', ':man_red_hair:', ':money_bag:']",Metaphorical,GENEROSITY
+big tipper,💵💵,"[':dollar_banknote:', ':dollar_banknote:']",Reduplication,GENEROSITY
+big tipper,💸💸💸,"[':money_with_wings:', ':money_with_wings:', ':money_with_wings:']",Reduplication,GENEROSITY
+big tipper,👍💸,"[':thumbs_up:', ':money_with_wings:']",Metaphorical,GENEROSITY
+big day,❗📆,"[':red_exclamation_mark:', ':tear-off_calendar:']",Direct,IMPORTANCE
+big day,👰💒🤵‍♂,"[':person_with_veil:', ':wedding:', ':man_in_tuxedo:']",Metaphorical,IMPORTANCE
+big day,👩‍❤️‍👨👰,"[':couple_with_heart_woman_man:', ':person_with_veil:']",Metaphorical,IMPORTANCE
+big day,😰☀️,"[':anxious_face_with_sweat:', ':sun:']",Metaphorical,IMPORTANCE
+big day,👰‍♂️👰‍♀️🤵‍♂️🤵‍♀️,"[':man_with_veil:', ':woman_with_veil:', ':man_in_tuxedo:', ':woman_in_tuxedo:']",Metaphorical,IMPORTANCE
+big day,🥇☀️,"[':1st_place_medal:', ':sun:']",Metaphorical,IMPORTANCE
+big day,😵😵😵,"[':face_with_crossed-out_eyes:', ':face_with_crossed-out_eyes:', ':face_with_crossed-out_eyes:']",Metaphorical,IMPORTANCE
+big day,🗓️,[':spiral_calendar:'],Single,IMPORTANCE
+hot doll,🥵👧,"[':hot_face:', ':girl:']",Direct,POPULARITY
+hot doll,🪆🔥🔥,"[':nesting_dolls:', ':fire:', ':fire:']",Direct,POPULARITY
+hot doll,💅👱‍♀️,"[':nail_polish:', ':woman_blond_hair:']",Metaphorical,POPULARITY
+hot doll,🔥🪆,"[':fire:', ':nesting_dolls:']",Direct,POPULARITY
+hot doll,1️⃣🪆🎎,"[':keycap_1:', ':nesting_dolls:', ':Japanese_dolls:']",Metaphorical,POPULARITY
+hot doll,🔥🧸,"[':fire:', ':teddy_bear:']",Direct,POPULARITY
+hot doll,♨️🪆,"[':hot_springs:', ':nesting_dolls:']",Direct,POPULARITY
+hot doll,🥵🧸,"[':hot_face:', ':teddy_bear:']",Direct,POPULARITY
+hot water,♨️💦,"[':hot_springs:', ':sweat_droplets:']",Direct,TEMPERATURE
+hot water,🥵🚰,"[':hot_face:', ':potable_water:']",Direct,TEMPERATURE
+hot water,♨️💧,"[':hot_springs:', ':droplet:']",Direct,TEMPERATURE
+hot water,🔥💦,"[':fire:', ':sweat_droplets:']",Direct,TEMPERATURE
+hot water,♨️💧🚰,"[':hot_springs:', ':droplet:', ':potable_water:']",Direct,TEMPERATURE
+hot water,♨️🚰,"[':hot_springs:', ':potable_water:']",Direct,TEMPERATURE
+hot water,♨️💧,"[':hot_springs:', ':droplet:']",Direct,TEMPERATURE
+hot water,📛💦,"[':name_badge:', ':sweat_droplets:']",Direct,TEMPERATURE
+hot stove,🌡️♨️🍳,"[':thermometer:', ':hot_springs:', ':cooking:']",Direct,TEMPERATURE
+hot stove,♨️🍳,"[':hot_springs:', ':cooking:']",Direct,TEMPERATURE
+hot stove,♨️🎛🔥,"[':hot_springs:', ':control_knobs:', ':fire:']",Direct,TEMPERATURE
+hot stove,🔥🍳,"[':fire:', ':cooking:']",Direct,TEMPERATURE
+hot stove,🥵🍳🔥,"[':hot_face:', ':cooking:', ':fire:']",Direct,TEMPERATURE
+hot stove,♨️🔥,"[':hot_springs:', ':fire:']",Direct,TEMPERATURE
+hot stove,🔥♨️,"[':fire:', ':hot_springs:']",Direct,TEMPERATURE
+hot stove,📛🌡️🫕,"[':name_badge:', ':thermometer:', ':fondue:']",Direct,TEMPERATURE
+hot topic,🔥🔊🗣️🗣️🤔🤔👍👎,"[':fire:', ':speaker_high_volume:', ':speaking_head:', ':speaking_head:', ':thinking_face:', ':thinking_face:', ':thumbs_up:', ':thumbs_down:']",Metaphorical,EMOTIONALITY
+hot topic,🤩💬,"[':star-struck:', ':speech_balloon:']",Metaphorical,EMOTIONALITY
+hot topic,☀️🎙🗣,"[':sun:', ':studio_microphone:', ':speaking_head:']",Direct,EMOTIONALITY
+hot topic,🔥🔥🔥🔥📰,"[':fire:', ':fire:', ':fire:', ':fire:', ':newspaper:']",Direct,EMOTIONALITY
+hot topic,🔥💬,"[':fire:', ':speech_balloon:']",Direct,EMOTIONALITY
+hot topic,🔥🗣️,"[':fire:', ':speaking_head:']",Direct,EMOTIONALITY
+hot topic,🔥🗣️,"[':fire:', ':speaking_head:']",Direct,EMOTIONALITY
+hot topic,🥵💬,"[':hot_face:', ':speech_balloon:']",Direct,EMOTIONALITY
+hot merchandise,🔥👀✋🤚🙏🥺💰,"[':fire:', ':eyes:', ':raised_hand:', ':raised_back_of_hand:', ':folded_hands:', ':pleading_face:', ':money_bag:']",Metaphorical,LEGALITY
+hot merchandise,🔥🔥👕🥿🕶️,"[':fire:', ':fire:', ':t-shirt:', ':flat_shoe:', ':sunglasses:']",Direct,LEGALITY
+hot merchandise,🔥🎁🎁,"[':fire:', ':wrapped_gift:', ':wrapped_gift:']",Direct,LEGALITY
+hot merchandise,🔥🏷,"[':fire:', ':label:']",Direct,LEGALITY
+hot merchandise,🔥🛍️🧸👕👗✏️📔,"[':fire:', ':shopping_bags:', ':teddy_bear:', ':t-shirt:', ':dress:', ':pencil:', ':notebook_with_decorative_cover:']",Direct,LEGALITY
+hot merchandise,🔥📱,"[':fire:', ':mobile_phone:']",Direct,LEGALITY
+hot merchandise,🗨️👕,"[':left_speech_bubble:', ':t-shirt:']",Metaphorical,LEGALITY
+hot merchandise,👍🧸👕,"[':thumbs_up:', ':teddy_bear:', ':t-shirt:']",Direct,LEGALITY
+hot temper,"🔥,😐😡","[':fire:', ',', ':neutral_face:', ':pouting_face:']",Direct,EMOTIONALITY
+hot temper,😤🤬🙅‍♂️🙅‍♂️,"[':face_with_steam_from_nose:', ':face_with_symbols_on_mouth:', ':man_gesturing_NO:', ':man_gesturing_NO:']",Metaphorical,EMOTIONALITY
+hot temper,😡😡,"[':pouting_face:', ':pouting_face:']",Reduplication,EMOTIONALITY
+hot temper,😡😤🤬,"[':pouting_face:', ':face_with_steam_from_nose:', ':face_with_symbols_on_mouth:']",Semantic list,EMOTIONALITY
+hot temper,😡😤,"[':pouting_face:', ':face_with_steam_from_nose:']",Semantic list,EMOTIONALITY
+hot temper,🔥😡,"[':fire:', ':pouting_face:']",Direct,EMOTIONALITY
+hot temper,💢🤬,"[':anger_symbol:', ':face_with_symbols_on_mouth:']",Metaphorical,EMOTIONALITY
+hot temper,😡🤬,"[':pouting_face:', ':face_with_symbols_on_mouth:']",Semantic list,EMOTIONALITY
+hot argument,🔥🗣️✖️🗣️✔️📢,"[':fire:', ':speaking_head:', ':multiply:', ':speaking_head:', ':check_mark:', ':loudspeaker:']",Direct,EMOTIONALITY
+hot argument,🙅🙅‍♂️😤🗯️,"[':person_gesturing_NO:', ':man_gesturing_NO:', ':face_with_steam_from_nose:', ':right_anger_bubble:']",Metaphorical,EMOTIONALITY
+hot argument,😡🤬🗣,"[':pouting_face:', ':face_with_symbols_on_mouth:', ':speaking_head:']",Direct,EMOTIONALITY
+hot argument,🤬🗣📣,"[':face_with_symbols_on_mouth:', ':speaking_head:', ':megaphone:']",Direct,EMOTIONALITY
+hot argument,🤬💬😡,"[':face_with_symbols_on_mouth:', ':speech_balloon:', ':pouting_face:']",Direct,EMOTIONALITY
+hot argument,🔥🤬,"[':fire:', ':face_with_symbols_on_mouth:']",Direct,EMOTIONALITY
+hot argument,💢🗣️,"[':anger_symbol:', ':speaking_head:']",Direct,EMOTIONALITY
+hot argument,🤬💬,"[':face_with_symbols_on_mouth:', ':speech_balloon:']",Direct,EMOTIONALITY
+hot forehead,"☀️, 🤒🌡️😷😴🥶","[':sun:', ',', ':face_with_thermometer:', ':thermometer:', ':face_with_medical_mask:', ':sleeping_face:', ':cold_face:']",Metaphorical,TEMPERATURE
+hot forehead,🥴🤒👨‍⚕️,"[':woozy_face:', ':face_with_thermometer:', ':man_health_worker:']",Metaphorical,TEMPERATURE
+hot forehead,🔥🤒🌡,"[':fire:', ':face_with_thermometer:', ':thermometer:']",Metaphorical,TEMPERATURE
+hot forehead,🥵🤒🤒,"[':hot_face:', ':face_with_thermometer:', ':face_with_thermometer:']",Metaphorical,TEMPERATURE
+hot forehead,🌡️🤒,"[':thermometer:', ':face_with_thermometer:']",Metaphorical,TEMPERATURE
+hot forehead,♨️🤯,"[':hot_springs:', ':exploding_head:']",Metaphorical,TEMPERATURE
+hot forehead,🩺🤒,"[':stethoscope:', ':face_with_thermometer:']",Metaphorical,TEMPERATURE
+hot forehead,🤒🤕,"[':face_with_thermometer:', ':face_with_head-bandage:']",Metaphorical,TEMPERATURE
+bright future,🎇🔮,"[':sparkler:', ':crystal_ball:']",Direct,AUSPICIOUSNESS
+bright future,🔆🔮,"[':bright_button:', ':crystal_ball:']",Direct,AUSPICIOUSNESS
+bright future,🌟🎓,"[':glowing_star:', ':graduation_cap:']",Metaphorical,AUSPICIOUSNESS
+bright future,😎👨‍🔬👩‍⚕️🧑‍💻,"[':smiling_face_with_sunglasses:', ':man_scientist:', ':woman_health_worker:', ':technologist:']",Semantic list,AUSPICIOUSNESS
+bright future,☀️🔮,"[':sun:', ':crystal_ball:']",Direct,AUSPICIOUSNESS
+bright future,👨‍🔬👩‍🎓👨‍⚕️,"[':man_scientist:', ':woman_student:', ':man_health_worker:']",Semantic list,AUSPICIOUSNESS
+bright future,☀️🌫,"[':sun:', ':fog:']",Direct,AUSPICIOUSNESS
+bright future,⏳⏩👍👍,"[':hourglass_not_done:', ':fast-forward_button:', ':thumbs_up:', ':thumbs_up:']",Metaphorical,AUSPICIOUSNESS
+bright sun,🎇☀️,"[':sparkler:', ':sun:']",Direct,LUMINOSITY
+bright sun,🔆☀️,"[':bright_button:', ':sun:']",Direct,LUMINOSITY
+bright sun,🌟🌤🌇🌅,"[':glowing_star:', ':sun_behind_small_cloud:', ':sunset:', ':sunrise:']",Semantic list,LUMINOSITY
+bright sun,☀️🔆,"[':sun:', ':bright_button:']",Direct,LUMINOSITY
+bright sun,✨☀️,"[':sparkles:', ':sun:']",Direct,LUMINOSITY
+bright sun,☀️🌟,"[':sun:', ':glowing_star:']",Direct,LUMINOSITY
+bright sun,☀️☀️,"[':sun:', ':sun:']",Reduplication,LUMINOSITY
+bright sun,☀️☀️,"[':sun:', ':sun:']",Reduplication,LUMINOSITY
+bright dress,🎇👗,"[':sparkler:', ':dress:']",Direct,COLOR
+bright dress,🔆👗,"[':bright_button:', ':dress:']",Direct,COLOR
+bright dress,✨👗,"[':sparkles:', ':dress:']",Direct,COLOR
+bright dress,🔆👗💃,"[':bright_button:', ':dress:', ':woman_dancing:']",Direct,COLOR
+bright dress,☀️🎨👗,"[':sun:', ':artist_palette:', ':dress:']",Direct,COLOR
+bright dress,👗✨,"[':dress:', ':sparkles:']",Direct,COLOR
+bright dress,☀️👗,"[':sun:', ':dress:']",Direct,COLOR
+bright dress,👗✨,"[':dress:', ':sparkles:']",Direct,COLOR
+bright room,🎇🏫,"[':sparkler:', ':school:']",Direct,LIGHT
+bright room,🔆🚹🚺,"[':bright_button:', ':men’s_room:', ':women’s_room:']",Direct,LIGHT
+bright room,✨🏠,"[':sparkles:', ':house:']",Direct,LIGHT
+bright room,💡🕯️🏠,"[':light_bulb:', ':candle:', ':house:']",Direct,LIGHT
+bright room,☀️🏫,"[':sun:', ':school:']",Direct,LIGHT
+bright room,💡💒,"[':light_bulb:', ':wedding:']",Direct,LIGHT
+bright room,☀️,[':sun:'],Single,LIGHT
+bright room,☀️🏫,"[':sun:', ':school:']",Direct,LIGHT
+dark shadow,🕶️🕴️,"[':sunglasses:', ':person_in_suit_levitating:']",Metaphorical,LIGHT
+dark shadow,⚫👥,"[':black_circle:', ':busts_in_silhouette:']",Metaphorical,LIGHT
+dark shadow,🕶🕶👤,"[':sunglasses:', ':sunglasses:', ':bust_in_silhouette:']",Metaphorical,LIGHT
+dark shadow,❌💡🧍,"[':cross_mark:', ':light_bulb:', ':person_standing:']",Metaphorical,LIGHT
+dark shadow,🌑👤,"[':new_moon:', ':bust_in_silhouette:']",Metaphorical,LIGHT
+dark shadow,🌑,[':new_moon:'],Single,LIGHT
+dark shadow,🌚,[':new_moon_face:'],Single,LIGHT
+dark shadow,🌑🚹,"[':new_moon:', ':men’s_room:']",Metaphorical,LIGHT
+dark day,🕶️🌅,"[':sunglasses:', ':sunrise:']",Direct,LIGHT
+dark day,⚫📆,"[':black_circle:', ':tear-off_calendar:']",Direct,LIGHT
+dark day,🌪🌫🌫,"[':tornado:', ':fog:', ':fog:']",Metaphorical,LIGHT
+dark day,⛈️🌫️🌑,"[':cloud_with_lightning_and_rain:', ':fog:', ':new_moon:']",Metaphorical,LIGHT
+dark day,🌑📆,"[':new_moon:', ':tear-off_calendar:']",Direct,LIGHT
+dark day,😈👣,"[':smiling_face_with_horns:', ':footprints:']",Metaphorical,LIGHT
+dark day,🌑,[':new_moon:'],Single,LIGHT
+dark day,🌑🌃,"[':new_moon:', ':night_with_stars:']",Direct,LIGHT
+dark glass,🕶️🥛,"[':sunglasses:', ':glass_of_milk:']",Direct,COLOR
+dark glass,⚫🥛,"[':black_circle:', ':glass_of_milk:']",Direct,COLOR
+dark glass,🕶🕶,"[':sunglasses:', ':sunglasses:']",Reduplication,COLOR
+dark glass,🕶️,[':sunglasses:'],Single,COLOR
+dark glass,🌑🍷,"[':new_moon:', ':wine_glass:']",Direct,COLOR
+dark glass,👿,[':angry_face_with_horns:'],Single,COLOR
+dark glass,🌃,[':night_with_stars:'],Single,COLOR
+dark glass,🕶️,[':sunglasses:'],Single,COLOR
+dark undercurrent,🕶️🌊,"[':sunglasses:', ':water_wave:']",Direct,EVIL
+dark undercurrent,⚫🌊,"[':black_circle:', ':water_wave:']",Direct,EVIL
+dark undercurrent,⚫️⛈,"[':black_circle:', '', ':cloud_with_lightning_and_rain:']",Direct,EVIL
+dark undercurrent,🌑🌊💦,"[':new_moon:', ':water_wave:', ':sweat_droplets:']",Direct,EVIL
+dark undercurrent,🌑🔞🌊,"[':new_moon:', ':no_one_under_eighteen:', ':water_wave:']",Direct,EVIL
+dark undercurrent,👿😱😨,"[':angry_face_with_horns:', ':face_screaming_in_fear:', ':fearful_face:']",Semantic list,EVIL
+dark undercurrent,♠️👿,"[':spade_suit:', ':angry_face_with_horns:']",Metaphorical,EVIL
+dark undercurrent,😈📈,"[':smiling_face_with_horns:', ':chart_increasing:']",Metaphorical,EVIL
+dark corner,🕶️🗳️,"[':sunglasses:', ':ballot_box_with_ballot:']",Direct,LIGHT
+dark corner,⚫🧱,"[':black_circle:', ':brick:']",Direct,LIGHT
+dark corner,🔦🚫🚫,"[':flashlight:', ':prohibited:', ':prohibited:']",Metaphorical,LIGHT
+dark corner,🌑❌💡,"[':new_moon:', ':cross_mark:', ':light_bulb:']",Metaphorical,LIGHT
+dark corner,🌑🏫🤫㊙️,"[':new_moon:', ':school:', ':shushing_face:', ':Japanese_secret_button:']",Metaphorical,LIGHT
+dark corner,😨👹,"[':fearful_face:', ':ogre:']",Metaphorical,LIGHT
+dark corner,🌑🪃,"[':new_moon:', ':boomerang:']",Direct,LIGHT
+dark corner,🕶️🏠,"[':sunglasses:', ':house:']",Direct,LIGHT
+dark purpose,🕶️👿,"[':sunglasses:', ':angry_face_with_horns:']",Metaphorical,EVIL
+dark purpose,⚫😈,"[':black_circle:', ':smiling_face_with_horns:']",Metaphorical,EVIL
+dark purpose,😈😈😈😈,"[':smiling_face_with_horns:', ':smiling_face_with_horns:', ':smiling_face_with_horns:', ':smiling_face_with_horns:']",Reduplication,EVIL
+dark purpose,🌑😵💀,"[':new_moon:', ':face_with_crossed-out_eyes:', ':skull:']",Metaphorical,EVIL
+dark purpose,😈❓🤷‍♀️,"[':smiling_face_with_horns:', ':red_question_mark:', ':woman_shrugging:']",Metaphorical,EVIL
+dark purpose,👿👹👺😏,"[':angry_face_with_horns:', ':ogre:', ':goblin:', ':smirking_face:']",Semantic list,EVIL
+dark purpose,👿😈,"[':angry_face_with_horns:', ':smiling_face_with_horns:']",Reduplication,EVIL
+dark purpose,🌑😈👹,"[':new_moon:', ':smiling_face_with_horns:', ':ogre:']",Metaphorical,EVIL
+right bank,👉🏞️,"[':backhand_index_pointing_right:', ':national_park:']",Direct,POSITION
+right bank,👉🏦,"[':backhand_index_pointing_right:', ':bank:']",Direct,POSITION
+right bank,➡️🏦💰,"[':right_arrow:', ':bank:', ':money_bag:']",Direct,POSITION
+right bank,✅🏦,"[':check_mark_button:', ':bank:']",Direct,POSITION
+right bank,✔️🏦,"[':check_mark:', ':bank:']",Direct,POSITION
+right bank,👉🏦,"[':backhand_index_pointing_right:', ':bank:']",Direct,POSITION
+right bank,👍🏦💰💰💰,"[':thumbs_up:', ':bank:', ':money_bag:', ':money_bag:', ':money_bag:']",Direct,POSITION
+right bank,👍🏦💸💹,"[':thumbs_up:', ':bank:', ':money_with_wings:', ':chart_increasing_with_yen:']",Direct,POSITION
+right hand,✋👉,"[':raised_hand:', ':backhand_index_pointing_right:']",Direct,POSITION
+right hand,👉🖐,"[':backhand_index_pointing_right:', ':hand_with_fingers_splayed:']",Direct,POSITION
+right hand,➡️🖐,"[':right_arrow:', ':hand_with_fingers_splayed:']",Direct,POSITION
+right hand,👉🖐,"[':backhand_index_pointing_right:', ':hand_with_fingers_splayed:']",Direct,POSITION
+right hand,👉🤚,"[':backhand_index_pointing_right:', ':raised_back_of_hand:']",Direct,POSITION
+right hand,👉👋,"[':backhand_index_pointing_right:', ':waving_hand:']",Direct,POSITION
+right hand,👉✔️,"[':backhand_index_pointing_right:', ':check_mark:']",Metaphorical,POSITION
+right hand,🤲🤚,"[':palms_up_together:', ':raised_back_of_hand:']",Metaphorical,POSITION
+right side,👉,[':backhand_index_pointing_right:'],Single,POSITION
+right side,👉👉,"[':backhand_index_pointing_right:', ':backhand_index_pointing_right:']",Reduplication,POSITION
+right side,➡️💁‍♀️,"[':right_arrow:', ':woman_tipping_hand:']",Semantic list,POSITION
+right side,👉🧍,"[':backhand_index_pointing_right:', ':person_standing:']",Metaphorical,POSITION
+right side,👉,[':backhand_index_pointing_right:'],Single,POSITION
+right side,👉,[':backhand_index_pointing_right:'],Single,POSITION
+right side,👤👉,"[':bust_in_silhouette:', ':backhand_index_pointing_right:']",Metaphorical,POSITION
+right side,➡️🧑‍🤝‍🧑👈,"[':right_arrow:', ':people_holding_hands:', ':backhand_index_pointing_left:']",Metaphorical,POSITION
+right decision,✔️,[':check_mark:'],Single,CORRECTNESS
+right decision,✔️💡👩👍,"[':check_mark:', ':light_bulb:', ':woman:', ':thumbs_up:']",Direct,CORRECTNESS
+right decision,➡️🤝,"[':right_arrow:', ':handshake:']",Direct,CORRECTNESS
+right decision,✅🧠,"[':check_mark_button:', ':brain:']",Direct,CORRECTNESS
+right decision,👍,[':thumbs_up:'],Single,CORRECTNESS
+right decision,✅,[':check_mark_button:'],Single,CORRECTNESS
+right decision,🤔💭💡📈,"[':thinking_face:', ':thought_balloon:', ':light_bulb:', ':chart_increasing:']",Metaphorical,CORRECTNESS
+right decision,🤔✅,"[':thinking_face:', ':check_mark_button:']",Metaphorical,CORRECTNESS
+right answer,✔️,[':check_mark:'],Single,CORRECTNESS
+right answer,✔️📄✍️,"[':check_mark:', ':page_facing_up:', ':writing_hand:']",Direct,CORRECTNESS
+right answer,➡️✍️✅,"[':right_arrow:', ':writing_hand:', ':check_mark_button:']",Direct,CORRECTNESS
+right answer,✅📝,"[':check_mark_button:', ':memo:']",Direct,CORRECTNESS
+right answer,💯,[':hundred_points:'],Single,CORRECTNESS
+right answer,✅,[':check_mark_button:'],Single,CORRECTNESS
+right answer,🤔❓📝💡✏️✔️,"[':thinking_face:', ':red_question_mark:', ':memo:', ':light_bulb:', ':pencil:', ':check_mark:']",Metaphorical,CORRECTNESS
+right answer,🙋‍♀️👍✅,"[':woman_raising_hand:', ':thumbs_up:', ':check_mark_button:']",Metaphorical,CORRECTNESS
+right man,✔️👨,"[':check_mark:', ':man:']",Direct,APPROPRIATENESS
+right man,✔️👨💕,"[':check_mark:', ':man:', ':two_hearts:']",Direct,APPROPRIATENESS
+right man,➡️👨👌,"[':right_arrow:', ':man:', ':OK_hand:']",Direct,APPROPRIATENESS
+right man,👍🕴️,"[':thumbs_up:', ':person_in_suit_levitating:']",Direct,APPROPRIATENESS
+right man,👍👨,"[':thumbs_up:', ':man:']",Direct,APPROPRIATENESS
+right man,👉👱🏻‍♂️,"[':backhand_index_pointing_right:', ':man_light_skin_tone_blond_hair:']",Direct,APPROPRIATENESS
+right man,👩😍👨✔️,"[':woman:', ':smiling_face_with_heart-eyes:', ':man:', ':check_mark:']",Metaphorical,APPROPRIATENESS
+right man,👩‍❤️‍💋‍👨👨‍👩‍👦‍👦,"[':kiss_woman_man:', ':family_man_woman_boy_boy:']",Metaphorical,APPROPRIATENESS
+right road,👉🛣️,"[':backhand_index_pointing_right:', ':motorway:']",Direct,CORRECTNESS
+right road,👉🛣️,"[':backhand_index_pointing_right:', ':motorway:']",Direct,CORRECTNESS
+right road,➡️🛣️,"[':right_arrow:', ':motorway:']",Direct,CORRECTNESS
+right road,✅🛣️,"[':check_mark_button:', ':motorway:']",Direct,CORRECTNESS
+right road,✔️🛣️,"[':check_mark:', ':motorway:']",Direct,CORRECTNESS
+right road,👉🛣,"[':backhand_index_pointing_right:', ':motorway:']",Direct,CORRECTNESS
+right road,🚗🛣️✔️,"[':automobile:', ':motorway:', ':check_mark:']",Direct,CORRECTNESS
+right road,🛣️↗️,"[':motorway:', ':up-right_arrow:']",Metaphorical,CORRECTNESS
+right thing,✔️,[':check_mark:'],Single,RIGHTNESS
+right thing,✔️👍,"[':check_mark:', ':thumbs_up:']",Metaphorical,RIGHTNESS
+right thing,➡️💯,"[':right_arrow:', ':hundred_points:']",Metaphorical,RIGHTNESS
+right thing,👍✅,"[':thumbs_up:', ':check_mark_button:']",Metaphorical,RIGHTNESS
+right thing,👍,[':thumbs_up:'],Single,RIGHTNESS
+right thing,💯,[':hundred_points:'],Single,RIGHTNESS
+right thing,🗣️✔️,"[':speaking_head:', ':check_mark:']",Metaphorical,RIGHTNESS
+right thing,😀👍,"[':grinning_face:', ':thumbs_up:']",Metaphorical,RIGHTNESS
+short holiday,🩳🏖,"[':shorts:', ':beach_with_umbrella:']",Direct,DURATION
+short holiday,🥲🤏✈️⛩️,"[':smiling_face_with_tear:', ':pinching_hand:', ':airplane:', ':shinto_shrine:']",Metaphorical,DURATION
+short holiday,⏳🏖️✈️🧳,"[':hourglass_not_done:', ':beach_with_umbrella:', ':airplane:', ':luggage:']",Direct,DURATION
+short holiday,⌛🏖,"[':hourglass_done:', ':beach_with_umbrella:']",Direct,DURATION
+short holiday,↔️🏝️🍾💆🧖🧘,"[':left-right_arrow:', ':desert_island:', ':bottle_with_popping_cork:', ':person_getting_massage:', ':person_in_steamy_room:', ':person_in_lotus_position:']",Metaphorical,DURATION
+short holiday,🤏🏖️,"[':pinching_hand:', ':beach_with_umbrella:']",Direct,DURATION
+short holiday,🤏🧳🛄,"[':pinching_hand:', ':luggage:', ':baggage_claim:']",Metaphorical,DURATION
+short holiday,🛫🛬,"[':airplane_departure:', ':airplane_arrival:']",Metaphorical,DURATION
+short ration,🩳🍚,"[':shorts:', ':cooked_rice:']",Direct,QUANTITY
+short ration,🤏🍠🍞🥚,"[':pinching_hand:', ':roasted_sweet_potato:', ':bread:', ':egg:']",Direct,QUANTITY
+short ration,🤏🥔🍠🍚,"[':pinching_hand:', ':potato:', ':roasted_sweet_potato:', ':cooked_rice:']",Direct,QUANTITY
+short ration,❎🥘,"[':cross_mark_button:', ':shallow_pan_of_food:']",Direct,QUANTITY
+short ration,⏬🍚🍜,"[':fast_down_button:', ':cooked_rice:', ':steaming_bowl:']",Direct,QUANTITY
+short ration,🤏🍞,"[':pinching_hand:', ':bread:']",Direct,QUANTITY
+short ration,🤏🌾,"[':pinching_hand:', ':sheaf_of_rice:']",Direct,QUANTITY
+short ration,🤏🥔,"[':pinching_hand:', ':potato:']",Direct,QUANTITY
+short hair,🩳👩🏻‍🦰,"[':shorts:', ':woman_light_skin_tone_red_hair:']",Direct,LENGTH
+short hair,💇‍♀️➡️👩‍🦰,"[':woman_getting_haircut:', ':right_arrow:', ':woman_red_hair:']",Metaphorical,LENGTH
+short hair,💇,[':person_getting_haircut:'],Single,LENGTH
+short hair,🤏🦱,"[':pinching_hand:', ':curly_hair:']",Direct,LENGTH
+short hair,👩‍🦰👩‍🦱🧑‍🦱,"[':woman_red_hair:', ':woman_curly_hair:', ':person_curly_hair:']",Semantic list,LENGTH
+short hair,💇‍♀️,[':woman_getting_haircut:'],Single,LENGTH
+short hair,🤏💇‍♀️,"[':pinching_hand:', ':woman_getting_haircut:']",Direct,LENGTH
+short hair,👨‍🦱👩‍🦱,"[':man_curly_hair:', ':woman_curly_hair:']",Semantic list,LENGTH
+short smokestack,🩳🛳💨,"[':shorts:', ':passenger_ship:', ':dashing_away:']",Direct,STATURE
+short smokestack,🤏🏭,"[':pinching_hand:', ':factory:']",Direct,STATURE
+short smokestack,🚢💨,"[':ship:', ':dashing_away:']",Metaphorical,STATURE
+short smokestack,🤏🏭,"[':pinching_hand:', ':factory:']",Direct,STATURE
+short smokestack,♨️🫁💨,"[':hot_springs:', ':lungs:', ':dashing_away:']",Metaphorical,STATURE
+short smokestack,🤏🔩⚙️,"[':pinching_hand:', ':nut_and_bolt:', ':gear:']",Metaphorical,STATURE
+short smokestack,🤏🚢,"[':pinching_hand:', ':ship:']",Direct,STATURE
+short smokestack,🤏🚬📦,"[':pinching_hand:', ':cigarette:', ':package:']",Direct,STATURE
+short supply,🩳🔌,"[':shorts:', ':electric_plug:']",Direct,QUANTITY
+short supply,🤏💡⚡,"[':pinching_hand:', ':light_bulb:', ':high_voltage:']",Direct,QUANTITY
+short supply,❌✏️🪓🔧,"[':cross_mark:', ':pencil:', ':axe:', ':wrench:']",Direct,QUANTITY
+short supply,❎🚰,"[':cross_mark_button:', ':potable_water:']",Direct,QUANTITY
+short supply,⏬🧥👚👕👖,"[':fast_down_button:', ':coat:', ':woman’s_clothes:', ':t-shirt:', ':jeans:']",Direct,QUANTITY
+short supply,‼️⚠️🍞,"[':double_exclamation_mark:', ':warning:', ':bread:']",Direct,QUANTITY
+short supply,🛖❌,"[':hut:', ':cross_mark:']",Direct,QUANTITY
+short supply,🤏📦,"[':pinching_hand:', ':package:']",Direct,QUANTITY
+short money,🩳💵,"[':shorts:', ':dollar_banknote:']",Direct,QUANTITY
+short money,🤏💲,"[':pinching_hand:', ':heavy_dollar_sign:']",Direct,QUANTITY
+short money,❌💰,"[':cross_mark:', ':money_bag:']",Direct,QUANTITY
+short money,❎💰,"[':cross_mark_button:', ':money_bag:']",Direct,QUANTITY
+short money,🤷💸💸💸,"[':person_shrugging:', ':money_with_wings:', ':money_with_wings:', ':money_with_wings:']",Metaphorical,QUANTITY
+short money,🤏💵,"[':pinching_hand:', ':dollar_banknote:']",Direct,QUANTITY
+short money,💰💸😔,"[':money_bag:', ':money_with_wings:', ':pensive_face:']",Metaphorical,QUANTITY
+short money,🤏💷,"[':pinching_hand:', ':pound_banknote:']",Direct,QUANTITY
+short flight,🩳✈️,"[':shorts:', ':airplane:']",Direct,DURATION
+short flight,🥲✈️,"[':smiling_face_with_tear:', ':airplane:']",Metaphorical,DURATION
+short flight,⏳✈️,"[':hourglass_not_done:', ':airplane:']",Direct,DURATION
+short flight,⏳✈,"[':hourglass_not_done:', ':airplane:']",Direct,DURATION
+short flight,⏳✈️🛫🛬,"[':hourglass_not_done:', ':airplane:', ':airplane_departure:', ':airplane_arrival:']",Direct,DURATION
+short flight,🤏✈️,"[':pinching_hand:', ':airplane:']",Direct,DURATION
+short flight,🛫🤏⌛🛬,"[':airplane_departure:', ':pinching_hand:', ':hourglass_done:', ':airplane_arrival:']",Metaphorical,DURATION
+short flight,🛫🛬,"[':airplane_departure:', ':airplane_arrival:']",Metaphorical,DURATION
+short month,🩳🗓,"[':shorts:', ':spiral_calendar:']",Direct,DURATION
+short month,🤏📅,"[':pinching_hand:', ':calendar:']",Direct,DURATION
+short month,⏳🗓️,"[':hourglass_not_done:', ':spiral_calendar:']",Direct,DURATION
+short month,⌛🗓,"[':hourglass_done:', ':spiral_calendar:']",Direct,DURATION
+short month,⏳🗓️📅,"[':hourglass_not_done:', ':spiral_calendar:', ':calendar:']",Direct,DURATION
+short month,🔜📅,"[':SOON_arrow:', ':calendar:']",Direct,DURATION
+short month,🤏⌛🗓️,"[':pinching_hand:', ':hourglass_done:', ':spiral_calendar:']",Direct,DURATION
+short month,⌛📅,"[':hourglass_done:', ':calendar:']",Direct,DURATION
+short story,🩳📖,"[':shorts:', ':open_book:']",Direct,DURATION
+short story,🤏📙📖,"[':pinching_hand:', ':orange_book:', ':open_book:']",Direct,DURATION
+short story,⏳📕,"[':hourglass_not_done:', ':closed_book:']",Direct,DURATION
+short story,⌛📔,"[':hourglass_done:', ':notebook_with_decorative_cover:']",Direct,DURATION
+short story,⌚📖,"[':watch:', ':open_book:']",Direct,DURATION
+short story,🤏🗣️,"[':pinching_hand:', ':speaking_head:']",Direct,DURATION
+short story,🤏🗣️📖,"[':pinching_hand:', ':speaking_head:', ':open_book:']",Direct,DURATION
+short story,⌛📖,"[':hourglass_done:', ':open_book:']",Direct,DURATION
+short life,🩳👽,"[':shorts:', ':alien:']",Direct,DURATION
+short life,🤏☠️,"[':pinching_hand:', ':skull_and_crossbones:']",Direct,DURATION
+short life,⏳🕐👩‍🦳🧓,"[':hourglass_not_done:', ':one_o’clock:', ':woman_white_hair:', ':older_person:']",Metaphorical,DURATION
+short life,👋😀⌛,"[':waving_hand:', ':grinning_face:', ':hourglass_done:']",Metaphorical,DURATION
+short life,⏳🫀💓,"[':hourglass_not_done:', ':anatomical_heart:', ':beating_heart:']",Metaphorical,DURATION
+short life,👨‍👩‍👧‍👧👉💀👨‍👩‍👧,"[':family_man_woman_girl_girl:', ':backhand_index_pointing_right:', ':skull:', ':family_man_woman_girl:']",Metaphorical,DURATION
+short life,👶🧓⚰️⌛🤏,"[':baby:', ':older_person:', ':coffin:', ':hourglass_done:', ':pinching_hand:']",Metaphorical,DURATION
+short life,⌛⚰️,"[':hourglass_done:', ':coffin:']",Metaphorical,DURATION
+far journey,⏱️🗺️🥲,"[':stopwatch:', ':world_map:', ':smiling_face_with_tear:']",Direct,DISTANCE
+far journey,👣🛣️,"[':footprints:', ':motorway:']",Metaphorical,DISTANCE
+far journey,😪🗺️,"[':sleepy_face:', ':world_map:']",Metaphorical,DISTANCE
+far journey,⏳🚗✈️🛤️,"[':hourglass_not_done:', ':automobile:', ':airplane:', ':railway_track:']",Direct,DISTANCE
+far journey,🛤🚢🗺,"[':railway_track:', ':ship:', ':world_map:']",Metaphorical,DISTANCE
+far journey,🛣️🚌,"[':motorway:', ':bus:']",Metaphorical,DISTANCE
+far journey,🗺️🔭,"[':world_map:', ':telescope:']",Direct,DISTANCE
+far side,🧍🌎🧍,"[':person_standing:', ':globe_showing_Americas:', ':person_standing:']",Metaphorical,DISTANCE
+far side,↙️🛣️,"[':down-left_arrow:', ':motorway:']",Metaphorical,DISTANCE
+far side,😪👉,"[':sleepy_face:', ':backhand_index_pointing_right:']",Metaphorical,DISTANCE
+far side,🚫🔜📏,"[':prohibited:', ':SOON_arrow:', ':straight_ruler:']",Metaphorical,DISTANCE
+far side,↔️,[':left-right_arrow:'],Single,DISTANCE
+far side,⬆️,[':up_arrow:'],Single,DISTANCE
+far side,↗️↗️,"[':up-right_arrow:', ':up-right_arrow:']",Reduplication,DISTANCE
+far trek,🚶🌾🏔️🧭,"[':person_walking:', ':sheaf_of_rice:', ':snow-capped_mountain:', ':compass:']",Metaphorical,LENGTH
+far trek,🚶‍♀️🚶💦,"[':woman_walking:', ':person_walking:', ':sweat_droplets:']",Metaphorical,LENGTH
+far trek,😵‍💫🚶‍♀️,"[':face_with_spiral_eyes:', ':woman_walking:']",Metaphorical,LENGTH
+far trek,🚫🔜🥾🚶,"[':prohibited:', ':SOON_arrow:', ':hiking_boot:', ':person_walking:']",Direct,LENGTH
+far trek,🧗‍♂️🗺,"[':man_climbing:', ':world_map:']",Metaphorical,LENGTH
+far trek,🚶‍♂️🥾,"[':man_walking:', ':hiking_boot:']",Metaphorical,LENGTH
+far trek,🚶🎒🌲🌲,"[':person_walking:', ':backpack:', ':evergreen_tree:', ':evergreen_tree:']",Metaphorical,LENGTH
+far country,🌎↔️🌏,"[':globe_showing_Americas:', ':left-right_arrow:', ':globe_showing_Asia-Australia:']",Metaphorical,DISTANCE
+far country,🧳🛫🕧,"[':luggage:', ':airplane_departure:', ':twelve-thirty:']",Metaphorical,DISTANCE
+far country,😵‍💫🇦🇽,"[':face_with_spiral_eyes:', ':Åland_Islands:']",Metaphorical,DISTANCE
+far country,🚫🔜🇺🇸🇨🇵🇨🇮🇦🇨🇦🇽,"[':prohibited:', ':SOON_arrow:', ':United_States:', ':Clipperton_Island:', ':Côte_d’Ivoire:', ':Ascension_Island:', ':Åland_Islands:']",Direct,DISTANCE
+far country,🗺↔️,"[':world_map:', ':left-right_arrow:']",Direct,DISTANCE
+far country,🗺️🛳️🛫,"[':world_map:', ':passenger_ship:', ':airplane_departure:']",Metaphorical,DISTANCE
+far country,🌎⤴️↗️,"[':globe_showing_Americas:', ':right_arrow_curving_up:', ':up-right_arrow:']",Metaphorical,DISTANCE
+average people,👧🧒👦,"[':girl:', ':child:', ':boy:']",Semantic list,COMMONNESS
+average people,🧑‍🤝‍🧑👭👬🙆‍♀️,"[':people_holding_hands:', ':women_holding_hands:', ':men_holding_hands:', ':woman_gesturing_OK:']",Direct,COMMONNESS
+average people,😕👨,"[':confused_face:', ':man:']",Direct,COMMONNESS
+average people,👨🧑👩👧,"[':man:', ':person:', ':woman:', ':girl:']",Semantic list,COMMONNESS
+average people,🧍‍♂️🧍‍♀️🧍,"[':man_standing:', ':woman_standing:', ':person_standing:']",Semantic list,COMMONNESS
+average people,🙎‍♂️🙎‍♀️,"[':man_pouting:', ':woman_pouting:']",Semantic list,COMMONNESS
+average people,👨🧑🤷,"[':man:', ':person:', ':person_shrugging:']",Metaphorical,COMMONNESS
+average merit,📝👌,"[':memo:', ':OK_hand:']",Metaphorical,ORDINARINESS
+average merit,🏆🏆🙆‍♀️,"[':trophy:', ':trophy:', ':woman_gesturing_OK:']",Metaphorical,ORDINARINESS
+average merit,😐💯,"[':neutral_face:', ':hundred_points:']",Direct,ORDINARINESS
+average merit,😐💼🥉,"[':neutral_face:', ':briefcase:', ':3rd_place_medal:']",Direct,ORDINARINESS
+average merit,🥈,[':2nd_place_medal:'],Single,ORDINARINESS
+average merit,🙆‍♂️🙆,"[':man_gesturing_OK:', ':person_gesturing_OK:']",Semantic list,ORDINARINESS
+average merit,🏅🤷,"[':sports_medal:', ':person_shrugging:']",Direct,ORDINARINESS
+average size,🧍,[':person_standing:'],Single,MODERATION
+average size,👕👍👎,"[':t-shirt:', ':thumbs_up:', ':thumbs_down:']",Metaphorical,MODERATION
+average size,🤨🤲,"[':face_with_raised_eyebrow:', ':palms_up_together:']",Metaphorical,MODERATION
+average size,❌⬛❌▪,"[':cross_mark:', ':black_large_square:', ':cross_mark:', ':black_small_square:']",Metaphorical,MODERATION
+average size,〰️⚖️,"[':wavy_dash:', ':balance_scale:']",Direct,MODERATION
+average size,🧍‍♂️🧍,"[':man_standing:', ':person_standing:']",Semantic list,MODERATION
+average size,🤷📏,"[':person_shrugging:', ':straight_ruler:']",Direct,MODERATION
+dirty job,👎📝,"[':thumbs_down:', ':memo:']",Direct,CLEANNESS
+dirty job,💩🧹,"[':pile_of_poo:', ':broom:']",Direct,CLEANNESS
+dirty job,🪠🚽🧹,"[':plunger:', ':toilet:', ':broom:']",Metaphorical,CLEANNESS
+dirty job,🦠💣🦹‍♂️🦠🦹💣🦠,"[':microbe:', ':bomb:', ':man_supervillain:', ':microbe:', ':supervillain:', ':bomb:', ':microbe:']",Metaphorical,CLEANNESS
+dirty job,🤮🤢👷‍♂️,"[':face_vomiting:', ':nauseated_face:', ':man_construction_worker:']",Direct,CLEANNESS
+dirty job,💩💼,"[':pile_of_poo:', ':briefcase:']",Direct,CLEANNESS
+dirty job,🤢🧳,"[':nauseated_face:', ':luggage:']",Direct,CLEANNESS
+dirty job,🚽👷🛠️,"[':toilet:', ':construction_worker:', ':hammer_and_wrench:']",Metaphorical,CLEANNESS
+dirty foot,👎🦶,"[':thumbs_down:', ':foot:']",Direct,CLEANNESS
+dirty foot,🤢🦶,"[':nauseated_face:', ':foot:']",Direct,CLEANNESS
+dirty foot,🥵🦶💩,"[':hot_face:', ':foot:', ':pile_of_poo:']",Direct,CLEANNESS
+dirty foot,🧼🦶,"[':soap:', ':foot:']",Metaphorical,CLEANNESS
+dirty foot,🤮🦶,"[':face_vomiting:', ':foot:']",Direct,CLEANNESS
+dirty foot,💩👣,"[':pile_of_poo:', ':footprints:']",Direct,CLEANNESS
+dirty foot,😖🦶,"[':confounded_face:', ':foot:']",Direct,CLEANNESS
+dirty foot,👃🦶🤢,"[':nose:', ':foot:', ':nauseated_face:']",Metaphorical,CLEANNESS
+dirty dish,👎🐟,"[':thumbs_down:', ':fish:']",Direct,CLEANNESS
+dirty dish,🍽️🪰,"[':fork_and_knife_with_plate:', ':fly:']",Metaphorical,CLEANNESS
+dirty dish,🍽️😰👎,"[':fork_and_knife_with_plate:', ':anxious_face_with_sweat:', ':thumbs_down:']",Metaphorical,CLEANNESS
+dirty dish,🧼🍽️,"[':soap:', ':fork_and_knife_with_plate:']",Metaphorical,CLEANNESS
+dirty dish,🤮🍽,"[':face_vomiting:', ':fork_and_knife_with_plate:']",Direct,CLEANNESS
+dirty dish,💩🍽️,"[':pile_of_poo:', ':fork_and_knife_with_plate:']",Direct,CLEANNESS
+dirty dish,🤮🍽,"[':face_vomiting:', ':fork_and_knife_with_plate:']",Direct,CLEANNESS
+dirty dish,🧼🍽️🧫,"[':soap:', ':fork_and_knife_with_plate:', ':petri_dish:']",Metaphorical,CLEANNESS
+dirty slum,👎🏚️,"[':thumbs_down:', ':derelict_house:']",Direct,CLEANNESS
+dirty slum,🪰🏠,"[':fly:', ':house:']",Metaphorical,CLEANNESS
+dirty slum,🦠🛖🦠,"[':microbe:', ':hut:', ':microbe:']",Direct,CLEANNESS
+dirty slum,🧼🦠🏚️,"[':soap:', ':microbe:', ':derelict_house:']",Metaphorical,CLEANNESS
+dirty slum,🤮🛖,"[':face_vomiting:', ':hut:']",Direct,CLEANNESS
+dirty slum,💩💸🏠,"[':pile_of_poo:', ':money_with_wings:', ':house:']",Direct,CLEANNESS
+dirty slum,🥴🧟‍♂️,"[':woozy_face:', ':man_zombie:']",Metaphorical,CLEANNESS
+dirty slum,😣🔞💸,"[':persevering_face:', ':no_one_under_eighteen:', ':money_with_wings:']",Metaphorical,CLEANNESS
+dirty work,👎📝,"[':thumbs_down:', ':memo:']",Direct,CLEANNESS
+dirty work,🚔📃,"[':oncoming_police_car:', ':page_with_curl:']",Metaphorical,CLEANNESS
+dirty work,🪠🚽🧹💰👵👴,"[':plunger:', ':toilet:', ':broom:', ':money_bag:', ':old_woman:', ':old_man:']",Metaphorical,CLEANNESS
+dirty work,🦠💼,"[':microbe:', ':briefcase:']",Metaphorical,CLEANNESS
+dirty work,🤮🛠,"[':face_vomiting:', ':hammer_and_wrench:']",Direct,CLEANNESS
+dirty work,💩⛑️💼,"[':pile_of_poo:', ':rescue_worker’s_helmet:', ':briefcase:']",Direct,CLEANNESS
+dirty work,😒🧳,"[':unamused_face:', ':luggage:']",Direct,CLEANNESS
+dirty work,🚽👷🛠️,"[':toilet:', ':construction_worker:', ':hammer_and_wrench:']",Metaphorical,CLEANNESS
+dirty money,👎💰,"[':thumbs_down:', ':money_bag:']",Direct,LEGALITY
+dirty money,🤑💸🦹,"[':money-mouth_face:', ':money_with_wings:', ':supervillain:']",Metaphorical,LEGALITY
+dirty money,😈💵💵🚫👉👮,"[':smiling_face_with_horns:', ':dollar_banknote:', ':dollar_banknote:', ':prohibited:', ':backhand_index_pointing_right:', ':police_officer:']",Metaphorical,LEGALITY
+dirty money,🦠🤐🤑💸🦠,"[':microbe:', ':zipper-mouth_face:', ':money-mouth_face:', ':money_with_wings:', ':microbe:']",Metaphorical,LEGALITY
+dirty money,🤮💵,"[':face_vomiting:', ':dollar_banknote:']",Direct,LEGALITY
+dirty money,💩💵💰,"[':pile_of_poo:', ':dollar_banknote:', ':money_bag:']",Direct,LEGALITY
+dirty money,😒💰,"[':unamused_face:', ':money_bag:']",Metaphorical,LEGALITY
+dirty money,🚓🛑💵💵💵,"[':police_car:', ':stop_sign:', ':dollar_banknote:', ':dollar_banknote:', ':dollar_banknote:']",Metaphorical,LEGALITY
+dirty overall,👎🧥,"[':thumbs_down:', ':coat:']",Metaphorical,CLEANNESS
+dirty overall,🤢🤮😒,"[':nauseated_face:', ':face_vomiting:', ':unamused_face:']",Semantic list,CLEANNESS
+dirty overall,😵‍💫😖👉🛁,"[':face_with_spiral_eyes:', ':confounded_face:', ':backhand_index_pointing_right:', ':bathtub:']",Metaphorical,CLEANNESS
+dirty overall,🧼👕,"[':soap:', ':t-shirt:']",Metaphorical,CLEANNESS
+dirty overall,🤮👗👚,"[':face_vomiting:', ':dress:', ':woman’s_clothes:']",Direct,CLEANNESS
+dirty overall,💩👘,"[':pile_of_poo:', ':kimono:']",Direct,CLEANNESS
+dirty overall,🧍‍♂️🤢,"[':man_standing:', ':nauseated_face:']",Direct,CLEANNESS
+dirty overall,💩👖,"[':pile_of_poo:', ':jeans:']",Direct,CLEANNESS
+dirty fighter,👎🥊,"[':thumbs_down:', ':boxing_glove:']",Direct,FAIRNESS
+dirty fighter,🤬😡,"[':face_with_symbols_on_mouth:', ':pouting_face:']",Metaphorical,FAIRNESS
+dirty fighter,❌⚖️ 💪👨‍🦲💢,"[':cross_mark:', ':balance_scale:', ':flexed_biceps:', ':man_bald:', ':anger_symbol:']",Metaphorical,FAIRNESS
+dirty fighter,🤬🤼‍♂️,"[':face_with_symbols_on_mouth:', ':men_wrestling:']",Direct,FAIRNESS
+dirty fighter,🤮🥋,"[':face_vomiting:', ':martial_arts_uniform:']",Direct,FAIRNESS
+dirty fighter,💩👊🥊,"[':pile_of_poo:', ':oncoming_fist:', ':boxing_glove:']",Direct,FAIRNESS
+dirty fighter,😑😒🥊,"[':expressionless_face:', ':unamused_face:', ':boxing_glove:']",Metaphorical,FAIRNESS
+dirty fighter,👿👊🥊🤼,"[':angry_face_with_horns:', ':oncoming_fist:', ':boxing_glove:', ':people_wrestling:']",Metaphorical,FAIRNESS
+common procedure,🖥,[':desktop_computer:'],Single,COMMONNESS
+common procedure,😬📋1️⃣2️⃣3️⃣,"[':grimacing_face:', ':clipboard:', ':keycap_1:', ':keycap_2:', ':keycap_3:']",Metaphorical,COMMONNESS
+common procedure,👥🔃,"[':busts_in_silhouette:', ':clockwise_vertical_arrows:']",Direct,COMMONNESS
+common procedure,▶️🪜,"[':play_button:', ':ladder:']",Metaphorical,COMMONNESS
+common procedure,🤲✍️,"[':palms_up_together:', ':writing_hand:']",Metaphorical,COMMONNESS
+common procedure,🪛🔧🤝,"[':screwdriver:', ':wrench:', ':handshake:']",Metaphorical,COMMONNESS
+common procedure,👥💉🩺🩹🩸🧑‍⚕️👥,"[':busts_in_silhouette:', ':syringe:', ':stethoscope:', ':adhesive_bandage:', ':drop_of_blood:', ':health_worker:', ':busts_in_silhouette:']",Metaphorical,COMMONNESS
+common procedure,🔄🧑‍⚕️💉,"[':counterclockwise_arrows_button:', ':health_worker:', ':syringe:']",Metaphorical,COMMONNESS
+common knowledge,🧐🧠,"[':face_with_monocle:', ':brain:']",Metaphorical,COMMONNESS
+common knowledge,🧠🤔😒,"[':brain:', ':thinking_face:', ':unamused_face:']",Metaphorical,COMMONNESS
+common knowledge,👥📚,"[':busts_in_silhouette:', ':books:']",Direct,COMMONNESS
+common knowledge,▶️🧠,"[':play_button:', ':brain:']",Direct,COMMONNESS
+common knowledge,🤲🧠,"[':palms_up_together:', ':brain:']",Direct,COMMONNESS
+common knowledge,🥸👫🤲,"[':disguised_face:', ':woman_and_man_holding_hands:', ':palms_up_together:']",Metaphorical,COMMONNESS
+common knowledge,👥📚📖👥,"[':busts_in_silhouette:', ':books:', ':open_book:', ':busts_in_silhouette:']",Metaphorical,COMMONNESS
+common knowledge,🧠🧠🌎,"[':brain:', ':brain:', ':globe_showing_Americas:']",Direct,COMMONNESS
+common land,🏞,[':national_park:'],Single,COMMONALITY
+common land,🌆🏙️🌉🏝️,"[':cityscape_at_dusk:', ':cityscape:', ':bridge_at_night:', ':desert_island:']",Semantic list,COMMONALITY
+common land,👥⛰,"[':busts_in_silhouette:', ':mountain:']",Direct,COMMONALITY
+common land,▶️🧱,"[':play_button:', ':brick:']",Metaphorical,COMMONALITY
+common land,🤲🌆,"[':palms_up_together:', ':cityscape_at_dusk:']",Direct,COMMONALITY
+common land,🤝🏝️,"[':handshake:', ':desert_island:']",Direct,COMMONALITY
+common land,👥🏝️🙌👥,"[':busts_in_silhouette:', ':desert_island:', ':raising_hands:', ':busts_in_silhouette:']",Direct,COMMONALITY
+common land,🌎🇦🇽🇮🇴🇻🇬🇧🇶🇧🇶🇰🇾,"[':globe_showing_Americas:', ':Åland_Islands:', ':British_Indian_Ocean_Territory:', ':British_Virgin_Islands:', ':Caribbean_Netherlands:', ':Caribbean_Netherlands:', ':Cayman_Islands:']",Semantic list,COMMONALITY
+common nuisance,🤬,[':face_with_symbols_on_mouth:'],Single,COMMONNESS
+common nuisance,😒😒,"[':unamused_face:', ':unamused_face:']",Reduplication,COMMONNESS
+common nuisance,👥😩,"[':busts_in_silhouette:', ':weary_face:']",Direct,COMMONNESS
+common nuisance,🤒🤕,"[':face_with_thermometer:', ':face_with_head-bandage:']",Semantic list,COMMONNESS
+common nuisance,🤲🙅‍♂️,"[':palms_up_together:', ':man_gesturing_NO:']",Direct,COMMONNESS
+common nuisance,😒💢🙍‍♂️,"[':unamused_face:', ':anger_symbol:', ':man_frowning:']",Semantic list,COMMONNESS
+common nuisance,👥🪰🪳🕷️👥,"[':busts_in_silhouette:', ':fly:', ':cockroach:', ':spider:', ':busts_in_silhouette:']",Metaphorical,COMMONNESS
+common nuisance,😝😝🔄,"[':squinting_face_with_tongue:', ':squinting_face_with_tongue:', ':counterclockwise_arrows_button:']",Metaphorical,COMMONNESS
+common sailor,⛵️👨🏻⚓️,"[':sailboat:', '', ':man_light_skin_tone:', ':anchor:', '']",Metaphorical,COMMONNESS
+common sailor,🚢⚓👬,"[':ship:', ':anchor:', ':men_holding_hands:']",Metaphorical,COMMONNESS
+common sailor,👥👱‍♂️⛵️,"[':busts_in_silhouette:', ':man_blond_hair:', ':sailboat:', '']",Direct,COMMONNESS
+common sailor,▶️⛵,"[':play_button:', ':sailboat:']",Metaphorical,COMMONNESS
+common sailor,🤲⛵👨,"[':palms_up_together:', ':sailboat:', ':man:']",Direct,COMMONNESS
+common sailor,🚤👦,"[':speedboat:', ':boy:']",Metaphorical,COMMONNESS
+common sailor,👨‍✈️⚓,"[':man_pilot:', ':anchor:']",Metaphorical,COMMONNESS
+common sailor,🧑‍✈️🚤,"[':pilot:', ':speedboat:']",Metaphorical,COMMONNESS
+common housefly,🪰,[':fly:'],Single,COMMONNESS
+common housefly,🪰😐,"[':fly:', ':neutral_face:']",Direct,COMMONNESS
+common housefly,👥🪰,"[':busts_in_silhouette:', ':fly:']",Direct,COMMONNESS
+common housefly,🏘️🏘️🏘️🪰🪰🪰🪰🪰,"[':houses:', ':houses:', ':houses:', ':fly:', ':fly:', ':fly:', ':fly:', ':fly:']",Reduplication,COMMONNESS
+common housefly,🤲🪰,"[':palms_up_together:', ':fly:']",Direct,COMMONNESS
+common housefly,🪰,[':fly:'],Single,COMMONNESS
+common housefly,👥👥🪰,"[':busts_in_silhouette:', ':busts_in_silhouette:', ':fly:']",Direct,COMMONNESS
+common housefly,🏠🪰,"[':house:', ':fly:']",Direct,COMMONNESS
+common man,👨🏻,[':man_light_skin_tone:'],Single,COMMONNESS
+common man,🧍🧍🤷,"[':person_standing:', ':person_standing:', ':person_shrugging:']",Metaphorical,COMMONNESS
+common man,👥🧍‍♂️,"[':busts_in_silhouette:', ':man_standing:']",Metaphorical,COMMONNESS
+common man,▶️👦👦👦,"[':play_button:', ':boy:', ':boy:', ':boy:']",Metaphorical,COMMONNESS
+common man,🤲👨,"[':palms_up_together:', ':man:']",Direct,COMMONNESS
+common man,👨,[':man:'],Single,COMMONNESS
+common man,👨👨👨👨,"[':man:', ':man:', ':man:', ':man:']",Reduplication,COMMONNESS
+common man,👨🧑‍🦱👨‍🦱,"[':man:', ':person_curly_hair:', ':man_curly_hair:']",Semantic list,COMMONNESS
+common parlance,👩‍💼🗣💼,"[':woman_office_worker:', ':speaking_head:', ':briefcase:']",Metaphorical,FORMALITY
+common parlance,🗣️✅🆗,"[':speaking_head:', ':check_mark_button:', ':OK_button:']",Metaphorical,FORMALITY
+common parlance,👥🗣,"[':busts_in_silhouette:', ':speaking_head:']",Direct,FORMALITY
+common parlance,▶️🗣️,"[':play_button:', ':speaking_head:']",Metaphorical,FORMALITY
+common parlance,🤲🤝,"[':palms_up_together:', ':handshake:']",Metaphorical,FORMALITY
+common parlance,👏👦🧑‍🦱,"[':clapping_hands:', ':boy:', ':person_curly_hair:']",Metaphorical,FORMALITY
+common parlance,🗣️↔️🗣️,"[':speaking_head:', ':left-right_arrow:', ':speaking_head:']",Metaphorical,FORMALITY
+common parlance,📓📔💬💭,"[':notebook:', ':notebook_with_decorative_cover:', ':speech_balloon:', ':thought_balloon:']",Metaphorical,FORMALITY
+common brand,👜,[':handbag:'],Single,COMMONNESS
+common brand,👓👝👗👔©️,"[':glasses:', ':clutch_bag:', ':dress:', ':necktie:', ':copyright:']",Direct,COMMONNESS
+common brand,👥💁🏻‍♀️👜,"[':busts_in_silhouette:', ':woman_tipping_hand_light_skin_tone:', ':handbag:']",Metaphorical,COMMONNESS
+common brand,▶️🛒👛,"[':play_button:', ':shopping_cart:', ':purse:']",Metaphorical,COMMONNESS
+common brand,🤲📱,"[':palms_up_together:', ':mobile_phone:']",Metaphorical,COMMONNESS
+common brand,↘️↙️,"[':down-right_arrow:', ':down-left_arrow:']",Metaphorical,COMMONNESS
+common brand,👥🧳👛💼🎒👜👥,"[':busts_in_silhouette:', ':luggage:', ':purse:', ':briefcase:', ':backpack:', ':handbag:', ':busts_in_silhouette:']",Metaphorical,COMMONNESS
+common brand,🛍️🛍️🔄,"[':shopping_bags:', ':shopping_bags:', ':counterclockwise_arrows_button:']",Metaphorical,COMMONNESS
+heavy metal,🤘,[':sign_of_the_horns:'],Single,WEIGHT
+heavy metal,🏋⚙️,"[':person_lifting_weights:', ':gear:']",Direct,WEIGHT
+heavy metal,⚖️🔗,"[':balance_scale:', ':link:']",Metaphorical,WEIGHT
+heavy metal,🏋🏻🛠️⚓🔗🔩⚔,"[':person_lifting_weights_light_skin_tone:', ':hammer_and_wrench:', ':anchor:', ':link:', ':nut_and_bolt:', ':crossed_swords:']",Direct,WEIGHT
+heavy metal,⚒️⛓️,"[':hammer_and_pick:', ':chains:']",Semantic list,WEIGHT
+heavy metal,😓🪨,"[':downcast_face_with_sweat:', ':rock:']",Metaphorical,WEIGHT
+heavy metal,⚖️⚙️,"[':balance_scale:', ':gear:']",Metaphorical,WEIGHT
+heavy load,📦📦📦📦📦📦📦📦📦✖️💯,"[':package:', ':package:', ':package:', ':package:', ':package:', ':package:', ':package:', ':package:', ':package:', ':multiply:', ':hundred_points:']",Reduplication,WEIGHT
+heavy load,🏋🎒,"[':person_lifting_weights:', ':backpack:']",Direct,WEIGHT
+heavy load,🏋️‍♂️📦,"[':man_lifting_weights:', ':package:']",Direct,WEIGHT
+heavy load,🏋🏻🚜🧳,"[':person_lifting_weights_light_skin_tone:', ':tractor:', ':luggage:']",Direct,WEIGHT
+heavy load,💥🏋,"[':collision:', ':person_lifting_weights:']",Metaphorical,WEIGHT
+heavy load,😓📦,"[':downcast_face_with_sweat:', ':package:']",Metaphorical,WEIGHT
+heavy load,💪👛,"[':flexed_biceps:', ':purse:']",Metaphorical,WEIGHT
+heavy fog,🌫️🌁✖️💯,"[':fog:', ':foggy:', ':multiply:', ':hundred_points:']",Metaphorical,THICKNESS
+heavy fog,🌫️🌫️,"[':fog:', ':fog:']",Reduplication,THICKNESS
+heavy fog,🏋️‍♂️🌫️,"[':man_lifting_weights:', ':fog:']",Direct,THICKNESS
+heavy fog,🌫️😶‍🌫,"[':fog:', ':face_in_clouds:']",Metaphorical,THICKNESS
+heavy fog,🌫️🤨,"[':fog:', ':face_with_raised_eyebrow:']",Metaphorical,THICKNESS
+heavy fog,😓😶‍🌫️,"[':downcast_face_with_sweat:', ':face_in_clouds:']",Metaphorical,THICKNESS
+heavy fog,🌫️💨,"[':fog:', ':dashing_away:']",Metaphorical,THICKNESS
+full game,💯🆓🎮,"[':hundred_points:', ':FREE_button:', ':video_game:']",Direct,COMPLETENESS
+full game,🎯🏀,"[':bullseye:', ':basketball:']",Direct,COMPLETENESS
+full game,🎮💯,"[':video_game:', ':hundred_points:']",Direct,COMPLETENESS
+full game,🎮🏁,"[':video_game:', ':chequered_flag:']",Direct,COMPLETENESS
+full game,👍🎮,"[':thumbs_up:', ':video_game:']",Direct,COMPLETENESS
+full game,🕛👾,"[':twelve_o’clock:', ':alien_monster:']",Direct,COMPLETENESS
+full game,🎮👬👬,"[':video_game:', ':men_holding_hands:', ':men_holding_hands:']",Metaphorical,COMPLETENESS
+full auditorium,🎫🧑👨🧑‍🦱👩‍🦱🈵,"[':ticket:', ':person:', ':man:', ':person_curly_hair:', ':woman_curly_hair:', ':Japanese_no_vacancy_button:']",Metaphorical,FULLNESS
+full auditorium,🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🕍,"[':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':man_standing:', ':synagogue:']",Reduplication,FULLNESS
+full auditorium,👩‍💻👨‍💻🏫,"[':woman_technologist:', ':man_technologist:', ':school:']",Metaphorical,FULLNESS
+full auditorium,❌🛸🏟,"[':cross_mark:', ':flying_saucer:', ':stadium:']",Direct,FULLNESS
+full auditorium,🈵🏫,"[':Japanese_no_vacancy_button:', ':school:']",Direct,FULLNESS
+full auditorium,⛽️🏫,"[':fuel_pump:', '', ':school:']",Direct,FULLNESS
+full auditorium,🎟️🎟️🎭,"[':admission_tickets:', ':admission_tickets:', ':performing_arts:']",Metaphorical,FULLNESS
+full attention,💯❗,"[':hundred_points:', ':red_exclamation_mark:']",Direct,INTEGRITY
+full attention,👩🧐🤯,"[':woman:', ':face_with_monocle:', ':exploding_head:']",Metaphorical,INTEGRITY
+full attention,💯❗,"[':hundred_points:', ':red_exclamation_mark:']",Direct,INTEGRITY
+full attention,🤓👨‍💻👨‍🏫👨‍🎓,"[':nerd_face:', ':man_technologist:', ':man_teacher:', ':man_student:']",Semantic list,INTEGRITY
+full attention,🧐✍️,"[':face_with_monocle:', ':writing_hand:']",Metaphorical,INTEGRITY
+full attention,👨‍✈️,[':man_pilot:'],Single,INTEGRITY
+full attention,🙋‍♂️🦻🏫,"[':man_raising_hand:', ':ear_with_hearing_aid:', ':school:']",Metaphorical,INTEGRITY
+full glass,🥛➕🚰🚰🚰🚰🚰 🈵,"[':glass_of_milk:', ':plus:', ':potable_water:', ':potable_water:', ':potable_water:', ':potable_water:', ':potable_water:', ':Japanese_no_vacancy_button:']",Metaphorical,FULLNESS
+full glass,🥛🈵,"[':glass_of_milk:', ':Japanese_no_vacancy_button:']",Direct,FULLNESS
+full glass,💯🥛,"[':hundred_points:', ':glass_of_milk:']",Direct,FULLNESS
+full glass,🚰🥛,"[':potable_water:', ':glass_of_milk:']",Metaphorical,FULLNESS
+full glass,🚰✅,"[':potable_water:', ':check_mark_button:']",Direct,FULLNESS
+full glass,🍺,[':beer_mug:'],Single,FULLNESS
+full glass,🥛🥂,"[':glass_of_milk:', ':clinking_glasses:']",Semantic list,FULLNESS
+full life,♥️👨‍👩‍👧‍👦💼💰💰💰💯,"[':heart_suit:', ':family_man_woman_girl_boy:', ':briefcase:', ':money_bag:', ':money_bag:', ':money_bag:', ':hundred_points:']",Metaphorical,FULLNESS
+full life,🎑🏔️🌄,"[':moon_viewing_ceremony:', ':snow-capped_mountain:', ':sunrise_over_mountains:']",Semantic list,FULLNESS
+full life,🥰☺️🏡,"[':smiling_face_with_hearts:', ':smiling_face:', ':house_with_garden:']",Metaphorical,FULLNESS
+full life,🎉😊😌🤗🥳🤩,"[':party_popper:', ':smiling_face_with_smiling_eyes:', ':relieved_face:', ':smiling_face_with_open_hands:', ':partying_face:', ':star-struck:']",Metaphorical,FULLNESS
+full life,😊♥️,"[':smiling_face_with_smiling_eyes:', ':heart_suit:']",Metaphorical,FULLNESS
+full life,🥵🤣🥵🤣,"[':hot_face:', ':rolling_on_the_floor_laughing:', ':hot_face:', ':rolling_on_the_floor_laughing:']",Metaphorical,FULLNESS
+full life,😆🥳💑,"[':grinning_squinting_face:', ':partying_face:', ':couple_with_heart:']",Direct,FULLNESS
+little boy,👦,[':boy:'],Single,AGE
+little boy,👦🧍,"[':boy:', ':person_standing:']",Semantic list,AGE
+little boy,🤏👶👦,"[':pinching_hand:', ':baby:', ':boy:']",Direct,AGE
+little boy,👦,[':boy:'],Single,AGE
+little boy,👇🏻👦,"[':backhand_index_pointing_down_light_skin_tone:', ':boy:']",Direct,AGE
+little boy,👦👈👶,"[':boy:', ':backhand_index_pointing_left:', ':baby:']",Metaphorical,AGE
+little boy,👦🏻,[':boy_light_skin_tone:'],Single,AGE
+little boy,🤏👦,"[':pinching_hand:', ':boy:']",Direct,AGE
+little man,🧔‍♂️,[':man_beard:'],Single,STATURE
+little man,🧍↕️🤏,"[':person_standing:', ':up-down_arrow:', ':pinching_hand:']",Direct,STATURE
+little man,👦🧑‍🦰,"[':boy:', ':person_red_hair:']",Semantic list,STATURE
+little man,🤏🧍‍♂️,"[':pinching_hand:', ':man_standing:']",Direct,STATURE
+little man,👇🏻🚶‍♂️,"[':backhand_index_pointing_down_light_skin_tone:', ':man_walking:']",Direct,STATURE
+little man,💪👦,"[':flexed_biceps:', ':boy:']",Metaphorical,STATURE
+little man,🤏🏻👨🏻,"[':pinching_hand_light_skin_tone:', ':man_light_skin_tone:']",Direct,STATURE
+little man,🤏👱‍♂️,"[':pinching_hand:', ':man_blond_hair:']",Direct,STATURE
+little house,🏠,[':house:'],Single,SIZE
+little house,🏠↕️🤏,"[':house:', ':up-down_arrow:', ':pinching_hand:']",Direct,SIZE
+little house,🏠🔽,"[':house:', ':downwards_button:']",Direct,SIZE
+little house,🤏🏡,"[':pinching_hand:', ':house_with_garden:']",Direct,SIZE
+little house,🖼🏡,"[':framed_picture:', ':house_with_garden:']",Direct,SIZE
+little house,🏚️,[':derelict_house:'],Single,SIZE
+little house,🤏🏻🏠,"[':pinching_hand_light_skin_tone:', ':house:']",Direct,SIZE
+little house,🤏🏠,"[':pinching_hand:', ':house:']",Direct,SIZE
+ample food,🍔🌭🌮😊,"[':hamburger:', ':hot_dog:', ':taco:', ':smiling_face_with_smiling_eyes:']",Metaphorical,QUANTITY
+ample food,👩‍👩‍👧‍👧👨‍👨‍👧‍👧👨‍👩‍👧‍👧🍽️💯,"[':family_woman_woman_girl_girl:', ':family_man_man_girl_girl:', ':family_man_woman_girl_girl:', ':fork_and_knife_with_plate:', ':hundred_points:']",Metaphorical,QUANTITY
+ample food,🍙🍚🍘🍜,"[':rice_ball:', ':cooked_rice:', ':rice_cracker:', ':steaming_bowl:']",Semantic list,QUANTITY
+ample food,🥖🥞🥫🍛🍲,"[':baguette_bread:', ':pancakes:', ':canned_food:', ':curry_rice:', ':pot_of_food:']",Semantic list,QUANTITY
+ample food,👌🏻🍽🍎,"[':OK_hand_light_skin_tone:', ':fork_and_knife_with_plate:', ':red_apple:']",Metaphorical,QUANTITY
+ample food,🍏🍎🍐🍊🥔🍠🥐🥯🍞🫓🍑🥥🥝,"[':green_apple:', ':red_apple:', ':pear:', ':tangerine:', ':potato:', ':roasted_sweet_potato:', ':croissant:', ':bagel:', ':bread:', ':flatbread:', ':peach:', ':coconut:', ':kiwi_fruit:']",Semantic list,QUANTITY
+ample food,🍔🌭🌮🌯🥪🍕,"[':hamburger:', ':hot_dog:', ':taco:', ':burrito:', ':sandwich:', ':pizza:']",Semantic list,QUANTITY
+ample food,👐😋,"[':open_hands:', ':face_savoring_food:']",Metaphorical,QUANTITY
+ample supply,😊📈,"[':smiling_face_with_smiling_eyes:', ':chart_increasing:']",Metaphorical,SUFFICIENCY
+ample supply,👩‍👩‍👧‍👧👨‍👨‍👧‍👧👨‍👩‍👧‍👧📈,"[':family_woman_woman_girl_girl:', ':family_man_man_girl_girl:', ':family_man_woman_girl_girl:', ':chart_increasing:']",Metaphorical,SUFFICIENCY
+ample supply,📉📋✅,"[':chart_decreasing:', ':clipboard:', ':check_mark_button:']",Metaphorical,SUFFICIENCY
+ample supply,🍽✅️,"[':fork_and_knife_with_plate:', ':check_mark_button:', '']",Metaphorical,SUFFICIENCY
+ample supply,👌🏻🔒,"[':OK_hand_light_skin_tone:', ':locked:']",Metaphorical,SUFFICIENCY
+ample supply,🍏🍌🥐🌮🥪🥨🧀🥚🥞🥬🌶️🍢🧋🌰🍪🎂🥂🍨,"[':green_apple:', ':banana:', ':croissant:', ':taco:', ':sandwich:', ':pretzel:', ':cheese_wedge:', ':egg:', ':pancakes:', ':leafy_green:', ':hot_pepper:', ':oden:', ':bubble_tea:', ':chestnut:', ':cookie:', ':birthday_cake:', ':clinking_glasses:', ':ice_cream:']",Semantic list,SUFFICIENCY
+ample supply,🙆🏻‍♀️📦,"[':woman_gesturing_OK_light_skin_tone:', ':package:']",Direct,SUFFICIENCY
+ample supply,👐📈,"[':open_hands:', ':chart_increasing:']",Metaphorical,SUFFICIENCY
+ample waistline,😊,[':smiling_face_with_smiling_eyes:'],Single,SIZE
+ample waistline,🤰📈,"[':pregnant_woman:', ':chart_increasing:']",Metaphorical,SIZE
+ample waistline,📏👖,"[':straight_ruler:', ':jeans:']",Metaphorical,SIZE
+ample waistline,🍴🍴🍝🎅,"[':fork_and_knife:', ':fork_and_knife:', ':spaghetti:', ':Santa_Claus:']",Metaphorical,SIZE
+ample waistline,🤌🏻👗,"[':pinched_fingers_light_skin_tone:', ':dress:']",Metaphorical,SIZE
+ample waistline,💸🏦💵🪙💰💹🏧💲💳🤑,"[':money_with_wings:', ':bank:', ':dollar_banknote:', ':coin:', ':money_bag:', ':chart_increasing_with_yen:', ':ATM_sign:', ':heavy_dollar_sign:', ':credit_card:', ':money-mouth_face:']",Metaphorical,SIZE
+ample waistline,🙆🏻‍♀️🩳,"[':woman_gesturing_OK_light_skin_tone:', ':shorts:']",Direct,SIZE
+ample waistline,👐🤰,"[':open_hands:', ':pregnant_woman:']",Metaphorical,SIZE
+puzzling statement,😵‍💫🤔,"[':face_with_spiral_eyes:', ':thinking_face:']",Semantic list,CLARITY
+puzzling statement,💬❓❓😵‍💫,"[':speech_balloon:', ':red_question_mark:', ':red_question_mark:', ':face_with_spiral_eyes:']",Direct,CLARITY
+puzzling statement,🗣️❓⁉️🤔🤷,"[':speaking_head:', ':red_question_mark:', ':exclamation_question_mark:', ':thinking_face:', ':person_shrugging:']",Metaphorical,CLARITY
+puzzling statement,❓️❓️❓️❓️,"[':red_question_mark:', '', ':red_question_mark:', '', ':red_question_mark:', '', ':red_question_mark:', '']",Reduplication,CLARITY
+puzzling statement,🧐❓,"[':face_with_monocle:', ':red_question_mark:']",Metaphorical,CLARITY
+puzzling statement,⁉️⁉️❓❔🤷‍♀️🤷🤷‍♂️,"[':exclamation_question_mark:', ':exclamation_question_mark:', ':red_question_mark:', ':white_question_mark:', ':woman_shrugging:', ':person_shrugging:', ':man_shrugging:']",Metaphorical,CLARITY
+puzzling statement,😵‍💫🤨❓,"[':face_with_spiral_eyes:', ':face_with_raised_eyebrow:', ':red_question_mark:']",Metaphorical,CLARITY
+puzzling statement,🤷‍♀️🗣️,"[':woman_shrugging:', ':speaking_head:']",Direct,CLARITY
+remarkable sight,🤯🤩,"[':exploding_head:', ':star-struck:']",Direct,ORDINARINESS
+remarkable sight,🤩🤯🎆,"[':star-struck:', ':exploding_head:', ':fireworks:']",Metaphorical,ORDINARINESS
+remarkable sight,😲💯🥰👀,"[':astonished_face:', ':hundred_points:', ':smiling_face_with_hearts:', ':eyes:']",Direct,ORDINARINESS
+remarkable sight,🏞👀✅️,"[':national_park:', ':eyes:', ':check_mark_button:', '']",Direct,ORDINARINESS
+remarkable sight,🤩🏞,"[':star-struck:', ':national_park:']",Direct,ORDINARINESS
+remarkable sight,👀🎑,"[':eyes:', ':moon_viewing_ceremony:']",Direct,ORDINARINESS
+remarkable sight,🤩,[':star-struck:'],Single,ORDINARINESS
+remarkable sight,👀🖼️,"[':eyes:', ':framed_picture:']",Direct,ORDINARINESS
+dull mood,😑🥱,"[':expressionless_face:', ':yawning_face:']",Semantic list,DULLNESS
+dull mood,😕😑😶,"[':confused_face:', ':expressionless_face:', ':face_without_mouth:']",Semantic list,DULLNESS
+dull mood,😑🥱,"[':expressionless_face:', ':yawning_face:']",Semantic list,DULLNESS
+dull mood,🥱😒,"[':yawning_face:', ':unamused_face:']",Semantic list,DULLNESS
+dull mood,🥱😒,"[':yawning_face:', ':unamused_face:']",Semantic list,DULLNESS
+dull mood,👎😤,"[':thumbs_down:', ':face_with_steam_from_nose:']",Direct,DULLNESS
+dull mood,😔😪,"[':pensive_face:', ':sleepy_face:']",Semantic list,DULLNESS
+dull mood,😓,[':downcast_face_with_sweat:'],Single,DULLNESS
+dull play,😑🥱⚽,"[':expressionless_face:', ':yawning_face:', ':soccer_ball:']",Direct,INTEREST
+dull play,😑🪅🧸,"[':expressionless_face:', ':pinata:', ':teddy_bear:']",Direct,INTEREST
+dull play,🥱🎭,"[':yawning_face:', ':performing_arts:']",Direct,INTEREST
+dull play,🥱🎭,"[':yawning_face:', ':performing_arts:']",Direct,INTEREST
+dull play,😒⚽,"[':unamused_face:', ':soccer_ball:']",Direct,INTEREST
+dull play,👎🏀,"[':thumbs_down:', ':basketball:']",Direct,INTEREST
+dull play,😪🎮,"[':sleepy_face:', ':video_game:']",Direct,INTEREST
+dull play,🎭😕,"[':performing_arts:', ':confused_face:']",Direct,INTEREST
+dull sky,😑🥱🌫️,"[':expressionless_face:', ':yawning_face:', ':fog:']",Direct,LUMINOSITY
+dull sky,🌥️🌧️🪟,"[':sun_behind_large_cloud:', ':cloud_with_rain:', ':window:']",Metaphorical,LUMINOSITY
+dull sky,🌫,[':fog:'],Single,LUMINOSITY
+dull sky,🌑🌃,"[':new_moon:', ':night_with_stars:']",Metaphorical,LUMINOSITY
+dull sky,😒🌫️,"[':unamused_face:', ':fog:']",Direct,LUMINOSITY
+dull sky,▪️⛈,"[':black_small_square:', ':cloud_with_lightning_and_rain:']",Metaphorical,LUMINOSITY
+dull sky,🌩️🌫️,"[':cloud_with_lightning:', ':fog:']",Metaphorical,LUMINOSITY
+dull sky,🌫️,[':fog:'],Single,LUMINOSITY
+dull silver,🌫️🥈,"[':fog:', ':2nd_place_medal:']",Direct,LUMINOSITY
+dull silver,🌫️🍴🥄,"[':fog:', ':fork_and_knife:', ':spoon:']",Direct,LUMINOSITY
+dull silver,💍❌️🌟,"[':ring:', ':cross_mark:', '', ':glowing_star:']",Direct,LUMINOSITY
+dull silver,🌑🥈,"[':new_moon:', ':2nd_place_medal:']",Direct,LUMINOSITY
+dull silver,🥈⚙️🌑,"[':2nd_place_medal:', ':gear:', ':new_moon:']",Direct,LUMINOSITY
+dull silver,▪️💍,"[':black_small_square:', ':ring:']",Direct,LUMINOSITY
+dull silver,🥈😔,"[':2nd_place_medal:', ':pensive_face:']",Metaphorical,LUMINOSITY
+dull silver,🌫️🪙,"[':fog:', ':coin:']",Direct,LUMINOSITY
+dull day,😑🥱📆,"[':expressionless_face:', ':yawning_face:', ':tear-off_calendar:']",Direct,DULLNESS
+dull day,🌥️🏙️,"[':sun_behind_large_cloud:', ':cityscape:']",Metaphorical,DULLNESS
+dull day,😑📅,"[':expressionless_face:', ':calendar:']",Direct,DULLNESS
+dull day,🌑🌚,"[':new_moon:', ':new_moon_face:']",Metaphorical,DULLNESS
+dull day,🌫️🌥️,"[':fog:', ':sun_behind_large_cloud:']",Metaphorical,DULLNESS
+dull day,👎🕦,"[':thumbs_down:', ':eleven-thirty:']",Metaphorical,DULLNESS
+dull day,😥😟,"[':sad_but_relieved_face:', ':worried_face:']",Semantic list,DULLNESS
+dull day,🌫️,[':fog:'],Single,DULLNESS
+dull glow,🌫️🌟,"[':fog:', ':glowing_star:']",Direct,LUMINOSITY
+dull glow,🌫️💡,"[':fog:', ':light_bulb:']",Direct,LUMINOSITY
+dull glow,💡❌️🌟,"[':light_bulb:', ':cross_mark:', '', ':glowing_star:']",Direct,LUMINOSITY
+dull glow,🌑🌟,"[':new_moon:', ':glowing_star:']",Direct,LUMINOSITY
+dull glow,💡🕶️😒,"[':light_bulb:', ':sunglasses:', ':unamused_face:']",Metaphorical,LUMINOSITY
+dull glow,👎🌟,"[':thumbs_down:', ':glowing_star:']",Direct,LUMINOSITY
+dull glow,❌💡🕯️,"[':cross_mark:', ':light_bulb:', ':candle:']",Direct,LUMINOSITY
+dull glow,🌫️⭐,"[':fog:', ':star:']",Direct,LUMINOSITY
+cozy nook,😊🛏️,"[':smiling_face_with_smiling_eyes:', ':bed:']",Metaphorical,COMFORT
+cozy nook,😌☺️☀️🌄,"[':relieved_face:', ':smiling_face:', ':sun:', ':sunrise_over_mountains:']",Metaphorical,COMFORT
+cozy nook,🛋🥰,"[':couch_and_lamp:', ':smiling_face_with_hearts:']",Metaphorical,COMFORT
+cozy nook,🥰🛋️,"[':smiling_face_with_hearts:', ':couch_and_lamp:']",Metaphorical,COMFORT
+cozy nook,🛋️☕😌,"[':couch_and_lamp:', ':hot_beverage:', ':relieved_face:']",Metaphorical,COMFORT
+cozy nook,😄,[':grinning_face_with_smiling_eyes:'],Single,COMFORT
+cozy nook,🍁🍂🔥,"[':maple_leaf:', ':fallen_leaf:', ':fire:']",Metaphorical,COMFORT
+cozy nook,😴🛋️,"[':sleeping_face:', ':couch_and_lamp:']",Metaphorical,COMFORT
+cozy room,😊🏠,"[':smiling_face_with_smiling_eyes:', ':house:']",Direct,FRIENDLINESS
+cozy room,😌🏠🏡🪟,"[':relieved_face:', ':house:', ':house_with_garden:', ':window:']",Direct,FRIENDLINESS
+cozy room,🛏🥰,"[':bed:', ':smiling_face_with_hearts:']",Metaphorical,FRIENDLINESS
+cozy room,🥰🚪,"[':smiling_face_with_hearts:', ':door:']",Metaphorical,FRIENDLINESS
+cozy room,🛋️☕🖥️,"[':couch_and_lamp:', ':hot_beverage:', ':desktop_computer:']",Metaphorical,FRIENDLINESS
+cozy room,😄🛌,"[':grinning_face_with_smiling_eyes:', ':person_in_bed:']",Metaphorical,FRIENDLINESS
+cozy room,🛏️🛋️💤🕯️,"[':bed:', ':couch_and_lamp:', ':zzz:', ':candle:']",Metaphorical,FRIENDLINESS
+cozy room,😴🛋️,"[':sleeping_face:', ':couch_and_lamp:']",Metaphorical,FRIENDLINESS
+low hill,↘️🏔️,"[':down-right_arrow:', ':snow-capped_mountain:']",Direct,HEIGHT
+low hill,👇⛰️,"[':backhand_index_pointing_down:', ':mountain:']",Direct,HEIGHT
+low hill,⬇️🏔🏔,"[':down_arrow:', ':snow-capped_mountain:', ':snow-capped_mountain:']",Direct,HEIGHT
+low hill,↘️🏔️,"[':down-right_arrow:', ':snow-capped_mountain:']",Direct,HEIGHT
+low hill,🏔⬇️,"[':snow-capped_mountain:', ':down_arrow:']",Direct,HEIGHT
+low hill,🏔️,[':snow-capped_mountain:'],Single,HEIGHT
+low hill,⬇️🏔️,"[':down_arrow:', ':snow-capped_mountain:']",Direct,HEIGHT
+low hill,🔻🗻,"[':red_triangle_pointed_down:', ':mount_fuji:']",Direct,HEIGHT
+low sun,↘️☀️,"[':down-right_arrow:', ':sun:']",Direct,HEIGHT
+low sun,👇🌞,"[':backhand_index_pointing_down:', ':sun_with_face:']",Direct,HEIGHT
+low sun,🌅🌅🌅,"[':sunrise:', ':sunrise:', ':sunrise:']",Reduplication,HEIGHT
+low sun,↘️☀️🌞🌥️🔅,"[':down-right_arrow:', ':sun:', ':sun_with_face:', ':sun_behind_large_cloud:', ':dim_button:']",Metaphorical,HEIGHT
+low sun,⬇️🔅,"[':down_arrow:', ':dim_button:']",Direct,HEIGHT
+low sun,💧🧊❄️,"[':droplet:', ':ice:', ':snowflake:']",Metaphorical,HEIGHT
+low sun,📉☀️,"[':chart_decreasing:', ':sun:']",Direct,HEIGHT
+low sun,🔻☀️,"[':red_triangle_pointed_down:', ':sun:']",Direct,HEIGHT
+low supply,↘️📉,"[':down-right_arrow:', ':chart_decreasing:']",Metaphorical,QUANTITY
+low supply,📉📦,"[':chart_decreasing:', ':package:']",Direct,QUANTITY
+low supply,🙅‍♀️🙅‍♀️🙅‍♀️,"[':woman_gesturing_NO:', ':woman_gesturing_NO:', ':woman_gesturing_NO:']",Reduplication,QUANTITY
+low supply,↘️👎🙁😦,"[':down-right_arrow:', ':thumbs_down:', ':slightly_frowning_face:', ':frowning_face_with_open_mouth:']",Metaphorical,QUANTITY
+low supply,⬇️📉,"[':down_arrow:', ':chart_decreasing:']",Metaphorical,QUANTITY
+low supply,😱🛍️🛒,"[':face_screaming_in_fear:', ':shopping_bags:', ':shopping_cart:']",Metaphorical,QUANTITY
+low supply,⬇️0️⃣,"[':down_arrow:', ':keycap_0:']",Metaphorical,QUANTITY
+low supply,🔻📦,"[':red_triangle_pointed_down:', ':package:']",Direct,QUANTITY
+low cloud,↘️☁️,"[':down-right_arrow:', ':cloud:']",Direct,HEIGHT
+low cloud,👇☁️,"[':backhand_index_pointing_down:', ':cloud:']",Direct,HEIGHT
+low cloud,☁️🌁,"[':cloud:', ':foggy:']",Metaphorical,HEIGHT
+low cloud,↘️ 🌫️,"[':down-right_arrow:', ':fog:']",Direct,HEIGHT
+low cloud,⬇️☁️,"[':down_arrow:', ':cloud:']",Direct,HEIGHT
+low cloud,☁️🌥️,"[':cloud:', ':sun_behind_large_cloud:']",Metaphorical,HEIGHT
+low cloud,❌☁️,"[':cross_mark:', ':cloud:']",Direct,HEIGHT
+low cloud,🔻☁️,"[':red_triangle_pointed_down:', ':cloud:']",Direct,HEIGHT
+low ceiling,↘️🏠,"[':down-right_arrow:', ':house:']",Direct,HEIGHT
+low ceiling,👇🏠,"[':backhand_index_pointing_down:', ':house:']",Direct,HEIGHT
+low ceiling,📉📉,"[':chart_decreasing:', ':chart_decreasing:']",Reduplication,HEIGHT
+low ceiling,↘️ 🏘️,"[':down-right_arrow:', ':houses:']",Direct,HEIGHT
+low ceiling,⬇️🔝,"[':down_arrow:', ':TOP_arrow:']",Direct,HEIGHT
+low ceiling,🏦,[':bank:'],Single,HEIGHT
+low ceiling,🏠💥,"[':house:', ':collision:']",Direct,HEIGHT
+low ceiling,🔻🏢,"[':red_triangle_pointed_down:', ':office_building:']",Direct,HEIGHT
+low bow,↘️🙇‍♀️,"[':down-right_arrow:', ':woman_bowing:']",Direct,HEIGHT
+low bow,🎀👇,"[':ribbon:', ':backhand_index_pointing_down:']",Metaphorical,HEIGHT
+low bow,🙇‍♀️🙇🙇‍♂️,"[':woman_bowing:', ':person_bowing:', ':man_bowing:']",Semantic list,HEIGHT
+low bow,↘️🙇🙇‍♀️🙇‍♂️,"[':down-right_arrow:', ':person_bowing:', ':woman_bowing:', ':man_bowing:']",Direct,HEIGHT
+low bow,⬇️🙇‍♂️,"[':down_arrow:', ':man_bowing:']",Direct,HEIGHT
+low bow,🙇‍♀️,[':woman_bowing:'],Single,HEIGHT
+low bow,🙇‍♀️🙇‍♂️,"[':woman_bowing:', ':man_bowing:']",Semantic list,HEIGHT
+low bow,🔻🙇🏻‍♀️,"[':red_triangle_pointed_down:', ':woman_bowing_light_skin_tone:']",Direct,HEIGHT
+low reservoir,↘️🏞️,"[':down-right_arrow:', ':national_park:']",Direct,DEGREE
+low reservoir,🏞️⬇️,"[':national_park:', ':down_arrow:']",Direct,DEGREE
+low reservoir,💦🚫🚫,"[':sweat_droplets:', ':prohibited:', ':prohibited:']",Metaphorical,DEGREE
+low reservoir,↘️ 🗻,"[':down-right_arrow:', ':mount_fuji:']",Direct,DEGREE
+low reservoir,⬇️🚣‍♀️🌊,"[':down_arrow:', ':woman_rowing_boat:', ':water_wave:']",Direct,DEGREE
+low reservoir,🏞️🐊,"[':national_park:', ':crocodile:']",Metaphorical,DEGREE
+low reservoir,🌛↘️,"[':first_quarter_moon_face:', ':down-right_arrow:']",Metaphorical,DEGREE
+low reservoir,🔻🏞,"[':red_triangle_pointed_down:', ':national_park:']",Direct,DEGREE
+low price,↘️🏷️,"[':down-right_arrow:', ':label:']",Direct,DEGREE
+low price,📉💰💰,"[':chart_decreasing:', ':money_bag:', ':money_bag:']",Direct,DEGREE
+low price,🤑🤑🤑🧧,"[':money-mouth_face:', ':money-mouth_face:', ':money-mouth_face:', ':red_envelope:']",Metaphorical,DEGREE
+low price,↘️💲💸,"[':down-right_arrow:', ':heavy_dollar_sign:', ':money_with_wings:']",Direct,DEGREE
+low price,⬇️🏷💲,"[':down_arrow:', ':label:', ':heavy_dollar_sign:']",Direct,DEGREE
+low price,💲🤑🤑,"[':heavy_dollar_sign:', ':money-mouth_face:', ':money-mouth_face:']",Metaphorical,DEGREE
+low price,⬇️💲,"[':down_arrow:', ':heavy_dollar_sign:']",Direct,DEGREE
+low price,🔻🏷,"[':red_triangle_pointed_down:', ':label:']",Direct,DEGREE
+low furniture,↘️🛋️,"[':down-right_arrow:', ':couch_and_lamp:']",Direct,HEIGHT
+low furniture,🔻🪑🛋️,"[':red_triangle_pointed_down:', ':chair:', ':couch_and_lamp:']",Direct,HEIGHT
+low furniture,🪑🪑⬇️,"[':chair:', ':chair:', ':down_arrow:']",Direct,HEIGHT
+low furniture,↘️💺🛏️,"[':down-right_arrow:', ':seat:', ':bed:']",Direct,HEIGHT
+low furniture,⬇️🪑,"[':down_arrow:', ':chair:']",Direct,HEIGHT
+low furniture,🛋️,[':couch_and_lamp:'],Single,HEIGHT
+low furniture,❌🛏️,"[':cross_mark:', ':bed:']",Direct,HEIGHT
+low furniture,🔻🛋,"[':red_triangle_pointed_down:', ':couch_and_lamp:']",Direct,HEIGHT
+critical illness,😷🤒🤕,"[':face_with_medical_mask:', ':face_with_thermometer:', ':face_with_head-bandage:']",Semantic list,CRISIS
+critical illness,☠️🤧,"[':skull_and_crossbones:', ':sneezing_face:']",Direct,CRISIS
+critical illness,🤕🧑‍⚕️💊😷🦠🪦,"[':face_with_head-bandage:', ':health_worker:', ':pill:', ':face_with_medical_mask:', ':microbe:', ':headstone:']",Metaphorical,CRISIS
+critical illness,🤮👨‍⚕️,"[':face_vomiting:', ':man_health_worker:']",Metaphorical,CRISIS
+critical illness,🤒🚨,"[':face_with_thermometer:', ':police_car_light:']",Direct,CRISIS
+critical illness,🤒‼️,"[':face_with_thermometer:', ':double_exclamation_mark:']",Direct,CRISIS
+critical illness,🤢🤢,"[':nauseated_face:', ':nauseated_face:']",Reduplication,CRISIS
+critical illness,🤮🤒🌡️🌡️,"[':face_vomiting:', ':face_with_thermometer:', ':thermometer:', ':thermometer:']",Metaphorical,CRISIS
+critical mass,⚖️⚠️⚠️,"[':balance_scale:', ':warning:', ':warning:']",Direct,CRITICALITY
+critical mass,❗⚖️🐘,"[':red_exclamation_mark:', ':balance_scale:', ':elephant:']",Direct,CRITICALITY
+critical mass,⚖️👩‍⚖️👨‍⚖️,"[':balance_scale:', ':woman_judge:', ':man_judge:']",Metaphorical,CRITICALITY
+critical mass,‼️⚖️,"[':double_exclamation_mark:', ':balance_scale:']",Direct,CRITICALITY
+critical mass,🚨🏋️‍♀️,"[':police_car_light:', ':woman_lifting_weights:']",Metaphorical,CRITICALITY
+critical mass,🤏⚛️❗,"[':pinching_hand:', ':atom_symbol:', ':red_exclamation_mark:']",Direct,CRITICALITY
+critical mass,💹💹,"[':chart_increasing_with_yen:', ':chart_increasing_with_yen:']",Reduplication,CRITICALITY
+critical mass,⚖️❗❗❗,"[':balance_scale:', ':red_exclamation_mark:', ':red_exclamation_mark:', ':red_exclamation_mark:']",Direct,CRITICALITY
+critical stage,🗝️📈,"[':old_key:', ':chart_increasing:']",Direct,CRISIS
+critical stage,✔️👍❌☠️,"[':check_mark:', ':thumbs_up:', ':cross_mark:', ':skull_and_crossbones:']",Metaphorical,CRISIS
+critical stage,🏥,[':hospital:'],Single,CRISIS
+critical stage,‼️👣,"[':double_exclamation_mark:', ':footprints:']",Metaphorical,CRISIS
+critical stage,🚨🤞,"[':police_car_light:', ':crossed_fingers:']",Metaphorical,CRISIS
+critical stage,📈❗,"[':chart_increasing:', ':red_exclamation_mark:']",Direct,CRISIS
+critical stage,😰😰,"[':anxious_face_with_sweat:', ':anxious_face_with_sweat:']",Reduplication,CRISIS
+critical stage,📈📉❗❗,"[':chart_increasing:', ':chart_decreasing:', ':red_exclamation_mark:', ':red_exclamation_mark:']",Direct,CRISIS
+critical temperature,🌡️⚠️,"[':thermometer:', ':warning:']",Direct,CRITICALITY
+critical temperature,❗🌡️,"[':red_exclamation_mark:', ':thermometer:']",Direct,CRITICALITY
+critical temperature,🤒 🏥,"[':face_with_thermometer:', ':hospital:']",Metaphorical,CRITICALITY
+critical temperature,♨️🤕,"[':hot_springs:', ':face_with_head-bandage:']",Metaphorical,CRITICALITY
+critical temperature,🚨🌡,"[':police_car_light:', ':thermometer:']",Direct,CRITICALITY
+critical temperature,🌡️❗,"[':thermometer:', ':red_exclamation_mark:']",Direct,CRITICALITY
+critical temperature,🌡️😯,"[':thermometer:', ':hushed_face:']",Metaphorical,CRITICALITY
+critical temperature,❗❗🌡️🌡️🌡️,"[':red_exclamation_mark:', ':red_exclamation_mark:', ':thermometer:', ':thermometer:', ':thermometer:']",Direct,CRITICALITY
+critical shortage,❌❓⚠️⚠️,"[':cross_mark:', ':red_question_mark:', ':warning:', ':warning:']",Metaphorical,CRISIS
+critical shortage,❌🍞☠️,"[':cross_mark:', ':bread:', ':skull_and_crossbones:']",Direct,CRISIS
+critical shortage,❌🍱 ❌ 🍼,"[':cross_mark:', ':bento_box:', ':cross_mark:', ':baby_bottle:']",Metaphorical,CRISIS
+critical shortage,‼️🦐🦑🍞🥝,"[':double_exclamation_mark:', ':shrimp:', ':squid:', ':bread:', ':kiwi_fruit:']",Metaphorical,CRISIS
+critical shortage,🚨📉,"[':police_car_light:', ':chart_decreasing:']",Direct,CRISIS
+critical shortage,❗🥑🍎🧀🍚❗😥,"[':red_exclamation_mark:', ':avocado:', ':red_apple:', ':cheese_wedge:', ':cooked_rice:', ':red_exclamation_mark:', ':sad_but_relieved_face:']",Metaphorical,CRISIS
+critical shortage,🤏🍞,"[':pinching_hand:', ':bread:']",Metaphorical,CRISIS
+critical shortage,⌛❌🧺,"[':hourglass_done:', ':cross_mark:', ':basket:']",Metaphorical,CRISIS
+critical element,🗝️⚠️⚠️,"[':old_key:', ':warning:', ':warning:']",Metaphorical,DISPENSABILITY
+critical element,🔥💧❄️⚡🐉,"[':fire:', ':droplet:', ':snowflake:', ':high_voltage:', ':dragon:']",Metaphorical,DISPENSABILITY
+critical element,❗ 🚶,"[':red_exclamation_mark:', ':person_walking:']",Direct,DISPENSABILITY
+critical element,‼️⛑️,"[':double_exclamation_mark:', ':rescue_worker’s_helmet:']",Direct,DISPENSABILITY
+critical element,🚨🚨,"[':police_car_light:', ':police_car_light:']",Reduplication,DISPENSABILITY
+critical element,⚛️🧫‼️,"[':atom_symbol:', ':petri_dish:', ':double_exclamation_mark:']",Direct,DISPENSABILITY
+critical element,🉐🆘,"[':Japanese_bargain_button:', ':SOS_button:']",Semantic list,DISPENSABILITY
+critical element,👩‍🔬❗,"[':woman_scientist:', ':red_exclamation_mark:']",Metaphorical,DISPENSABILITY
+immediate reply,💨💨🔁💬,"[':dashing_away:', ':dashing_away:', ':repeat_button:', ':speech_balloon:']",Metaphorical,SPEED
+immediate reply,❗📤,"[':red_exclamation_mark:', ':outbox_tray:']",Direct,SPEED
+immediate reply,⏩📞📱,"[':fast-forward_button:', ':telephone_receiver:', ':mobile_phone:']",Metaphorical,SPEED
+immediate reply,🔜📨,"[':SOON_arrow:', ':incoming_envelope:']",Direct,SPEED
+immediate reply,🚨📲,"[':police_car_light:', ':mobile_phone_with_arrow:']",Direct,SPEED
+immediate reply,🏃‍♂️📞💭,"[':man_running:', ':telephone_receiver:', ':thought_balloon:']",Metaphorical,SPEED
+immediate reply,⏩📨,"[':fast-forward_button:', ':incoming_envelope:']",Direct,SPEED
+immediate reply,⏱️📲,"[':stopwatch:', ':mobile_phone_with_arrow:']",Direct,SPEED
+immediate influence,💨💨🧍‍♂️🔀🧍‍♀️,"[':dashing_away:', ':dashing_away:', ':man_standing:', ':shuffle_tracks_button:', ':woman_standing:']",Metaphorical,IMMEDIACY
+immediate influence,💃🕺🙋🙋‍♀️🙋‍♂️,"[':woman_dancing:', ':man_dancing:', ':person_raising_hand:', ':woman_raising_hand:', ':man_raising_hand:']",Metaphorical,IMMEDIACY
+immediate influence,⏩👩‍⚖️👨‍⚖️,"[':fast-forward_button:', ':woman_judge:', ':man_judge:']",Metaphorical,IMMEDIACY
+immediate influence,🔜👨‍👩‍👧‍👦,"[':SOON_arrow:', ':family_man_woman_girl_boy:']",Metaphorical,IMMEDIACY
+immediate influence,🙇🏻‍♀️🙇🏻‍♀️,"[':woman_bowing_light_skin_tone:', ':woman_bowing_light_skin_tone:']",Reduplication,IMMEDIACY
+immediate influence,👮‍♂️👇🙏🤝,"[':man_police_officer:', ':backhand_index_pointing_down:', ':folded_hands:', ':handshake:']",Metaphorical,IMMEDIACY
+immediate influence,🔝🔝,"[':TOP_arrow:', ':TOP_arrow:']",Reduplication,IMMEDIACY
+immediate influence,🧑‍🤝‍🧑↔️❗,"[':people_holding_hands:', ':left-right_arrow:', ':red_exclamation_mark:']",Metaphorical,IMMEDIACY
+thin oil,🛢️,[':oil_drum:'],Single,CONSISTENCY
+thin oil,♨️🪔,"[':hot_springs:', ':diya_lamp:']",Direct,CONSISTENCY
+thin oil,🤏🪔,"[':pinching_hand:', ':diya_lamp:']",Direct,CONSISTENCY
+thin oil,💧 🪔,"[':droplet:', ':diya_lamp:']",Metaphorical,CONSISTENCY
+thin oil,🤏🛢️,"[':pinching_hand:', ':oil_drum:']",Direct,CONSISTENCY
+thin oil,🤏🥃,"[':pinching_hand:', ':tumbler_glass:']",Direct,CONSISTENCY
+thin oil,🤏📏🛢️,"[':pinching_hand:', ':straight_ruler:', ':oil_drum:']",Direct,CONSISTENCY
+thin oil,🤏 👨‍🍳🛢,"[':pinching_hand:', ':man_cook:', ':oil_drum:']",Direct,CONSISTENCY
+thin soup,🍲👎,"[':pot_of_food:', ':thumbs_down:']",Metaphorical,CONSISTENCY
+thin soup,♨️,[':hot_springs:'],Single,CONSISTENCY
+thin soup,💧🥫,"[':droplet:', ':canned_food:']",Metaphorical,CONSISTENCY
+thin soup,💦💦🥣,"[':sweat_droplets:', ':sweat_droplets:', ':bowl_with_spoon:']",Metaphorical,CONSISTENCY
+thin soup,🍜,[':steaming_bowl:'],Single,CONSISTENCY
+thin soup,🤏🫕,"[':pinching_hand:', ':fondue:']",Direct,CONSISTENCY
+thin soup,🤏📏🥣,"[':pinching_hand:', ':straight_ruler:', ':bowl_with_spoon:']",Direct,CONSISTENCY
+thin soup,🤏 🥣,"[':pinching_hand:', ':bowl_with_spoon:']",Direct,CONSISTENCY
+thin air,🌫️,[':fog:'],Single,CONSISTENCY
+thin air,♨️,[':hot_springs:'],Single,CONSISTENCY
+thin air,🤏🍃,"[':pinching_hand:', ':leaf_fluttering_in_wind:']",Direct,CONSISTENCY
+thin air,🍃,[':leaf_fluttering_in_wind:'],Single,CONSISTENCY
+thin air,😵‍💫💨,"[':face_with_spiral_eyes:', ':dashing_away:']",Metaphorical,CONSISTENCY
+thin air,🍃🤏,"[':leaf_fluttering_in_wind:', ':pinching_hand:']",Direct,CONSISTENCY
+thin air,🤏📏💨,"[':pinching_hand:', ':straight_ruler:', ':dashing_away:']",Direct,CONSISTENCY
+thin air,🤌🏻🌬,"[':pinched_fingers_light_skin_tone:', ':wind_face:']",Direct,CONSISTENCY
+thin line,🤏✍️,"[':pinching_hand:', ':writing_hand:']",Direct,WIDTH
+thin line,♨️✏️📝,"[':hot_springs:', ':pencil:', ':memo:']",Direct,WIDTH
+thin line,🤏📏,"[':pinching_hand:', ':straight_ruler:']",Direct,WIDTH
+thin line,📝,[':memo:'],Single,WIDTH
+thin line,📏🤏📉,"[':straight_ruler:', ':pinching_hand:', ':chart_decreasing:']",Direct,WIDTH
+thin line,🤏🖊️,"[':pinching_hand:', ':pen:']",Direct,WIDTH
+thin line,🤏📏➖,"[':pinching_hand:', ':straight_ruler:', ':minus:']",Direct,WIDTH
+thin line,🤌🏻〰,"[':pinched_fingers_light_skin_tone:', ':wavy_dash:']",Direct,WIDTH
+thick soup,🍲🍲👍,"[':pot_of_food:', ':pot_of_food:', ':thumbs_up:']",Metaphorical,CONSISTENCY
+thick soup,🍲🍲🍲,"[':pot_of_food:', ':pot_of_food:', ':pot_of_food:']",Reduplication,CONSISTENCY
+thick soup,🥫🍦,"[':canned_food:', ':soft_ice_cream:']",Metaphorical,CONSISTENCY
+thick soup,💦🥣,"[':sweat_droplets:', ':bowl_with_spoon:']",Metaphorical,CONSISTENCY
+thick soup,🙌🍲,"[':raising_hands:', ':pot_of_food:']",Metaphorical,CONSISTENCY
+thick soup,🫕🫕🫕,"[':fondue:', ':fondue:', ':fondue:']",Reduplication,CONSISTENCY
+thick soup,📏🥣,"[':straight_ruler:', ':bowl_with_spoon:']",Metaphorical,CONSISTENCY
+thick soup,🥣,[':bowl_with_spoon:'],Single,CONSISTENCY
+thick smoke,🌋💨,"[':volcano:', ':dashing_away:']",Metaphorical,THICKNESS
+thick smoke,💨💨💨😤🌋🚬😤,"[':dashing_away:', ':dashing_away:', ':dashing_away:', ':face_with_steam_from_nose:', ':volcano:', ':cigarette:', ':face_with_steam_from_nose:']",Metaphorical,THICKNESS
+thick smoke,💨👁️❌,"[':dashing_away:', ':eye:', ':cross_mark:']",Metaphorical,THICKNESS
+thick smoke,💨🚬,"[':dashing_away:', ':cigarette:']",Metaphorical,THICKNESS
+thick smoke,🌋🌋🌋😷,"[':volcano:', ':volcano:', ':volcano:', ':face_with_medical_mask:']",Metaphorical,THICKNESS
+thick smoke,💨💨🌫️🌫️,"[':dashing_away:', ':dashing_away:', ':fog:', ':fog:']",Semantic list,THICKNESS
+thick smoke,🔥💨💨💨💨,"[':fire:', ':dashing_away:', ':dashing_away:', ':dashing_away:', ':dashing_away:']",Metaphorical,THICKNESS
+thick smoke,💨,[':dashing_away:'],Single,THICKNESS
+thick cream,🍦🍦🍦,"[':soft_ice_cream:', ':soft_ice_cream:', ':soft_ice_cream:']",Reduplication,THICKNESS
+thick cream,🍨🍦,"[':ice_cream:', ':soft_ice_cream:']",Semantic list,THICKNESS
+thick cream,🍦🥫🍦🍦🍦🍦,"[':soft_ice_cream:', ':canned_food:', ':soft_ice_cream:', ':soft_ice_cream:', ':soft_ice_cream:', ':soft_ice_cream:']",Semantic list,THICKNESS
+thick cream,🧁,[':cupcake:'],Single,THICKNESS
+thick cream,🧴💪,"[':lotion_bottle:', ':flexed_biceps:']",Metaphorical,THICKNESS
+thick cream,🍶🍶,"[':sake:', ':sake:']",Reduplication,THICKNESS
+thick cream,📏🍦🍦,"[':straight_ruler:', ':soft_ice_cream:', ':soft_ice_cream:']",Metaphorical,THICKNESS
+thick cream,🍦,[':soft_ice_cream:'],Single,THICKNESS
+thick fog,🌫️🌫️🌫️,"[':fog:', ':fog:', ':fog:']",Reduplication,THICKNESS
+thick fog,✈️🙈,"[':airplane:', ':see-no-evil_monkey:']",Metaphorical,THICKNESS
+thick fog,💨👁️🌫️,"[':dashing_away:', ':eye:', ':fog:']",Metaphorical,THICKNESS
+thick fog,🌫️🌫️🌁,"[':fog:', ':fog:', ':foggy:']",Semantic list,THICKNESS
+thick fog,🌫️🌫️🌫️,"[':fog:', ':fog:', ':fog:']",Reduplication,THICKNESS
+thick fog,🌫️🌫️,"[':fog:', ':fog:']",Reduplication,THICKNESS
+thick fog,📏🌫️🌫️🌫️🌁🌁,"[':straight_ruler:', ':fog:', ':fog:', ':fog:', ':foggy:', ':foggy:']",Semantic list,THICKNESS
+thick fog,🌫😶‍🌫️,"[':fog:', ':face_in_clouds:']",Semantic list,THICKNESS
+wrong paper,❌📄,"[':cross_mark:', ':page_facing_up:']",Direct,CORRECTNESS
+wrong paper,❌📜,"[':cross_mark:', ':scroll:']",Direct,CORRECTNESS
+wrong paper,🙅‍♀️📃,"[':woman_gesturing_NO:', ':page_with_curl:']",Direct,CORRECTNESS
+wrong paper,❌📄,"[':cross_mark:', ':page_facing_up:']",Direct,CORRECTNESS
+wrong paper,🙅‍♂️📄,"[':man_gesturing_NO:', ':page_facing_up:']",Direct,CORRECTNESS
+wrong paper,❌️📃,"[':cross_mark:', '', ':page_with_curl:']",Direct,CORRECTNESS
+wrong paper,❌📜,"[':cross_mark:', ':scroll:']",Direct,CORRECTNESS
+wrong paper,❌📃,"[':cross_mark:', ':page_with_curl:']",Direct,CORRECTNESS
+wrong road,❌🛣️,"[':cross_mark:', ':motorway:']",Direct,CORRECTNESS
+wrong road,❌🛣️,"[':cross_mark:', ':motorway:']",Direct,CORRECTNESS
+wrong road,🙅‍♀️🛣,"[':woman_gesturing_NO:', ':motorway:']",Direct,CORRECTNESS
+wrong road,❌🛣️,"[':cross_mark:', ':motorway:']",Direct,CORRECTNESS
+wrong road,🙅‍♂️🛣️,"[':man_gesturing_NO:', ':motorway:']",Direct,CORRECTNESS
+wrong road,❌️🛣,"[':cross_mark:', '', ':motorway:']",Direct,CORRECTNESS
+wrong road,❌🛣️,"[':cross_mark:', ':motorway:']",Direct,CORRECTNESS
+wrong road,🙅🛣️,"[':person_gesturing_NO:', ':motorway:']",Direct,CORRECTNESS
+wrong cheating,❌👩‍💻,"[':cross_mark:', ':woman_technologist:']",Direct,RIGHTNESS
+wrong cheating,❌📑,"[':cross_mark:', ':bookmark_tabs:']",Direct,RIGHTNESS
+wrong cheating,🙅‍♀️💔,"[':woman_gesturing_NO:', ':broken_heart:']",Metaphorical,RIGHTNESS
+wrong cheating,🙅👩‍❤️‍💋‍👨💔,"[':person_gesturing_NO:', ':kiss_woman_man:', ':broken_heart:']",Metaphorical,RIGHTNESS
+wrong cheating,🙅‍♂️😈🤫✍️📄📚💯,"[':man_gesturing_NO:', ':smiling_face_with_horns:', ':shushing_face:', ':writing_hand:', ':page_facing_up:', ':books:', ':hundred_points:']",Metaphorical,RIGHTNESS
+wrong cheating,👎📝,"[':thumbs_down:', ':memo:']",Direct,RIGHTNESS
+wrong cheating,❌📝📋,"[':cross_mark:', ':memo:', ':clipboard:']",Direct,RIGHTNESS
+wrong cheating,😏👎,"[':smirking_face:', ':thumbs_down:']",Metaphorical,RIGHTNESS
+wrong way,❌↗️↖️❎,"[':cross_mark:', ':up-right_arrow:', ':up-left_arrow:', ':cross_mark_button:']",Metaphorical,PROPRIETY
+wrong way,❌↩️,"[':cross_mark:', ':right_arrow_curving_left:']",Direct,PROPRIETY
+wrong way,🙅‍♀️🚸,"[':woman_gesturing_NO:', ':children_crossing:']",Direct,PROPRIETY
+wrong way,❌↗️🗺️,"[':cross_mark:', ':up-right_arrow:', ':world_map:']",Metaphorical,PROPRIETY
+wrong way,🙅‍♂️🗺️🧭,"[':man_gesturing_NO:', ':world_map:', ':compass:']",Metaphorical,PROPRIETY
+wrong way,❌️🧭,"[':cross_mark:', '', ':compass:']",Metaphorical,PROPRIETY
+wrong way,❌🗺️🙅‍♀️,"[':cross_mark:', ':world_map:', ':woman_gesturing_NO:']",Direct,PROPRIETY
+wrong way,🤦🧭,"[':person_facepalming:', ':compass:']",Direct,PROPRIETY
+wrong medicine,❌💊,"[':cross_mark:', ':pill:']",Direct,PROPRIETY
+wrong medicine,❌💊,"[':cross_mark:', ':pill:']",Direct,PROPRIETY
+wrong medicine,🙅‍♀️💊,"[':woman_gesturing_NO:', ':pill:']",Direct,PROPRIETY
+wrong medicine,❌💊🤒,"[':cross_mark:', ':pill:', ':face_with_thermometer:']",Direct,PROPRIETY
+wrong medicine,🙅‍♂️💊,"[':man_gesturing_NO:', ':pill:']",Direct,PROPRIETY
+wrong medicine,❌️💊,"[':cross_mark:', '', ':pill:']",Direct,PROPRIETY
+wrong medicine,❌💊,"[':cross_mark:', ':pill:']",Direct,PROPRIETY
+wrong medicine,❌💊,"[':cross_mark:', ':pill:']",Direct,PROPRIETY
+wrong information,❌ℹ️,"[':cross_mark:', ':information:']",Direct,CORRECTNESS
+wrong information,❌ℹ️,"[':cross_mark:', ':information:']",Direct,CORRECTNESS
+wrong information,🙅‍♀️ℹ,"[':woman_gesturing_NO:', ':information:']",Direct,CORRECTNESS
+wrong information,❌💭❓,"[':cross_mark:', ':thought_balloon:', ':red_question_mark:']",Metaphorical,CORRECTNESS
+wrong information,🙅‍♂️📑🗂️,"[':man_gesturing_NO:', ':bookmark_tabs:', ':card_index_dividers:']",Direct,CORRECTNESS
+wrong information,❌️🧠,"[':cross_mark:', '', ':brain:']",Metaphorical,CORRECTNESS
+wrong information,❌📰,"[':cross_mark:', ':newspaper:']",Direct,CORRECTNESS
+wrong information,❌ℹ️,"[':cross_mark:', ':information:']",Direct,CORRECTNESS
+wrong assumption,❌🤔,"[':cross_mark:', ':thinking_face:']",Direct,CORRECTNESS
+wrong assumption,❌💭,"[':cross_mark:', ':thought_balloon:']",Direct,CORRECTNESS
+wrong assumption,🙅‍♀️🤔,"[':woman_gesturing_NO:', ':thinking_face:']",Direct,CORRECTNESS
+wrong assumption,👄❌👄💬,"[':mouth:', ':cross_mark:', ':mouth:', ':speech_balloon:']",Direct,CORRECTNESS
+wrong assumption,🙅‍♂️🤔,"[':man_gesturing_NO:', ':thinking_face:']",Direct,CORRECTNESS
+wrong assumption,❌️👀🧠,"[':cross_mark:', '', ':eyes:', ':brain:']",Direct,CORRECTNESS
+wrong assumption,❌🤔,"[':cross_mark:', ':thinking_face:']",Direct,CORRECTNESS
+wrong assumption,🤔🤦,"[':thinking_face:', ':person_facepalming:']",Metaphorical,CORRECTNESS
+wrong time,❌⏰,"[':cross_mark:', ':alarm_clock:']",Direct,CORRECTNESS
+wrong time,❌🕡,"[':cross_mark:', ':six-thirty:']",Direct,CORRECTNESS
+wrong time,🙅‍♀️🕰,"[':woman_gesturing_NO:', ':mantelpiece_clock:']",Direct,CORRECTNESS
+wrong time,❌⏱️⏰,"[':cross_mark:', ':stopwatch:', ':alarm_clock:']",Direct,CORRECTNESS
+wrong time,🙅‍♂️⏱️,"[':man_gesturing_NO:', ':stopwatch:']",Direct,CORRECTNESS
+wrong time,❌️⏰️,"[':cross_mark:', '', ':alarm_clock:', '']",Direct,CORRECTNESS
+wrong time,❌⏱️,"[':cross_mark:', ':stopwatch:']",Direct,CORRECTNESS
+wrong time,🤦⌚,"[':person_facepalming:', ':watch:']",Metaphorical,CORRECTNESS
+warm support,♨️🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑,"[':hot_springs:', ':people_holding_hands:', ':people_holding_hands:', ':people_holding_hands:']",Metaphorical,EMOTIONALITY
+warm support,🌡🫂,"[':thermometer:', ':people_hugging:']",Direct,EMOTIONALITY
+warm support,🤝🥵,"[':handshake:', ':hot_face:']",Direct,EMOTIONALITY
+warm support,👪🥰,"[':family:', ':smiling_face_with_hearts:']",Metaphorical,EMOTIONALITY
+warm support,🫂🤗,"[':people_hugging:', ':smiling_face_with_open_hands:']",Direct,EMOTIONALITY
+warm support,🥰,[':smiling_face_with_hearts:'],Single,EMOTIONALITY
+warm support,🔥💪🏻,"[':fire:', ':flexed_biceps_light_skin_tone:']",Direct,EMOTIONALITY
+warm support,🌡️💪,"[':thermometer:', ':flexed_biceps:']",Direct,EMOTIONALITY
+warm greeting,♨️🤗🤝,"[':hot_springs:', ':smiling_face_with_open_hands:', ':handshake:']",Direct,EMOTIONALITY
+warm greeting,♨️👋,"[':hot_springs:', ':waving_hand:']",Direct,EMOTIONALITY
+warm greeting,🥵👋,"[':hot_face:', ':waving_hand:']",Direct,EMOTIONALITY
+warm greeting,👋🥰,"[':waving_hand:', ':smiling_face_with_hearts:']",Metaphorical,EMOTIONALITY
+warm greeting,😊👋,"[':smiling_face_with_smiling_eyes:', ':waving_hand:']",Metaphorical,EMOTIONALITY
+warm greeting,👋👋👋,"[':waving_hand:', ':waving_hand:', ':waving_hand:']",Reduplication,EMOTIONALITY
+warm greeting,❤️👋,"[':red_heart:', ':waving_hand:']",Metaphorical,EMOTIONALITY
+warm greeting,🌡️🤝,"[':thermometer:', ':handshake:']",Direct,EMOTIONALITY
+warm debate,♨️⚖️,"[':hot_springs:', ':balance_scale:']",Direct,LIVELINESS
+warm debate,🔥🗣,"[':fire:', ':speaking_head:']",Direct,LIVELINESS
+warm debate,🕵‍♂️🕵‍♀️,"[':man_detective:', ':woman_detective:']",Reduplication,LIVELINESS
+warm debate,🧠🗣️💥,"[':brain:', ':speaking_head:', ':collision:']",Direct,LIVELINESS
+warm debate,🗣️🔥🗣️,"[':speaking_head:', ':fire:', ':speaking_head:']",Direct,LIVELINESS
+warm debate,👄🤯,"[':mouth:', ':exploding_head:']",Metaphorical,LIVELINESS
+warm debate,💥🧠,"[':collision:', ':brain:']",Metaphorical,LIVELINESS
+warm debate,🌡️🗣️🗣️,"[':thermometer:', ':speaking_head:', ':speaking_head:']",Direct,LIVELINESS
+warm room,♨️😮‍💨,"[':hot_springs:', ':face_exhaling:']",Metaphorical,TEMPERATURE
+warm room,🌡🚺🚹,"[':thermometer:', ':women’s_room:', ':men’s_room:']",Direct,TEMPERATURE
+warm room,🥵🏡,"[':hot_face:', ':house_with_garden:']",Direct,TEMPERATURE
+warm room,🥵🏫,"[':hot_face:', ':school:']",Direct,TEMPERATURE
+warm room,🥵🌡️🏚️,"[':hot_face:', ':thermometer:', ':derelict_house:']",Direct,TEMPERATURE
+warm room,🥵,[':hot_face:'],Single,TEMPERATURE
+warm room,🔥🏠,"[':fire:', ':house:']",Direct,TEMPERATURE
+warm room,🌡️🏠,"[':thermometer:', ':house:']",Direct,TEMPERATURE
+warm body,♨️🦶🦵👃👂🖐,"[':hot_springs:', ':foot:', ':leg:', ':nose:', ':ear:', ':hand_with_fingers_splayed:']",Semantic list,TEMPERATURE
+warm body,🌡🧍‍♂️,"[':thermometer:', ':man_standing:']",Direct,TEMPERATURE
+warm body,🎥💁‍♀️❤️🧟‍♂️,"[':movie_camera:', ':woman_tipping_hand:', ':red_heart:', ':man_zombie:']",Metaphorical,TEMPERATURE
+warm body,🤒,[':face_with_thermometer:'],Single,TEMPERATURE
+warm body,🤒,[':face_with_thermometer:'],Single,TEMPERATURE
+warm body,🥵,[':hot_face:'],Single,TEMPERATURE
+warm body,🔥🧖‍♂️,"[':fire:', ':man_in_steamy_room:']",Direct,TEMPERATURE
+warm body,🌡️🧍,"[':thermometer:', ':person_standing:']",Direct,TEMPERATURE
+warm climate,♨️⛅,"[':hot_springs:', ':sun_behind_cloud:']",Direct,TEMPERATURE
+warm climate,🌡🏜,"[':thermometer:', ':desert:']",Metaphorical,TEMPERATURE
+warm climate,🥵🏝,"[':hot_face:', ':desert_island:']",Metaphorical,TEMPERATURE
+warm climate,🤒🥵🔥☀️,"[':face_with_thermometer:', ':hot_face:', ':fire:', ':sun:']",Metaphorical,TEMPERATURE
+warm climate,☀️🌡️📈,"[':sun:', ':thermometer:', ':chart_increasing:']",Metaphorical,TEMPERATURE
+warm climate,🌤,[':sun_behind_small_cloud:'],Single,TEMPERATURE
+warm climate,🌤️,[':sun_behind_small_cloud:'],Single,TEMPERATURE
+warm climate,🌡️🌏,"[':thermometer:', ':globe_showing_Asia-Australia:']",Metaphorical,TEMPERATURE
+warm coat,♨️🧥,"[':hot_springs:', ':coat:']",Direct,TEMPERATURE
+warm coat,🌡🧥,"[':thermometer:', ':coat:']",Direct,TEMPERATURE
+warm coat,🥵🥼,"[':hot_face:', ':lab_coat:']",Direct,TEMPERATURE
+warm coat,🧥🥵,"[':coat:', ':hot_face:']",Direct,TEMPERATURE
+warm coat,👍🧥❌🥶,"[':thumbs_up:', ':coat:', ':cross_mark:', ':cold_face:']",Direct,TEMPERATURE
+warm coat,🧥,[':coat:'],Single,TEMPERATURE
+warm coat,🧥,[':coat:'],Single,TEMPERATURE
+warm coat,🌡️🥼,"[':thermometer:', ':lab_coat:']",Direct,TEMPERATURE
+warm personality,♨️🙂👤,"[':hot_springs:', ':slightly_smiling_face:', ':bust_in_silhouette:']",Direct,EMOTIONALITY
+warm personality,🔥😝,"[':fire:', ':squinting_face_with_tongue:']",Direct,EMOTIONALITY
+warm personality,🥵🤝👋,"[':hot_face:', ':handshake:', ':waving_hand:']",Direct,EMOTIONALITY
+warm personality,🥰👭,"[':smiling_face_with_hearts:', ':women_holding_hands:']",Metaphorical,EMOTIONALITY
+warm personality,👊🧑‍🤝‍🧑,"[':oncoming_fist:', ':people_holding_hands:']",Metaphorical,EMOTIONALITY
+warm personality,🥰,[':smiling_face_with_hearts:'],Single,EMOTIONALITY
+warm personality,😁🥳,"[':beaming_face_with_smiling_eyes:', ':partying_face:']",Semantic list,EMOTIONALITY
+warm personality,🌡️💁‍♀️,"[':thermometer:', ':woman_tipping_hand:']",Direct,EMOTIONALITY
+clear complexion,🔎👩🏻,"[':magnifying_glass_tilted_right:', ':woman_light_skin_tone:']",Direct,PERFECTION
+clear complexion,👩✨,"[':woman:', ':sparkles:']",Metaphorical,PERFECTION
+clear complexion,😌✨✨,"[':relieved_face:', ':sparkles:', ':sparkles:']",Metaphorical,PERFECTION
+clear complexion,💁‍♀️,[':woman_tipping_hand:'],Single,PERFECTION
+clear complexion,💆‍♀️👌,"[':woman_getting_massage:', ':OK_hand:']",Direct,PERFECTION
+clear complexion,👨🚰🥗🪞✨,"[':man:', ':potable_water:', ':green_salad:', ':mirror:', ':sparkles:']",Metaphorical,PERFECTION
+clear complexion,😍🧴,"[':smiling_face_with_heart-eyes:', ':lotion_bottle:']",Metaphorical,PERFECTION
+clear indication,🔎👉,"[':magnifying_glass_tilted_right:', ':backhand_index_pointing_right:']",Direct,CLARITY
+clear indication,✔️✔️,"[':check_mark:', ':check_mark:']",Reduplication,CLARITY
+clear indication,😲😲🆗,"[':astonished_face:', ':astonished_face:', ':OK_button:']",Metaphorical,CLARITY
+clear indication,🔮👓,"[':crystal_ball:', ':glasses:']",Direct,CLARITY
+clear indication,✔️✍️,"[':check_mark:', ':writing_hand:']",Direct,CLARITY
+clear indication,💬✔️❌❓,"[':speech_balloon:', ':check_mark:', ':cross_mark:', ':red_question_mark:']",Direct,CLARITY
+clear indication,🗣👍🏻,"[':speaking_head:', ':thumbs_up_light_skin_tone:']",Direct,CLARITY
+clear air,🌬,[':wind_face:'],Single,CLEARNESS
+clear air,⛰️🌬️,"[':mountain:', ':wind_face:']",Metaphorical,CLEARNESS
+clear air,💨💨✨,"[':dashing_away:', ':dashing_away:', ':sparkles:']",Metaphorical,CLEARNESS
+clear air,🍃❌🚬🧹,"[':leaf_fluttering_in_wind:', ':cross_mark:', ':cigarette:', ':broom:']",Metaphorical,CLEARNESS
+clear air,🌬️🍃👍,"[':wind_face:', ':leaf_fluttering_in_wind:', ':thumbs_up:']",Direct,CLEARNESS
+clear air,💨✨❌🦠,"[':dashing_away:', ':sparkles:', ':cross_mark:', ':microbe:']",Metaphorical,CLEARNESS
+clear air,👍🏻🌬,"[':thumbs_up_light_skin_tone:', ':wind_face:']",Direct,CLEARNESS
+clear case,🔎💼,"[':magnifying_glass_tilted_right:', ':briefcase:']",Direct,CLARITY
+clear case,✔️💼,"[':check_mark:', ':briefcase:']",Direct,CLARITY
+clear case,👀🗣️,"[':eyes:', ':speaking_head:']",Metaphorical,CLARITY
+clear case,🪟💼,"[':window:', ':briefcase:']",Direct,CLARITY
+clear case,✔️💼,"[':check_mark:', ':briefcase:']",Direct,CLARITY
+clear case,🕵🔬🔪🩸💡,"[':detective:', ':microscope:', ':kitchen_knife:', ':drop_of_blood:', ':light_bulb:']",Metaphorical,CLARITY
+clear case,📂,[':open_file_folder:'],Single,CLARITY
+clear idea,🔎💡,"[':magnifying_glass_tilted_right:', ':light_bulb:']",Direct,CLARITY
+clear idea,✔️💡,"[':check_mark:', ':light_bulb:']",Direct,CLARITY
+clear idea,🧠😲🆗,"[':brain:', ':astonished_face:', ':OK_button:']",Metaphorical,CLARITY
+clear idea,🪟💡,"[':window:', ':light_bulb:']",Direct,CLARITY
+clear idea,✔️💡,"[':check_mark:', ':light_bulb:']",Direct,CLARITY
+clear idea,🤔💭💡✅,"[':thinking_face:', ':thought_balloon:', ':light_bulb:', ':check_mark_button:']",Metaphorical,CLARITY
+clear idea,📑👍🏻,"[':bookmark_tabs:', ':thumbs_up_light_skin_tone:']",Direct,CLARITY
+clear explanation,🔎🗣,"[':magnifying_glass_tilted_right:', ':speaking_head:']",Direct,CLARITY
+clear explanation,✔️🗣️,"[':check_mark:', ':speaking_head:']",Direct,CLARITY
+clear explanation,💬😲🆗,"[':speech_balloon:', ':astonished_face:', ':OK_button:']",Direct,CLARITY
+clear explanation,👩‍🏫💯🗣️,"[':woman_teacher:', ':hundred_points:', ':speaking_head:']",Metaphorical,CLARITY
+clear explanation,🗣️💡,"[':speaking_head:', ':light_bulb:']",Metaphorical,CLARITY
+clear explanation,🤔❔👨‍🏫🗣️💡✅😀,"[':thinking_face:', ':white_question_mark:', ':man_teacher:', ':speaking_head:', ':light_bulb:', ':check_mark_button:', ':grinning_face:']",Metaphorical,CLARITY
+clear explanation,👍🏻🗣,"[':thumbs_up_light_skin_tone:', ':speaking_head:']",Direct,CLARITY
+clear glass,🔎🥛,"[':magnifying_glass_tilted_right:', ':glass_of_milk:']",Direct,CLEARNESS
+clear glass,✔️🥛,"[':check_mark:', ':glass_of_milk:']",Direct,CLEARNESS
+clear glass,🥃✨,"[':tumbler_glass:', ':sparkles:']",Metaphorical,CLEARNESS
+clear glass,👓🥃,"[':glasses:', ':tumbler_glass:']",Direct,CLEARNESS
+clear glass,✔️🥛,"[':check_mark:', ':glass_of_milk:']",Direct,CLEARNESS
+clear glass,👓🔍✨✨,"[':glasses:', ':magnifying_glass_tilted_left:', ':sparkles:', ':sparkles:']",Direct,CLEARNESS
+clear glass,🥃🔎,"[':tumbler_glass:', ':magnifying_glass_tilted_right:']",Direct,CLEARNESS
+clear water,🔎💦,"[':magnifying_glass_tilted_right:', ':sweat_droplets:']",Direct,CLEARNESS
+clear water,✔️💧,"[':check_mark:', ':droplet:']",Direct,CLEARNESS
+clear water,💧💧✨,"[':droplet:', ':droplet:', ':sparkles:']",Metaphorical,CLEARNESS
+clear water,👍💦💧,"[':thumbs_up:', ':sweat_droplets:', ':droplet:']",Direct,CLEARNESS
+clear water,✔️💧,"[':check_mark:', ':droplet:']",Direct,CLEARNESS
+clear water,💧💧🔬✨❌🦠,"[':droplet:', ':droplet:', ':microscope:', ':sparkles:', ':cross_mark:', ':microbe:']",Metaphorical,CLEARNESS
+clear water,💧⚪️,"[':droplet:', ':white_circle:', '']",Metaphorical,CLEARNESS
+clear-cut evidence,🔎📑,"[':magnifying_glass_tilted_right:', ':bookmark_tabs:']",Direct,CLARITY
+clear-cut evidence,✔️📃,"[':check_mark:', ':page_with_curl:']",Direct,CLARITY
+clear-cut evidence,📶😮✨👍,"[':antenna_bars:', ':face_with_open_mouth:', ':sparkles:', ':thumbs_up:']",Metaphorical,CLARITY
+clear-cut evidence,🔍🕵️‍♂️🎉,"[':magnifying_glass_tilted_left:', ':man_detective:', ':party_popper:']",Metaphorical,CLARITY
+clear-cut evidence,🕵✂️📜,"[':detective:', ':scissors:', ':scroll:']",Direct,CLARITY
+clear-cut evidence,🔪❓🔬💡✔️,"[':kitchen_knife:', ':red_question_mark:', ':microscope:', ':light_bulb:', ':check_mark:']",Metaphorical,CLARITY
+clear-cut evidence,📜🔎,"[':scroll:', ':magnifying_glass_tilted_right:']",Direct,CLARITY
+unclear action,🤔🏃‍♀️,"[':thinking_face:', ':woman_running:']",Direct,CLARITY
+unclear action,❌♟️,"[':cross_mark:', ':chess_pawn:']",Direct,CLARITY
+unclear action,🤨🧐🤷‍♀️🤷‍♂️,"[':face_with_raised_eyebrow:', ':face_with_monocle:', ':woman_shrugging:', ':man_shrugging:']",Semantic list,CLARITY
+unclear action,❓❓❓,"[':red_question_mark:', ':red_question_mark:', ':red_question_mark:']",Reduplication,CLARITY
+unclear action,🕺🤔,"[':man_dancing:', ':thinking_face:']",Direct,CLARITY
+unclear action,👨‍🏫🗣️📝❓❓❓,"[':man_teacher:', ':speaking_head:', ':memo:', ':red_question_mark:', ':red_question_mark:', ':red_question_mark:']",Metaphorical,CLARITY
+unclear action,❓🤨,"[':red_question_mark:', ':face_with_raised_eyebrow:']",Metaphorical,CLARITY
+deep trance,🕳️👀,"[':hole:', ':eyes:']",Direct,DEPTH
+deep trance,♒😵,"[':Aquarius:', ':face_with_crossed-out_eyes:']",Direct,DEPTH
+deep trance,😵,[':face_with_crossed-out_eyes:'],Single,DEPTH
+deep trance,😵‍💫,[':face_with_spiral_eyes:'],Single,DEPTH
+deep trance,😵‍💫😶,"[':face_with_spiral_eyes:', ':face_without_mouth:']",Semantic list,DEPTH
+deep trance,😵‍💫,[':face_with_spiral_eyes:'],Single,DEPTH
+deep trance,🧘‍♂️,[':man_in_lotus_position:'],Single,DEPTH
+deep trance,😵‍💫⬇️,"[':face_with_spiral_eyes:', ':down_arrow:']",Direct,DEPTH
+deep sigh,🕳️😮‍💨,"[':hole:', ':face_exhaling:']",Direct,DEPTH
+deep sigh,😞😞,"[':disappointed_face:', ':disappointed_face:']",Reduplication,DEPTH
+deep sigh,😮‍💨,[':face_exhaling:'],Single,DEPTH
+deep sigh,😮‍💨,[':face_exhaling:'],Single,DEPTH
+deep sigh,😮‍💨😥😕,"[':face_exhaling:', ':sad_but_relieved_face:', ':confused_face:']",Semantic list,DEPTH
+deep sigh,😮‍💨,[':face_exhaling:'],Single,DEPTH
+deep sigh,😮‍💨😮‍💨,"[':face_exhaling:', ':face_exhaling:']",Reduplication,DEPTH
+deep sigh,😤🌬️,"[':face_with_steam_from_nose:', ':wind_face:']",Metaphorical,DEPTH
+deep cut,🕳️✂️,"[':hole:', ':scissors:']",Direct,SIZE
+deep cut,🤕✂️,"[':face_with_head-bandage:', ':scissors:']",Metaphorical,SIZE
+deep cut,🔪🔪🔪,"[':kitchen_knife:', ':kitchen_knife:', ':kitchen_knife:']",Reduplication,SIZE
+deep cut,🩸😱😵🔪,"[':drop_of_blood:', ':face_screaming_in_fear:', ':face_with_crossed-out_eyes:', ':kitchen_knife:']",Metaphorical,SIZE
+deep cut,☝️🔪🩸🩸,"[':index_pointing_up:', ':kitchen_knife:', ':drop_of_blood:', ':drop_of_blood:']",Metaphorical,SIZE
+deep cut,✂️🩸,"[':scissors:', ':drop_of_blood:']",Metaphorical,SIZE
+deep cut,🤕,[':face_with_head-bandage:'],Single,SIZE
+deep cut,🩸🤕,"[':drop_of_blood:', ':face_with_head-bandage:']",Metaphorical,SIZE
+deep voice,🕳️🗣️,"[':hole:', ':speaking_head:']",Direct,PITCH
+deep voice,🤔🗣,"[':thinking_face:', ':speaking_head:']",Metaphorical,PITCH
+deep voice,🐻🎤,"[':bear:', ':microphone:']",Metaphorical,PITCH
+deep voice,🗣️👨‍🦳,"[':speaking_head:', ':man_white_hair:']",Metaphorical,PITCH
+deep voice,🗣️🔊🔽,"[':speaking_head:', ':speaker_high_volume:', ':downwards_button:']",Direct,PITCH
+deep voice,🗣️,[':speaking_head:'],Single,PITCH
+deep voice,🗣️ 🧏‍♂️,"[':speaking_head:', ':deaf_man:']",Metaphorical,PITCH
+deep voice,🗣️⬇️,"[':speaking_head:', ':down_arrow:']",Direct,PITCH
+deep emotion,🕳️😋,"[':hole:', ':face_savoring_food:']",Direct,DEPTH
+deep emotion,🤔🤔,"[':thinking_face:', ':thinking_face:']",Reduplication,DEPTH
+deep emotion,😭🌊,"[':loudly_crying_face:', ':water_wave:']",Metaphorical,DEPTH
+deep emotion,🧐🤯,"[':face_with_monocle:', ':exploding_head:']",Metaphorical,DEPTH
+deep emotion,⏬😢😭,"[':fast_down_button:', ':crying_face:', ':loudly_crying_face:']",Direct,DEPTH
+deep emotion,🤬🤯😭😔,"[':face_with_symbols_on_mouth:', ':exploding_head:', ':loudly_crying_face:', ':pensive_face:']",Semantic list,DEPTH
+deep emotion,😶,[':face_without_mouth:'],Single,DEPTH
+deep emotion,😖🥺😤,"[':confounded_face:', ':pleading_face:', ':face_with_steam_from_nose:']",Semantic list,DEPTH
+deep concentration,🕳️🤫,"[':hole:', ':shushing_face:']",Direct,DEPTH
+deep concentration,🤔🧐,"[':thinking_face:', ':face_with_monocle:']",Semantic list,DEPTH
+deep concentration,😵😵😵,"[':face_with_crossed-out_eyes:', ':face_with_crossed-out_eyes:', ':face_with_crossed-out_eyes:']",Reduplication,DEPTH
+deep concentration,🧐👩‍💻✏️,"[':face_with_monocle:', ':woman_technologist:', ':pencil:']",Metaphorical,DEPTH
+deep concentration,⏬🧐🤓,"[':fast_down_button:', ':face_with_monocle:', ':nerd_face:']",Direct,DEPTH
+deep concentration,🤔,[':thinking_face:'],Single,DEPTH
+deep concentration,📖,[':open_book:'],Single,DEPTH
+deep concentration,📃📄🤓😵‍💫,"[':page_with_curl:', ':page_facing_up:', ':nerd_face:', ':face_with_spiral_eyes:']",Metaphorical,DEPTH
+deep sleep,🕳️🛌,"[':hole:', ':person_in_bed:']",Direct,DEPTH
+deep sleep,😴😪🛌,"[':sleeping_face:', ':sleepy_face:', ':person_in_bed:']",Metaphorical,DEPTH
+deep sleep,😴😴😴,"[':sleeping_face:', ':sleeping_face:', ':sleeping_face:']",Reduplication,DEPTH
+deep sleep,😪🤤😴😵,"[':sleepy_face:', ':drooling_face:', ':sleeping_face:', ':face_with_crossed-out_eyes:']",Metaphorical,DEPTH
+deep sleep,😴🛌💤💤,"[':sleeping_face:', ':person_in_bed:', ':zzz:', ':zzz:']",Metaphorical,DEPTH
+deep sleep,😪💤,"[':sleepy_face:', ':zzz:']",Metaphorical,DEPTH
+deep sleep,😴😴,"[':sleeping_face:', ':sleeping_face:']",Reduplication,DEPTH
+deep sleep,😴😴💤💤,"[':sleeping_face:', ':sleeping_face:', ':zzz:', ':zzz:']",Metaphorical,DEPTH
+deep breath,🕳️😮‍💨,"[':hole:', ':face_exhaling:']",Direct,DEPTH
+deep breath,😮🫁,"[':face_with_open_mouth:', ':lungs:']",Metaphorical,DEPTH
+deep breath,😮‍💨😮‍💨😮‍💨,"[':face_exhaling:', ':face_exhaling:', ':face_exhaling:']",Reduplication,DEPTH
+deep breath,😮‍💨,[':face_exhaling:'],Single,DEPTH
+deep breath,🥱😮😮‍💨,"[':yawning_face:', ':face_with_open_mouth:', ':face_exhaling:']",Semantic list,DEPTH
+deep breath,😮‍💨,[':face_exhaling:'],Single,DEPTH
+deep breath,👃💨,"[':nose:', ':dashing_away:']",Metaphorical,DEPTH
+deep breath,🌬️🫁,"[':wind_face:', ':lungs:']",Metaphorical,DEPTH
+high price,💲💲💲💲,"[':heavy_dollar_sign:', ':heavy_dollar_sign:', ':heavy_dollar_sign:', ':heavy_dollar_sign:']",Reduplication,DEGREE
+high price,🔝💸,"[':TOP_arrow:', ':money_with_wings:']",Metaphorical,DEGREE
+high price,⬆️💲,"[':up_arrow:', ':heavy_dollar_sign:']",Direct,DEGREE
+high price,🔝💵💸,"[':TOP_arrow:', ':dollar_banknote:', ':money_with_wings:']",Direct,DEGREE
+high price,💸🤑🏦,"[':money_with_wings:', ':money-mouth_face:', ':bank:']",Metaphorical,DEGREE
+high price,🏷💰,"[':label:', ':money_bag:']",Metaphorical,DEGREE
+high price,🪜💲,"[':ladder:', ':heavy_dollar_sign:']",Direct,DEGREE
+high price,💲🤯👆,"[':heavy_dollar_sign:', ':exploding_head:', ':backhand_index_pointing_up:']",Metaphorical,DEGREE
+high forehead,👨‍🦲🤏,"[':man_bald:', ':pinching_hand:']",Metaphorical,HEIGHT
+high forehead,🔝👩‍🦲,"[':TOP_arrow:', ':woman_bald:']",Direct,HEIGHT
+high forehead,⬆️👴,"[':up_arrow:', ':old_man:']",Direct,HEIGHT
+high forehead,👨‍🦲❌👦👨,"[':man_bald:', ':cross_mark:', ':boy:', ':man:']",Metaphorical,HEIGHT
+high forehead,⬆️👩‍🦲,"[':up_arrow:', ':woman_bald:']",Direct,HEIGHT
+high forehead,☝️👨‍🦲,"[':index_pointing_up:', ':man_bald:']",Direct,HEIGHT
+high forehead,🪜🤦🏻‍♀️,"[':ladder:', ':woman_facepalming_light_skin_tone:']",Metaphorical,HEIGHT
+high forehead,👨‍🦲👆,"[':man_bald:', ':backhand_index_pointing_up:']",Direct,HEIGHT
+high hope,😇🙏,"[':smiling_face_with_halo:', ':folded_hands:']",Metaphorical,DEGREE
+high hope,🔝✡️,"[':TOP_arrow:', ':star_of_David:']",Direct,DEGREE
+high hope,⬆️☺️,"[':up_arrow:', ':smiling_face:']",Direct,DEGREE
+high hope,🔝🤞🙏🌠💫🍀🤗,"[':TOP_arrow:', ':crossed_fingers:', ':folded_hands:', ':shooting_star:', ':dizzy:', ':four_leaf_clover:', ':smiling_face_with_open_hands:']",Metaphorical,DEGREE
+high hope,⬆️😇🤞,"[':up_arrow:', ':smiling_face_with_halo:', ':crossed_fingers:']",Metaphorical,DEGREE
+high hope,⬆️🙏,"[':up_arrow:', ':folded_hands:']",Direct,DEGREE
+high hope,🪜🙏🏼,"[':ladder:', ':folded_hands_medium-light_skin_tone:']",Metaphorical,DEGREE
+high hope,🙏😌👆,"[':folded_hands:', ':relieved_face:', ':backhand_index_pointing_up:']",Metaphorical,DEGREE
+high building,🔝🏢,"[':TOP_arrow:', ':office_building:']",Direct,HEIGHT
+high building,🔝🗼,"[':TOP_arrow:', ':Tokyo_tower:']",Direct,HEIGHT
+high building,⬆️🗼,"[':up_arrow:', ':Tokyo_tower:']",Direct,HEIGHT
+high building,🔝🏢🌆,"[':TOP_arrow:', ':office_building:', ':cityscape_at_dusk:']",Direct,HEIGHT
+high building,🗼🏰🏯,"[':Tokyo_tower:', ':castle:', ':Japanese_castle:']",Direct,HEIGHT
+high building,⬆️🏙,"[':up_arrow:', ':cityscape:']",Direct,HEIGHT
+high building,🪜🏢,"[':ladder:', ':office_building:']",Metaphorical,HEIGHT
+high building,🏢👆,"[':office_building:', ':backhand_index_pointing_up:']",Direct,HEIGHT
+high mountain,🏔️😲,"[':snow-capped_mountain:', ':astonished_face:']",Metaphorical,HEIGHT
+high mountain,🔝🗻,"[':TOP_arrow:', ':mount_fuji:']",Direct,HEIGHT
+high mountain,⬆️🏔️,"[':up_arrow:', ':snow-capped_mountain:']",Direct,HEIGHT
+high mountain,🔝⛰️,"[':TOP_arrow:', ':mountain:']",Direct,HEIGHT
+high mountain,⛰️🏔️🗻,"[':mountain:', ':snow-capped_mountain:', ':mount_fuji:']",Semantic list,HEIGHT
+high mountain,⬆️⛰️,"[':up_arrow:', ':mountain:']",Direct,HEIGHT
+high mountain,🪜🏔,"[':ladder:', ':snow-capped_mountain:']",Metaphorical,HEIGHT
+high mountain,🏔️👆,"[':snow-capped_mountain:', ':backhand_index_pointing_up:']",Direct,HEIGHT
+high temperature,☀️♨️🥵🌡️,"[':sun:', ':hot_springs:', ':hot_face:', ':thermometer:']",Metaphorical,DEGREE
+high temperature,🔝🥵,"[':TOP_arrow:', ':hot_face:']",Metaphorical,DEGREE
+high temperature,🌡️🤒,"[':thermometer:', ':face_with_thermometer:']",Metaphorical,DEGREE
+high temperature,🤒🥴🥵,"[':face_with_thermometer:', ':woozy_face:', ':hot_face:']",Metaphorical,DEGREE
+high temperature,🥵♨️☀️🛏️,"[':hot_face:', ':hot_springs:', ':sun:', ':bed:']",Metaphorical,DEGREE
+high temperature,🌡☀️,"[':thermometer:', ':sun:']",Metaphorical,DEGREE
+high temperature,🤒,[':face_with_thermometer:'],Metaphorical,DEGREE
+high temperature,🌡️🤒👆,"[':thermometer:', ':face_with_thermometer:', ':backhand_index_pointing_up:']",Metaphorical,DEGREE
+high risk,😷⚠️☠️,"[':face_with_medical_mask:', ':warning:', ':skull_and_crossbones:']",Metaphorical,DEGREE
+high risk,🔝☠️,"[':TOP_arrow:', ':skull_and_crossbones:']",Direct,DEGREE
+high risk,☢️☣️⚠️,"[':radioactive:', ':biohazard:', ':warning:']",Metaphorical,DEGREE
+high risk,🔝🆘,"[':TOP_arrow:', ':SOS_button:']",Direct,DEGREE
+high risk,🗻☠️☣️,"[':mount_fuji:', ':skull_and_crossbones:', ':biohazard:']",Metaphorical,DEGREE
+high risk,💀❗️,"[':skull:', ':red_exclamation_mark:', '']",Metaphorical,DEGREE
+high risk,⚠️⚠️⚠️,"[':warning:', ':warning:', ':warning:']",Reduplication,DEGREE
+high risk,☢️☣️🙅👆,"[':radioactive:', ':biohazard:', ':person_gesturing_NO:', ':backhand_index_pointing_up:']",Direct,DEGREE
+high opinion,🗣️💯,"[':speaking_head:', ':hundred_points:']",Direct,DEGREE
+high opinion,🔝🗣️,"[':TOP_arrow:', ':speaking_head:']",Direct,DEGREE
+high opinion,👩‍⚕️👨‍🎓👍,"[':woman_health_worker:', ':man_student:', ':thumbs_up:']",Metaphorical,DEGREE
+high opinion,🔝👨‍⚕️👩‍⚕️,"[':TOP_arrow:', ':man_health_worker:', ':woman_health_worker:']",Metaphorical,DEGREE
+high opinion,❗‼️,"[':red_exclamation_mark:', ':double_exclamation_mark:']",Metaphorical,DEGREE
+high opinion,⬆️🗣,"[':up_arrow:', ':speaking_head:']",Direct,DEGREE
+high opinion,👍🏼👍🏼👍🏼,"[':thumbs_up_medium-light_skin_tone:', ':thumbs_up_medium-light_skin_tone:', ':thumbs_up_medium-light_skin_tone:']",Reduplication,DEGREE
+high opinion,🗣️👆,"[':speaking_head:', ':backhand_index_pointing_up:']",Direct,DEGREE
+high river,🏞️,[':national_park:'],Single,DEGREE
+high river,🔝🏞️,"[':TOP_arrow:', ':national_park:']",Direct,DEGREE
+high river,⬆️🏞️,"[':up_arrow:', ':national_park:']",Direct,DEGREE
+high river,🔝🌊🏞️,"[':TOP_arrow:', ':water_wave:', ':national_park:']",Direct,DEGREE
+high river,🏞️,[':national_park:'],Single,DEGREE
+high river,⬆️🏞,"[':up_arrow:', ':national_park:']",Direct,DEGREE
+high river,🪜🏞,"[':ladder:', ':national_park:']",Direct,DEGREE
+high river,🌊👆,"[':water_wave:', ':backhand_index_pointing_up:']",Direct,DEGREE
+high point,🔝☝️,"[':TOP_arrow:', ':index_pointing_up:']",Direct,DEGREE
+high point,🔝👆,"[':TOP_arrow:', ':backhand_index_pointing_up:']",Direct,DEGREE
+high point,⬆️👉,"[':up_arrow:', ':backhand_index_pointing_right:']",Direct,DEGREE
+high point,🔝👉🗼,"[':TOP_arrow:', ':backhand_index_pointing_right:', ':Tokyo_tower:']",Direct,DEGREE
+high point,🏔️,[':snow-capped_mountain:'],Single,DEGREE
+high point,⬆️☝️,"[':up_arrow:', ':index_pointing_up:']",Direct,DEGREE
+high point,🪜👆,"[':ladder:', ':backhand_index_pointing_up:']",Metaphorical,DEGREE
+high point,🔺👆,"[':red_triangle_pointed_up:', ':backhand_index_pointing_up:']",Direct,DEGREE
+cool drink,🧊🥃,"[':ice:', ':tumbler_glass:']",Metaphorical,TEMPERATURE
+cool drink,🆒🥤,"[':COOL_button:', ':cup_with_straw:']",Direct,TEMPERATURE
+cool drink,🧊🍾,"[':ice:', ':bottle_with_popping_cork:']",Metaphorical,TEMPERATURE
+cool drink,🧊🍹🍺,"[':ice:', ':tropical_drink:', ':beer_mug:']",Metaphorical,TEMPERATURE
+cool drink,🆒🍹,"[':COOL_button:', ':tropical_drink:']",Direct,TEMPERATURE
+cool drink,🧊🍸,"[':ice:', ':cocktail_glass:']",Metaphorical,TEMPERATURE
+cool drink,🥤🧃,"[':cup_with_straw:', ':beverage_box:']",Semantic list,TEMPERATURE
+cool drink,💨🥤,"[':dashing_away:', ':cup_with_straw:']",Direct,TEMPERATURE
+cool relation,🧊👬,"[':ice:', ':men_holding_hands:']",Direct,EMOTIONALITY
+cool relation,🆒🧑‍🤝‍🧑,"[':COOL_button:', ':people_holding_hands:']",Direct,EMOTIONALITY
+cool relation,😎👬,"[':smiling_face_with_sunglasses:', ':men_holding_hands:']",Direct,EMOTIONALITY
+cool relation,🤜🤛🤝,"[':right-facing_fist:', ':left-facing_fist:', ':handshake:']",Metaphorical,EMOTIONALITY
+cool relation,🆒👫,"[':COOL_button:', ':woman_and_man_holding_hands:']",Direct,EMOTIONALITY
+cool relation,😶🥶🙎,"[':face_without_mouth:', ':cold_face:', ':person_pouting:']",Direct,EMOTIONALITY
+cool relation,🧊🧍‍♂️🧍‍♀️,"[':ice:', ':man_standing:', ':woman_standing:']",Metaphorical,EMOTIONALITY
+cool relation,💨👬,"[':dashing_away:', ':men_holding_hands:']",Direct,EMOTIONALITY
+cool reception,🧊🤝,"[':ice:', ':handshake:']",Direct,EMOTIONALITY
+cool reception,🆒🏨🛎️☎️,"[':COOL_button:', ':hotel:', ':bellhop_bell:', ':telephone:']",Direct,EMOTIONALITY
+cool reception,😎🎊,"[':smiling_face_with_sunglasses:', ':confetti_ball:']",Metaphorical,EMOTIONALITY
+cool reception,🙂☺️👋,"[':slightly_smiling_face:', ':smiling_face:', ':waving_hand:']",Metaphorical,EMOTIONALITY
+cool reception,🆒💁,"[':COOL_button:', ':person_tipping_hand:']",Direct,EMOTIONALITY
+cool reception,😐👋,"[':neutral_face:', ':waving_hand:']",Metaphorical,EMOTIONALITY
+cool reception,🧍‍♀️🎙️☎️,"[':woman_standing:', ':studio_microphone:', ':telephone:']",Metaphorical,EMOTIONALITY
+cool reception,💨👩🖥,"[':dashing_away:', ':woman:', ':desktop_computer:']",Direct,EMOTIONALITY
+cool room,🧊🏠,"[':ice:', ':house:']",Direct,TEMPERATURE
+cool room,🆒🛋️,"[':COOL_button:', ':couch_and_lamp:']",Direct,TEMPERATURE
+cool room,🌡️🥶🏠,"[':thermometer:', ':cold_face:', ':house:']",Direct,TEMPERATURE
+cool room,🥶🧤🧣🌬️🧥🏠,"[':cold_face:', ':gloves:', ':scarf:', ':wind_face:', ':coat:', ':house:']",Metaphorical,TEMPERATURE
+cool room,🆒🏠,"[':COOL_button:', ':house:']",Direct,TEMPERATURE
+cool room,❄️💨🏠,"[':snowflake:', ':dashing_away:', ':house:']",Metaphorical,TEMPERATURE
+cool room,🧊🏤,"[':ice:', ':post_office:']",Direct,TEMPERATURE
+cool room,💨🛌,"[':dashing_away:', ':person_in_bed:']",Direct,TEMPERATURE
+cool breeze,🧊🌬️,"[':ice:', ':wind_face:']",Metaphorical,TEMPERATURE
+cool breeze,🆒🍃,"[':COOL_button:', ':leaf_fluttering_in_wind:']",Direct,TEMPERATURE
+cool breeze,🥶💨,"[':cold_face:', ':dashing_away:']",Metaphorical,TEMPERATURE
+cool breeze,❄️🌬️💨,"[':snowflake:', ':wind_face:', ':dashing_away:']",Metaphorical,TEMPERATURE
+cool breeze,🆒🍃,"[':COOL_button:', ':leaf_fluttering_in_wind:']",Direct,TEMPERATURE
+cool breeze,❄️💨,"[':snowflake:', ':dashing_away:']",Metaphorical,TEMPERATURE
+cool breeze,🧊🌬️💨,"[':ice:', ':wind_face:', ':dashing_away:']",Metaphorical,TEMPERATURE
+cool breeze,💨 💨,"[':dashing_away:', ':dashing_away:']",Reduplication,TEMPERATURE
+inadequate income,❌💲💲,"[':cross_mark:', ':heavy_dollar_sign:', ':heavy_dollar_sign:']",Direct,QUANTITY
+inadequate income,⚠️💰,"[':warning:', ':money_bag:']",Direct,QUANTITY
+inadequate income,😞💰,"[':disappointed_face:', ':money_bag:']",Direct,QUANTITY
+inadequate income,💸,[':money_with_wings:'],Single,QUANTITY
+inadequate income,❌💰👛,"[':cross_mark:', ':money_bag:', ':purse:']",Direct,QUANTITY
+inadequate income,🤷💸🏘️,"[':person_shrugging:', ':money_with_wings:', ':houses:']",Metaphorical,QUANTITY
+inadequate income,🤞💵,"[':crossed_fingers:', ':dollar_banknote:']",Direct,QUANTITY
+inadequate income,📉💰,"[':chart_decreasing:', ':money_bag:']",Direct,QUANTITY
+inadequate training,❌🧑‍🏫,"[':cross_mark:', ':teacher:']",Direct,ADEQUACY
+inadequate training,⚠️🏃‍♀️💪🏋,"[':warning:', ':woman_running:', ':flexed_biceps:', ':person_lifting_weights:']",Metaphorical,ADEQUACY
+inadequate training,😣👬👬👭,"[':persevering_face:', ':men_holding_hands:', ':men_holding_hands:', ':women_holding_hands:']",Direct,ADEQUACY
+inadequate training,🤵🤵‍♂️❌,"[':person_in_tuxedo:', ':man_in_tuxedo:', ':cross_mark:']",Direct,ADEQUACY
+inadequate training,❌🤼🤺,"[':cross_mark:', ':people_wrestling:', ':person_fencing:']",Direct,ADEQUACY
+inadequate training,🤷🚈📋,"[':person_shrugging:', ':light_rail:', ':clipboard:']",Direct,ADEQUACY
+inadequate training,👎🏋️‍♀️,"[':thumbs_down:', ':woman_lifting_weights:']",Metaphorical,ADEQUACY
+inadequate training,🔻🙋🏻‍♀️🏣,"[':red_triangle_pointed_down:', ':woman_raising_hand_light_skin_tone:', ':Japanese_post_office:']",Metaphorical,ADEQUACY
+inadequate staff,❌🤵,"[':cross_mark:', ':person_in_tuxedo:']",Direct,ADEQUACY
+inadequate staff,⚠️🧑‍🏫👩‍🏫👨‍🏫,"[':warning:', ':teacher:', ':woman_teacher:', ':man_teacher:']",Direct,ADEQUACY
+inadequate staff,😖👔,"[':confounded_face:', ':necktie:']",Metaphorical,ADEQUACY
+inadequate staff,❌🧑‍💼👨‍💼,"[':cross_mark:', ':office_worker:', ':man_office_worker:']",Direct,ADEQUACY
+inadequate staff,❌💁,"[':cross_mark:', ':person_tipping_hand:']",Direct,ADEQUACY
+inadequate staff,🤷🧑‍💼0️⃣,"[':person_shrugging:', ':office_worker:', ':keycap_0:']",Direct,ADEQUACY
+inadequate staff,🤏👬🧑‍🤝‍🧑,"[':pinching_hand:', ':men_holding_hands:', ':people_holding_hands:']",Direct,ADEQUACY
+inadequate staff,🔻👩‍💼👨‍💼,"[':red_triangle_pointed_down:', ':woman_office_worker:', ':man_office_worker:']",Direct,ADEQUACY
+idyllic life,🧖‍♀️💆‍♂️🧖‍♂️😇,"[':woman_in_steamy_room:', ':man_getting_massage:', ':man_in_steamy_room:', ':smiling_face_with_halo:']",Semantic list,PLEASANTNESS
+idyllic life,👍🎉,"[':thumbs_up:', ':party_popper:']",Metaphorical,PLEASANTNESS
+idyllic life,☺️🌈,"[':smiling_face:', ':rainbow:']",Metaphorical,PLEASANTNESS
+idyllic life,💁💁‍♀️👜💸,"[':person_tipping_hand:', ':woman_tipping_hand:', ':handbag:', ':money_with_wings:']",Metaphorical,PLEASANTNESS
+idyllic life,🎉🙌💯👨‍👩‍👧‍👦,"[':party_popper:', ':raising_hands:', ':hundred_points:', ':family_man_woman_girl_boy:']",Semantic list,PLEASANTNESS
+idyllic life,👩🥱😴,"[':woman:', ':yawning_face:', ':sleeping_face:']",Metaphorical,PLEASANTNESS
+idyllic life,😁🏡🛌,"[':beaming_face_with_smiling_eyes:', ':house_with_garden:', ':person_in_bed:']",Metaphorical,PLEASANTNESS
+idyllic life,🕊️,[':dove:'],Single,PLEASANTNESS
+idyllic spot,🖼️🌄,"[':framed_picture:', ':sunrise_over_mountains:']",Semantic list,PERFECTION
+idyllic spot,👍🔦,"[':thumbs_up:', ':flashlight:']",Direct,PERFECTION
+idyllic spot,✨🏞️,"[':sparkles:', ':national_park:']",Metaphorical,PERFECTION
+idyllic spot,👍🙆🙆‍♀️💯,"[':thumbs_up:', ':person_gesturing_OK:', ':woman_gesturing_OK:', ':hundred_points:']",Metaphorical,PERFECTION
+idyllic spot,🎉🙌💯🏖️,"[':party_popper:', ':raising_hands:', ':hundred_points:', ':beach_with_umbrella:']",Direct,PERFECTION
+idyllic spot,👩🌴🧉,"[':woman:', ':palm_tree:', ':mate:']",Metaphorical,PERFECTION
+idyllic spot,😁🌥️🍱🏕️,"[':beaming_face_with_smiling_eyes:', ':sun_behind_large_cloud:', ':bento_box:', ':camping:']",Metaphorical,PERFECTION
+idyllic spot,😃🕶️🌴,"[':grinning_face_with_big_eyes:', ':sunglasses:', ':palm_tree:']",Metaphorical,PERFECTION
+domestic worry,🏠🏛️👮‍♀️📈🇸🇬,"[':house:', ':classical_building:', ':woman_police_officer:', ':chart_increasing:', ':Singapore:']",Metaphorical,DOMESTICITY
+domestic worry,🏠🥺,"[':house:', ':pleading_face:']",Direct,DOMESTICITY
+domestic worry,🏠😖,"[':house:', ':confounded_face:']",Direct,DOMESTICITY
+domestic worry,🏡🥺😟,"[':house_with_garden:', ':pleading_face:', ':worried_face:']",Direct,DOMESTICITY
+domestic worry,🏠😟,"[':house:', ':worried_face:']",Direct,DOMESTICITY
+domestic worry,👧😟😰,"[':girl:', ':worried_face:', ':anxious_face_with_sweat:']",Metaphorical,DOMESTICITY
+domestic worry,😟🏚️💸🥣👶,"[':worried_face:', ':derelict_house:', ':money_with_wings:', ':bowl_with_spoon:', ':baby:']",Metaphorical,DOMESTICITY
+domestic worry,🏠🙍‍♀️,"[':house:', ':woman_frowning:']",Direct,DOMESTICITY
+domestic happiness,🏡🫂😊🏡,"[':house_with_garden:', ':people_hugging:', ':smiling_face_with_smiling_eyes:', ':house_with_garden:']",Direct,DOMESTICITY
+domestic happiness,🏠😄,"[':house:', ':grinning_face_with_smiling_eyes:']",Direct,DOMESTICITY
+domestic happiness,🏠🥰,"[':house:', ':smiling_face_with_hearts:']",Direct,DOMESTICITY
+domestic happiness,🏡🥰👪👩‍👩‍👦👨‍👨‍👦👨‍👧👩‍👦,"[':house_with_garden:', ':smiling_face_with_hearts:', ':family:', ':family_woman_woman_boy:', ':family_man_man_boy:', ':family_man_girl:', ':family_woman_boy:']",Direct,DOMESTICITY
+domestic happiness,🏠😃,"[':house:', ':grinning_face_with_big_eyes:']",Direct,DOMESTICITY
+domestic happiness,👧😁😂,"[':girl:', ':beaming_face_with_smiling_eyes:', ':face_with_tears_of_joy:']",Semantic list,DOMESTICITY
+domestic happiness,🏡🥰🍼👶💰,"[':house_with_garden:', ':smiling_face_with_hearts:', ':baby_bottle:', ':baby:', ':money_bag:']",Metaphorical,DOMESTICITY
+domestic happiness,😀😃😄,"[':grinning_face:', ':grinning_face_with_big_eyes:', ':grinning_face_with_smiling_eyes:']",Semantic list,DOMESTICITY
+domestic chore,🧹🍳🪠🛒🏠,"[':broom:', ':cooking:', ':plunger:', ':shopping_cart:', ':house:']",Metaphorical,DOMESTICITY
+domestic chore,🏠⌨️,"[':house:', ':keyboard:']",Metaphorical,DOMESTICITY
+domestic chore,🏠🧹,"[':house:', ':broom:']",Direct,DOMESTICITY
+domestic chore,🧹🧼🧴😷,"[':broom:', ':soap:', ':lotion_bottle:', ':face_with_medical_mask:']",Semantic list,DOMESTICITY
+domestic chore,🏠🧹,"[':house:', ':broom:']",Direct,DOMESTICITY
+domestic chore,😤🧹🧽🗑️,"[':face_with_steam_from_nose:', ':broom:', ':sponge:', ':wastebasket:']",Metaphorical,DOMESTICITY
+domestic chore,🏠😭🧹🗑️🧽🍽️🍽️,"[':house:', ':loudly_crying_face:', ':broom:', ':wastebasket:', ':sponge:', ':fork_and_knife_with_plate:', ':fork_and_knife_with_plate:']",Metaphorical,DOMESTICITY
+domestic chore,🏠🧹,"[':house:', ':broom:']",Direct,DOMESTICITY
+domestic animal,🏠🐄🐐🦮🐔🏠,"[':house:', ':cow:', ':goat:', ':guide_dog:', ':chicken:', ':house:']",Semantic list,TAMENESS
+domestic animal,🏠🐕,"[':house:', ':dog:']",Direct,TAMENESS
+domestic animal,🏠🐶🐱🐰🐹🐭,"[':house:', ':dog_face:', ':cat_face:', ':rabbit_face:', ':hamster:', ':mouse_face:']",Semantic list,TAMENESS
+domestic animal,😺🐶,"[':grinning_cat:', ':dog_face:']",Semantic list,TAMENESS
+domestic animal,🏠🐶🐱,"[':house:', ':dog_face:', ':cat_face:']",Semantic list,TAMENESS
+domestic animal,🐶🐱🐰,"[':dog_face:', ':cat_face:', ':rabbit_face:']",Semantic list,TAMENESS
+domestic animal,🏠🐶🐱😍,"[':house:', ':dog_face:', ':cat_face:', ':smiling_face_with_heart-eyes:']",Semantic list,TAMENESS
+domestic animal,🏠🦮,"[':house:', ':guide_dog:']",Metaphorical,TAMENESS
+ineffectual ruler,🤴👑📉👎,"[':prince:', ':crown:', ':chart_decreasing:', ':thumbs_down:']",Metaphorical,POTENCY
+ineffectual ruler,👎📏,"[':thumbs_down:', ':straight_ruler:']",Direct,POTENCY
+ineffectual ruler,👎🤴👸,"[':thumbs_down:', ':prince:', ':princess:']",Direct,POTENCY
+ineffectual ruler,🧑‍💻👩‍💻👨‍💻👎👎,"[':technologist:', ':woman_technologist:', ':man_technologist:', ':thumbs_down:', ':thumbs_down:']",Direct,POTENCY
+ineffectual ruler,❌🤴,"[':cross_mark:', ':prince:']",Direct,POTENCY
+ineffectual ruler,😡👮,"[':pouting_face:', ':police_officer:']",Metaphorical,POTENCY
+ineffectual ruler,🏰👑👎👎👎👬👭😡,"[':castle:', ':crown:', ':thumbs_down:', ':thumbs_down:', ':thumbs_down:', ':men_holding_hands:', ':women_holding_hands:', ':pouting_face:']",Metaphorical,POTENCY
+ineffectual ruler,👑🙅,"[':crown:', ':person_gesturing_NO:']",Direct,POTENCY
+ineffectual therapy,👂🧏‍♀️👎😒,"[':ear:', ':deaf_woman:', ':thumbs_down:', ':unamused_face:']",Metaphorical,UTILITY
+ineffectual therapy,👎💆,"[':thumbs_down:', ':person_getting_massage:']",Direct,UTILITY
+ineffectual therapy,👎🏥,"[':thumbs_down:', ':hospital:']",Direct,UTILITY
+ineffectual therapy,🧑👂❌❌,"[':person:', ':ear:', ':cross_mark:', ':cross_mark:']",Metaphorical,UTILITY
+ineffectual therapy,❌💆‍♂️👨‍⚕️,"[':cross_mark:', ':man_getting_massage:', ':man_health_worker:']",Direct,UTILITY
+ineffectual therapy,🗒️❌💀,"[':spiral_notepad:', ':cross_mark:', ':skull:']",Direct,UTILITY
+ineffectual therapy,👨‍⚕️🗣️🧠👎☹️,"[':man_health_worker:', ':speaking_head:', ':brain:', ':thumbs_down:', ':frowning_face:']",Metaphorical,UTILITY
+ineffectual therapy,💊🙅‍♀️,"[':pill:', ':woman_gesturing_NO:']",Direct,UTILITY
+intelligent question,🧠🤔,"[':brain:', ':thinking_face:']",Metaphorical,INTELLIGENCE
+intelligent question,🧠❓💬,"[':brain:', ':red_question_mark:', ':speech_balloon:']",Direct,INTELLIGENCE
+intelligent question,🙋🧠💭🧑‍🎓,"[':person_raising_hand:', ':brain:', ':thought_balloon:', ':student:']",Metaphorical,INTELLIGENCE
+intelligent question,👨‍🎓❓️,"[':man_student:', ':red_question_mark:', '']",Direct,INTELLIGENCE
+intelligent question,💡🗣❓,"[':light_bulb:', ':speaking_head:', ':red_question_mark:']",Direct,INTELLIGENCE
+intelligent question,🤔🤓❓,"[':thinking_face:', ':nerd_face:', ':red_question_mark:']",Direct,INTELLIGENCE
+intelligent question,🧑‍🎓🧠❓,"[':student:', ':brain:', ':red_question_mark:']",Direct,INTELLIGENCE
+intelligent question,🧐❓,"[':face_with_monocle:', ':red_question_mark:']",Direct,INTELLIGENCE
+intelligent life,👍👨‍🏫,"[':thumbs_up:', ':man_teacher:']",Metaphorical,INTELLIGENCE
+intelligent life,🧍🧍‍♀️🧍‍♂️,"[':person_standing:', ':woman_standing:', ':man_standing:']",Semantic list,INTELLIGENCE
+intelligent life,🧑‍🎓🤓,"[':student:', ':nerd_face:']",Metaphorical,INTELLIGENCE
+intelligent life,🎓👽,"[':graduation_cap:', ':alien:']",Metaphorical,INTELLIGENCE
+intelligent life,🤖🐾,"[':robot:', ':paw_prints:']",Metaphorical,INTELLIGENCE
+intelligent life,🤓🐶🦊🐻🦑🌳🐳🤓,"[':nerd_face:', ':dog_face:', ':fox:', ':bear:', ':squid:', ':deciduous_tree:', ':spouting_whale:', ':nerd_face:']",Semantic list,INTELLIGENCE
+intelligent life,👨‍🔬🔬🧫🦠🧠🧠,"[':man_scientist:', ':microscope:', ':petri_dish:', ':microbe:', ':brain:', ':brain:']",Semantic list,INTELLIGENCE
+intelligent life,🤔🤷‍♀️,"[':thinking_face:', ':woman_shrugging:']",Metaphorical,INTELLIGENCE
+intelligent solution,🧠💡,"[':brain:', ':light_bulb:']",Direct,REASONABLENESS
+intelligent solution,🧠❗❗,"[':brain:', ':red_exclamation_mark:', ':red_exclamation_mark:']",Metaphorical,REASONABLENESS
+intelligent solution,🤓🔍,"[':nerd_face:', ':magnifying_glass_tilted_left:']",Metaphorical,REASONABLENESS
+intelligent solution,🎓🧪,"[':graduation_cap:', ':test_tube:']",Metaphorical,REASONABLENESS
+intelligent solution,💡✅,"[':light_bulb:', ':check_mark_button:']",Metaphorical,REASONABLENESS
+intelligent solution,🤓💡,"[':nerd_face:', ':light_bulb:']",Direct,REASONABLENESS
+intelligent solution,🤔💭💡🧠,"[':thinking_face:', ':thought_balloon:', ':light_bulb:', ':brain:']",Direct,REASONABLENESS
+intelligent solution,🧠💯,"[':brain:', ':hundred_points:']",Metaphorical,REASONABLENESS
+constant lover,🙍‍♀️❤️🙍‍♂️♾️,"[':woman_frowning:', ':red_heart:', ':man_frowning:', ':infinity:']",Metaphorical,CONSTANCY
+constant lover,🔂💑👩‍❤️‍👨👩‍❤️‍👩,"[':repeat_single_button:', ':couple_with_heart:', ':couple_with_heart_woman_man:', ':couple_with_heart_woman_woman:']",Direct,CONSTANCY
+constant lover,💍👰‍♂️👰‍♀️🤵‍♂️💑,"[':ring:', ':man_with_veil:', ':woman_with_veil:', ':man_in_tuxedo:', ':couple_with_heart:']",Metaphorical,CONSTANCY
+constant lover,❤️🧓👵,"[':red_heart:', ':older_person:', ':old_woman:']",Metaphorical,CONSTANCY
+constant lover,🕰💤🫂,"[':mantelpiece_clock:', ':zzz:', ':people_hugging:']",Metaphorical,CONSTANCY
+constant lover,💘👩‍❤️‍👨🔃,"[':heart_with_arrow:', ':couple_with_heart_woman_man:', ':clockwise_vertical_arrows:']",Direct,CONSTANCY
+constant lover,👬👨‍❤️‍💋‍👨⏳⌛💞👨‍🦳👨‍🦳,"[':men_holding_hands:', ':kiss_man_man:', ':hourglass_not_done:', ':hourglass_done:', ':revolving_hearts:', ':man_white_hair:', ':man_white_hair:']",Metaphorical,CONSTANCY
+constant lover,💑😁,"[':couple_with_heart:', ':beaming_face_with_smiling_eyes:']",Metaphorical,CONSTANCY
+constant pain,♾️💔,"[':infinity:', ':broken_heart:']",Direct,CONTINUITY
+constant pain,🔂😖,"[':repeat_single_button:', ':confounded_face:']",Direct,CONTINUITY
+constant pain,🤕🧑‍⚕️,"[':face_with_head-bandage:', ':health_worker:']",Metaphorical,CONTINUITY
+constant pain,😟😟😟😟😟😟,"[':worried_face:', ':worried_face:', ':worried_face:', ':worried_face:', ':worried_face:', ':worried_face:']",Reduplication,CONTINUITY
+constant pain,⏳😣🤕,"[':hourglass_not_done:', ':persevering_face:', ':face_with_head-bandage:']",Metaphorical,CONTINUITY
+constant pain,🔃🤕,"[':clockwise_vertical_arrows:', ':face_with_head-bandage:']",Direct,CONTINUITY
+constant pain,🦴🔨🧑‍🦽⏳😭,"[':bone:', ':hammer:', ':person_in_manual_wheelchair:', ':hourglass_not_done:', ':loudly_crying_face:']",Metaphorical,CONTINUITY
+constant pain,😥💉🤕,"[':sad_but_relieved_face:', ':syringe:', ':face_with_head-bandage:']",Metaphorical,CONTINUITY
+internal organ,🧠👨‍⚕️🩺,"[':brain:', ':man_health_worker:', ':stethoscope:']",Metaphorical,POSITION
+internal organ,🧠👀🫀,"[':brain:', ':eyes:', ':anatomical_heart:']",Semantic list,POSITION
+internal organ,🫀🧠🫁,"[':anatomical_heart:', ':brain:', ':lungs:']",Semantic list,POSITION
+internal organ,🫀🫁,"[':anatomical_heart:', ':lungs:']",Semantic list,POSITION
+internal organ,🫁🫀,"[':lungs:', ':anatomical_heart:']",Semantic list,POSITION
+internal organ,🧠🫀🫁,"[':brain:', ':anatomical_heart:', ':lungs:']",Semantic list,POSITION
+internal organ,👨‍💼👈🧠🫀🫁,"[':man_office_worker:', ':backhand_index_pointing_left:', ':brain:', ':anatomical_heart:', ':lungs:']",Metaphorical,POSITION
+internal organ,💉🧬,"[':syringe:', ':dna:']",Direct,POSITION
+internal sense,💭💭,"[':thought_balloon:', ':thought_balloon:']",Reduplication,INWARDNESS
+internal sense,🧬☮️,"[':dna:', ':peace_symbol:']",Metaphorical,INWARDNESS
+internal sense,🤔🤷,"[':thinking_face:', ':person_shrugging:']",Metaphorical,INWARDNESS
+internal sense,🧘‍♀️,[':woman_in_lotus_position:'],Single,INWARDNESS
+internal sense,🧐🔮,"[':face_with_monocle:', ':crystal_ball:']",Metaphorical,INWARDNESS
+internal sense,👉👀👈,"[':backhand_index_pointing_right:', ':eyes:', ':backhand_index_pointing_left:']",Metaphorical,INWARDNESS
+internal sense,👨👈💭,"[':man:', ':backhand_index_pointing_left:', ':thought_balloon:']",Metaphorical,INWARDNESS
+internal sense,🤓🧠,"[':nerd_face:', ':brain:']",Metaphorical,INWARDNESS
+internal mechanism,📲🕹️👩‍💻,"[':mobile_phone_with_arrow:', ':joystick:', ':woman_technologist:']",Metaphorical,POSITION
+internal mechanism,🧬⚙️,"[':dna:', ':gear:']",Metaphorical,POSITION
+internal mechanism,☸️,[':wheel_of_dharma:'],Single,POSITION
+internal mechanism,⚙️⚙️⚙️,"[':gear:', ':gear:', ':gear:']",Reduplication,POSITION
+internal mechanism,🔃⚙️,"[':clockwise_vertical_arrows:', ':gear:']",Direct,POSITION
+internal mechanism,👉⚙️⚙️👈,"[':backhand_index_pointing_right:', ':gear:', ':gear:', ':backhand_index_pointing_left:']",Metaphorical,POSITION
+internal mechanism,😷🦠💊⚔️,"[':face_with_medical_mask:', ':microbe:', ':pill:', ':crossed_swords:']",Metaphorical,POSITION
+internal mechanism,🦿👩‍🔧,"[':mechanical_leg:', ':woman_mechanic:']",Metaphorical,POSITION
+dry paint,❌💦🎨,"[':cross_mark:', ':sweat_droplets:', ':artist_palette:']",Direct,WETNESS
+dry paint,🖌️🙅💦,"[':paintbrush:', ':person_gesturing_NO:', ':sweat_droplets:']",Direct,WETNESS
+dry paint,🏜️🎨,"[':desert:', ':artist_palette:']",Direct,WETNESS
+dry paint,🚱🎨,"[':non-potable_water:', ':artist_palette:']",Direct,WETNESS
+dry paint,🌪️🎨,"[':tornado:', ':artist_palette:']",Metaphorical,WETNESS
+dry paint,🌬️💅,"[':wind_face:', ':nail_polish:']",Metaphorical,WETNESS
+dry paint,☀️🎨,"[':sun:', ':artist_palette:']",Metaphorical,WETNESS
+dry paint,♨️🖌️,"[':hot_springs:', ':paintbrush:']",Direct,WETNESS
+dry land,🏜️,[':desert:'],Single,WETNESS
+dry land,🏝️🏙️☀️,"[':desert_island:', ':cityscape:', ':sun:']",Metaphorical,WETNESS
+dry land,🏜️🏝️,"[':desert:', ':desert_island:']",Semantic list,WETNESS
+dry land,🥵🏜 🚫 🆒,"[':hot_face:', ':desert:', ':prohibited:', ':COOL_button:']",Metaphorical,WETNESS
+dry land,🌪️ 🏝️,"[':tornado:', ':desert_island:']",Metaphorical,WETNESS
+dry land,⛱️🏝️,"[':umbrella_on_ground:', ':desert_island:']",Metaphorical,WETNESS
+dry land,☀️🏜,"[':sun:', ':desert:']",Metaphorical,WETNESS
+dry land,♨️🌇,"[':hot_springs:', ':sunset:']",Metaphorical,WETNESS
+dry critique,🏜️🤬,"[':desert:', ':face_with_symbols_on_mouth:']",Direct,EMOTIONALITY
+dry critique,🙎‍♂️🗣️💬,"[':man_pouting:', ':speaking_head:', ':speech_balloon:']",Metaphorical,EMOTIONALITY
+dry critique,🏜️🗣️,"[':desert:', ':speaking_head:']",Direct,EMOTIONALITY
+dry critique,😩🙄✍🏻📝,"[':weary_face:', ':face_with_rolling_eyes:', ':writing_hand_light_skin_tone:', ':memo:']",Metaphorical,EMOTIONALITY
+dry critique,😤😞,"[':face_with_steam_from_nose:', ':disappointed_face:']",Metaphorical,EMOTIONALITY
+dry critique,👎🗣️,"[':thumbs_down:', ':speaking_head:']",Direct,EMOTIONALITY
+dry critique,☀️🤬,"[':sun:', ':face_with_symbols_on_mouth:']",Direct,EMOTIONALITY
+dry critique,♨️🧑‍🏫,"[':hot_springs:', ':teacher:']",Direct,EMOTIONALITY
+dry greeting,🏜️🥳,"[':desert:', ':partying_face:']",Direct,EMOTIONALITY
+dry greeting,👋😒😐😑,"[':waving_hand:', ':unamused_face:', ':neutral_face:', ':expressionless_face:']",Metaphorical,EMOTIONALITY
+dry greeting,🏜️🙋‍♀️,"[':desert:', ':woman_raising_hand:']",Direct,EMOTIONALITY
+dry greeting,😶😐😑👋,"[':face_without_mouth:', ':neutral_face:', ':expressionless_face:', ':waving_hand:']",Metaphorical,EMOTIONALITY
+dry greeting,🙋😑😑😑,"[':person_raising_hand:', ':expressionless_face:', ':expressionless_face:', ':expressionless_face:']",Metaphorical,EMOTIONALITY
+dry greeting,👋🙄,"[':waving_hand:', ':face_with_rolling_eyes:']",Metaphorical,EMOTIONALITY
+dry greeting,☀️🙋🏻‍♀️,"[':sun:', ':woman_raising_hand_light_skin_tone:']",Direct,EMOTIONALITY
+dry greeting,♨️👋,"[':hot_springs:', ':waving_hand:']",Direct,EMOTIONALITY
+dry climate,🏜️,[':desert:'],Single,WETNESS
+dry climate,☀️☀️☀️🥵,"[':sun:', ':sun:', ':sun:', ':hot_face:']",Metaphorical,WETNESS
+dry climate,🏜️☀️,"[':desert:', ':sun:']",Metaphorical,WETNESS
+dry climate,🚱🏜🌵,"[':non-potable_water:', ':desert:', ':cactus:']",Metaphorical,WETNESS
+dry climate,🌵🥵🥵🥵🥵,"[':cactus:', ':hot_face:', ':hot_face:', ':hot_face:', ':hot_face:']",Metaphorical,WETNESS
+dry climate,☀️🌬️,"[':sun:', ':wind_face:']",Metaphorical,WETNESS
+dry climate,🌵🌡,"[':cactus:', ':thermometer:']",Metaphorical,WETNESS
+dry climate,♨️🌎🌡️,"[':hot_springs:', ':globe_showing_Americas:', ':thermometer:']",Metaphorical,WETNESS
+effective step,👍🪜,"[':thumbs_up:', ':ladder:']",Metaphorical,EFFECTIVENESS
+effective step,👍👣➡️,"[':thumbs_up:', ':footprints:', ':right_arrow:']",Direct,EFFECTIVENESS
+effective step,👏🪜,"[':clapping_hands:', ':ladder:']",Metaphorical,EFFECTIVENESS
+effective step,👍👣💡💬,"[':thumbs_up:', ':footprints:', ':light_bulb:', ':speech_balloon:']",Metaphorical,EFFECTIVENESS
+effective step,💯💯💯✨,"[':hundred_points:', ':hundred_points:', ':hundred_points:', ':sparkles:']",Metaphorical,EFFECTIVENESS
+effective step,👍🚶,"[':thumbs_up:', ':person_walking:']",Direct,EFFECTIVENESS
+effective step,💨🪜,"[':dashing_away:', ':ladder:']",Metaphorical,EFFECTIVENESS
+effective step,👍👣,"[':thumbs_up:', ':footprints:']",Direct,EFFECTIVENESS
+effective reprimand,👍🤬,"[':thumbs_up:', ':face_with_symbols_on_mouth:']",Direct,EFFICACY
+effective reprimand,😤🗣️💬,"[':face_with_steam_from_nose:', ':speaking_head:', ':speech_balloon:']",Metaphorical,EFFICACY
+effective reprimand,🗣️🧏‍♀️👍,"[':speaking_head:', ':deaf_woman:', ':thumbs_up:']",Direct,EFFICACY
+effective reprimand,👍😠😡😤,"[':thumbs_up:', ':angry_face:', ':pouting_face:', ':face_with_steam_from_nose:']",Direct,EFFICACY
+effective reprimand,😤😤😔😔😔😥,"[':face_with_steam_from_nose:', ':face_with_steam_from_nose:', ':pensive_face:', ':pensive_face:', ':pensive_face:', ':sad_but_relieved_face:']",Metaphorical,EFFICACY
+effective reprimand,😡👍,"[':pouting_face:', ':thumbs_up:']",Direct,EFFICACY
+effective reprimand,💨🤬,"[':dashing_away:', ':face_with_symbols_on_mouth:']",Metaphorical,EFFICACY
+effective reprimand,👍😤,"[':thumbs_up:', ':face_with_steam_from_nose:']",Direct,EFFICACY
+effective entrance,👍🚪,"[':thumbs_up:', ':door:']",Direct,EFFECTIVENESS
+effective entrance,👍🚪🧑,"[':thumbs_up:', ':door:', ':person:']",Direct,EFFECTIVENESS
+effective entrance,💃👏,"[':woman_dancing:', ':clapping_hands:']",Metaphorical,EFFECTIVENESS
+effective entrance,👍🚪,"[':thumbs_up:', ':door:']",Direct,EFFECTIVENESS
+effective entrance,🚪🥂,"[':door:', ':clinking_glasses:']",Metaphorical,EFFECTIVENESS
+effective entrance,👍➡️,"[':thumbs_up:', ':right_arrow:']",Metaphorical,EFFECTIVENESS
+effective entrance,💨🚪,"[':dashing_away:', ':door:']",Metaphorical,EFFECTIVENESS
+effective entrance,👍🚪🔓,"[':thumbs_up:', ':door:', ':unlocked:']",Direct,EFFECTIVENESS
+foreign accent,✈️🗣️,"[':airplane:', ':speaking_head:']",Direct,FOREIGNNESS
+foreign accent,👽🗣️,"[':alien:', ':speaking_head:']",Direct,FOREIGNNESS
+foreign accent,🇻🇪🇲🇪🇲🇲🎙🗣,"[':Venezuela:', ':Montenegro:', ':Myanmar_(Burma):', ':studio_microphone:', ':speaking_head:']",Metaphorical,FOREIGNNESS
+foreign accent,🔊🤔❓❓,"[':speaker_high_volume:', ':thinking_face:', ':red_question_mark:', ':red_question_mark:']",Metaphorical,FOREIGNNESS
+foreign accent,🇫🇷🇯🇵👩‍🦱,"[':France:', ':Japan:', ':woman_curly_hair:']",Metaphorical,FOREIGNNESS
+foreign accent,✈️🗣️👂,"[':airplane:', ':speaking_head:', ':ear:']",Direct,FOREIGNNESS
+foreign accent,🗣️🤷‍♀️,"[':speaking_head:', ':woman_shrugging:']",Metaphorical,FOREIGNNESS
+foreign accent,🌏🗣,"[':globe_showing_Asia-Australia:', ':speaking_head:']",Direct,FOREIGNNESS
+foreign nation,✈️🗺️,"[':airplane:', ':world_map:']",Metaphorical,FOREIGNNESS
+foreign nation,👽🇺🇳,"[':alien:', ':United_Nations:']",Direct,FOREIGNNESS
+foreign nation,🇻🇪🇲🇪🇲🇲🇺🇳,"[':Venezuela:', ':Montenegro:', ':Myanmar_(Burma):', ':United_Nations:']",Semantic list,FOREIGNNESS
+foreign nation,❓❓🇧🇱🇲🇵🇩🇬🇹🇦,"[':red_question_mark:', ':red_question_mark:', ':St._Barthélemy:', ':Northern_Mariana_Islands:', ':Diego_Garcia:', ':Tristan_da_Cunha:']",Direct,FOREIGNNESS
+foreign nation,🇦🇫🇦🇽🇦🇱,"[':Afghanistan:', ':Åland_Islands:', ':Albania:']",Semantic list,FOREIGNNESS
+foreign nation,✈️🏝️,"[':airplane:', ':desert_island:']",Metaphorical,FOREIGNNESS
+foreign nation,🧳🇮🇴🇧🇦🇬🇾🇬🇶🎌🇬🇪,"[':luggage:', ':British_Indian_Ocean_Territory:', ':Bosnia_&_Herzegovina:', ':Guyana:', ':Equatorial_Guinea:', ':crossed_flags:', ':Georgia:']",Semantic list,FOREIGNNESS
+foreign nation,🌏🇬🇧,"[':globe_showing_Asia-Australia:', ':United_Kingdom:']",Semantic list,FOREIGNNESS
+foreign city,✈️🏙️,"[':airplane:', ':cityscape:']",Metaphorical,UNFAMILIARITY
+foreign city,👽🏙️,"[':alien:', ':cityscape:']",Direct,UNFAMILIARITY
+foreign city,🇻🇪🇲🇪🇲🇲🌆,"[':Venezuela:', ':Montenegro:', ':Myanmar_(Burma):', ':cityscape_at_dusk:']",Semantic list,UNFAMILIARITY
+foreign city,❓❓🌆,"[':red_question_mark:', ':red_question_mark:', ':cityscape_at_dusk:']",Direct,UNFAMILIARITY
+foreign city,🇨🇿🇬🇪🇬🇭,"[':Czechia:', ':Georgia:', ':Ghana:']",Semantic list,UNFAMILIARITY
+foreign city,✈️🏝️,"[':airplane:', ':desert_island:']",Metaphorical,UNFAMILIARITY
+foreign city,🧳🇮🇴,"[':luggage:', ':British_Indian_Ocean_Territory:']",Metaphorical,UNFAMILIARITY
+foreign city,🌏🏙,"[':globe_showing_Asia-Australia:', ':cityscape:']",Metaphorical,UNFAMILIARITY
+exotic cuisine,👌🍽️,"[':OK_hand:', ':fork_and_knife_with_plate:']",Metaphorical,FOREIGNNESS
+exotic cuisine,👽🥘,"[':alien:', ':shallow_pan_of_food:']",Direct,FOREIGNNESS
+exotic cuisine,🇻🇪🇲🇪🇲🇲🌮🍱🍣,"[':Venezuela:', ':Montenegro:', ':Myanmar_(Burma):', ':taco:', ':bento_box:', ':sushi:']",Metaphorical,FOREIGNNESS
+exotic cuisine,😈🥙,"[':smiling_face_with_horns:', ':stuffed_flatbread:']",Metaphorical,FOREIGNNESS
+exotic cuisine,🍱🥐🍕,"[':bento_box:', ':croissant:', ':pizza:']",Semantic list,FOREIGNNESS
+exotic cuisine,🤯👄🥤🍞,"[':exploding_head:', ':mouth:', ':cup_with_straw:', ':bread:']",Metaphorical,FOREIGNNESS
+exotic cuisine,🤔🧑‍🍳🌮,"[':thinking_face:', ':cook:', ':taco:']",Metaphorical,FOREIGNNESS
+exotic cuisine,🌏🥂,"[':globe_showing_Asia-Australia:', ':clinking_glasses:']",Direct,FOREIGNNESS
+delicate china,❗🇨🇳,"[':red_exclamation_mark:', ':China:']",Direct,STRENGTH
+delicate china,⚠️📦🍽️,"[':warning:', ':package:', ':fork_and_knife_with_plate:']",Metaphorical,STRENGTH
+delicate china,❌💪🏻🇨🇳☕️,"[':cross_mark:', ':flexed_biceps_light_skin_tone:', ':China:', ':hot_beverage:', '']",Metaphorical,STRENGTH
+delicate china,💪🇨🇳,"[':flexed_biceps:', ':China:']",Direct,STRENGTH
+delicate china,🇨🇳😁👍,"[':China:', ':beaming_face_with_smiling_eyes:', ':thumbs_up:']",Direct,STRENGTH
+delicate china,🫖🍽️🇨🇳,"[':teapot:', ':fork_and_knife_with_plate:', ':China:']",Semantic list,STRENGTH
+delicate china,🍽️🙌,"[':fork_and_knife_with_plate:', ':raising_hands:']",Metaphorical,STRENGTH
+delicate china,🤔🇨🇳,"[':thinking_face:', ':China:']",Direct,STRENGTH
+delicate wing,🛑🐝,"[':stop_sign:', ':honeybee:']",Metaphorical,STRENGTH
+delicate wing,⚠️📦🐣,"[':warning:', ':package:', ':hatching_chick:']",Metaphorical,STRENGTH
+delicate wing,❌💪🏻🦋,"[':cross_mark:', ':flexed_biceps_light_skin_tone:', ':butterfly:']",Direct,STRENGTH
+delicate wing,🐣💸,"[':hatching_chick:', ':money_with_wings:']",Metaphorical,STRENGTH
+delicate wing,🌬️🪡🚣,"[':wind_face:', ':sewing_needle:', ':person_rowing_boat:']",Metaphorical,STRENGTH
+delicate wing,🦅🕊️,"[':eagle:', ':dove:']",Semantic list,STRENGTH
+delicate wing,🦋,[':butterfly:'],Single,STRENGTH
+delicate wing,🤔🕊,"[':thinking_face:', ':dove:']",Metaphorical,STRENGTH
+delicate negotiation,❕💬,"[':white_exclamation_mark:', ':speech_balloon:']",Direct,DIFFICULTY
+delicate negotiation,⚠️📦🗣️💬,"[':warning:', ':package:', ':speaking_head:', ':speech_balloon:']",Direct,DIFFICULTY
+delicate negotiation,🧘🕊☮️🗣,"[':person_in_lotus_position:', ':dove:', ':peace_symbol:', ':speaking_head:']",Metaphorical,DIFFICULTY
+delicate negotiation,‼️🗣️,"[':double_exclamation_mark:', ':speaking_head:']",Direct,DIFFICULTY
+delicate negotiation,🗣️😃,"[':speaking_head:', ':grinning_face_with_big_eyes:']",Metaphorical,DIFFICULTY
+delicate negotiation,🤝🕊️☮️,"[':handshake:', ':dove:', ':peace_symbol:']",Metaphorical,DIFFICULTY
+delicate negotiation,🙋🧏‍♂️🙎‍♂️🙋‍♂️🧏🙎,"[':person_raising_hand:', ':deaf_man:', ':man_pouting:', ':man_raising_hand:', ':deaf_person:', ':person_pouting:']",Metaphorical,DIFFICULTY
+delicate negotiation,🤔👥,"[':thinking_face:', ':busts_in_silhouette:']",Metaphorical,DIFFICULTY
+delicate flavor,💞🍜,"[':revolving_hearts:', ':steaming_bowl:']",Metaphorical,STRENGTH
+delicate flavor,⚠️📦😋,"[':warning:', ':package:', ':face_savoring_food:']",Metaphorical,STRENGTH
+delicate flavor,❌🌶👅,"[':cross_mark:', ':hot_pepper:', ':tongue:']",Direct,STRENGTH
+delicate flavor,😈😝,"[':smiling_face_with_horns:', ':squinting_face_with_tongue:']",Metaphorical,STRENGTH
+delicate flavor,😝😋,"[':squinting_face_with_tongue:', ':face_savoring_food:']",Metaphorical,STRENGTH
+delicate flavor,😋👍,"[':face_savoring_food:', ':thumbs_up:']",Metaphorical,STRENGTH
+delicate flavor,👅 🤔,"[':tongue:', ':thinking_face:']",Metaphorical,STRENGTH
+delicate flavor,😋🤔,"[':face_savoring_food:', ':thinking_face:']",Metaphorical,STRENGTH
+fresh bread,😀🍞,"[':grinning_face:', ':bread:']",Metaphorical,FRESHNESS
+fresh bread,🎛️⏰🍞♨️,"[':control_knobs:', ':alarm_clock:', ':bread:', ':hot_springs:']",Metaphorical,FRESHNESS
+fresh bread,🆕🍞,"[':NEW_button:', ':bread:']",Direct,FRESHNESS
+fresh bread,✨🍞,"[':sparkles:', ':bread:']",Metaphorical,FRESHNESS
+fresh bread,🍞⏲️♨️,"[':bread:', ':timer_clock:', ':hot_springs:']",Metaphorical,FRESHNESS
+fresh bread,🧼🍞,"[':soap:', ':bread:']",Direct,FRESHNESS
+fresh bread,👨‍🍳⌛🍞,"[':man_cook:', ':hourglass_done:', ':bread:']",Metaphorical,FRESHNESS
+fresh bread,🧑‍🍳🍞,"[':cook:', ':bread:']",Metaphorical,FRESHNESS
+fresh bread,😋🍞,"[':face_savoring_food:', ':bread:']",Metaphorical,FRESHNESS
+fresh scent,🌬👃👌😌,"[':wind_face:', ':nose:', ':OK_hand:', ':relieved_face:']",Metaphorical,FRESHNESS
+fresh scent,💨👃😃,"[':dashing_away:', ':nose:', ':grinning_face_with_big_eyes:']",Metaphorical,FRESHNESS
+fresh scent,🆕👃,"[':NEW_button:', ':nose:']",Direct,FRESHNESS
+fresh scent,✨💨😍,"[':sparkles:', ':dashing_away:', ':smiling_face_with_heart-eyes:']",Metaphorical,FRESHNESS
+fresh scent,🍊🍋👃,"[':tangerine:', ':lemon:', ':nose:']",Metaphorical,FRESHNESS
+fresh scent,🧼👃💨,"[':soap:', ':nose:', ':dashing_away:']",Direct,FRESHNESS
+fresh scent,👦🚿🧼🌺,"[':boy:', ':shower:', ':soap:', ':hibiscus:']",Semantic list,FRESHNESS
+fresh scent,🌬️,[':wind_face:'],Single,FRESHNESS
+fresh scent,😋👃,"[':face_savoring_food:', ':nose:']",Metaphorical,FRESHNESS
+fresh lettuce,🥬,[':leafy_green:'],Single,FRESHNESS
+fresh lettuce,👩‍🌾🥬,"[':woman_farmer:', ':leafy_green:']",Metaphorical,FRESHNESS
+fresh lettuce,🆕🥬,"[':NEW_button:', ':leafy_green:']",Direct,FRESHNESS
+fresh lettuce,✨🥬,"[':sparkles:', ':leafy_green:']",Metaphorical,FRESHNESS
+fresh lettuce,👨‍🌾🥬,"[':man_farmer:', ':leafy_green:']",Metaphorical,FRESHNESS
+fresh lettuce,🧼🥬,"[':soap:', ':leafy_green:']",Direct,FRESHNESS
+fresh lettuce,🍃🥬🍃,"[':leaf_fluttering_in_wind:', ':leafy_green:', ':leaf_fluttering_in_wind:']",Metaphorical,FRESHNESS
+fresh lettuce,🧑‍🌾 🥬🥬,"[':farmer:', ':leafy_green:', ':leafy_green:']",Metaphorical,FRESHNESS
+fresh lettuce,😋🥬,"[':face_savoring_food:', ':leafy_green:']",Metaphorical,FRESHNESS
+fresh air,🌬😮‍💨,"[':wind_face:', ':face_exhaling:']",Metaphorical,PURITY
+fresh air,🌍👍💨✖️🚬,"[':globe_showing_Europe-Africa:', ':thumbs_up:', ':dashing_away:', ':multiply:', ':cigarette:']",Metaphorical,PURITY
+fresh air,🆕✈️,"[':NEW_button:', ':airplane:']",Direct,PURITY
+fresh air,🌬️✨,"[':wind_face:', ':sparkles:']",Metaphorical,PURITY
+fresh air,💨👃🚭,"[':dashing_away:', ':nose:', ':no_smoking:']",Metaphorical,PURITY
+fresh air,🧼💨,"[':soap:', ':dashing_away:']",Direct,PURITY
+fresh air,☀️⛰️💨🍃🍃,"[':sun:', ':mountain:', ':dashing_away:', ':leaf_fluttering_in_wind:', ':leaf_fluttering_in_wind:']",Metaphorical,PURITY
+fresh air,🌬️,[':wind_face:'],Single,PURITY
+fresh air,😋🌪️,"[':face_savoring_food:', ':tornado:']",Direct,PURITY
+sound explanation,🗣🧏‍♀️,"[':speaking_head:', ':deaf_woman:']",Metaphorical,REASONABLENESS
+sound explanation,🤔🧠🔊🗣️☺️👍,"[':thinking_face:', ':brain:', ':speaker_high_volume:', ':speaking_head:', ':smiling_face:', ':thumbs_up:']",Metaphorical,REASONABLENESS
+sound explanation,👍🗣️,"[':thumbs_up:', ':speaking_head:']",Direct,REASONABLENESS
+sound explanation,🗣️👂👍,"[':speaking_head:', ':ear:', ':thumbs_up:']",Metaphorical,REASONABLENESS
+sound explanation,🤔 🧠🗣️ 🙂🆗,"[':thinking_face:', ':brain:', ':speaking_head:', ':slightly_smiling_face:', ':OK_button:']",Metaphorical,REASONABLENESS
+sound explanation,🔈🗣,"[':speaker_low_volume:', ':speaking_head:']",Direct,REASONABLENESS
+sound explanation,🧑‍🏫🗣️,"[':teacher:', ':speaking_head:']",Metaphorical,REASONABLENESS
+sound explanation,🙋🧏‍♀️👍,"[':person_raising_hand:', ':deaf_woman:', ':thumbs_up:']",Metaphorical,REASONABLENESS
+sound explanation,👂🗣️,"[':ear:', ':speaking_head:']",Metaphorical,REASONABLENESS
+sound approach,🧐,[':face_with_monocle:'],Single,REASONABLENESS
+sound approach,🧠🔊🚶,"[':brain:', ':speaker_high_volume:', ':person_walking:']",Direct,REASONABLENESS
+sound approach,👍⏩,"[':thumbs_up:', ':fast-forward_button:']",Metaphorical,REASONABLENESS
+sound approach,💯💡,"[':hundred_points:', ':light_bulb:']",Direct,REASONABLENESS
+sound approach,🔊🚶,"[':speaker_high_volume:', ':person_walking:']",Direct,REASONABLENESS
+sound approach,🔈➡️⤵️,"[':speaker_low_volume:', ':right_arrow:', ':right_arrow_curving_down:']",Direct,REASONABLENESS
+sound approach,👦🔍📝,"[':boy:', ':magnifying_glass_tilted_left:', ':memo:']",Metaphorical,REASONABLENESS
+sound approach,👍✍️📑,"[':thumbs_up:', ':writing_hand:', ':bookmark_tabs:']",Direct,REASONABLENESS
+sound approach,👂📋,"[':ear:', ':clipboard:']",Direct,REASONABLENESS
+sound thrashing,😵‍💫,[':face_with_spiral_eyes:'],Single,COMPLETENESS
+sound thrashing,🔊👊,"[':speaker_high_volume:', ':oncoming_fist:']",Direct,COMPLETENESS
+sound thrashing,👍🗑️,"[':thumbs_up:', ':wastebasket:']",Direct,COMPLETENESS
+sound thrashing,🗣️🗑️,"[':speaking_head:', ':wastebasket:']",Direct,COMPLETENESS
+sound thrashing,🔊🥊,"[':speaker_high_volume:', ':boxing_glove:']",Direct,COMPLETENESS
+sound thrashing,🔈🗑🚮,"[':speaker_low_volume:', ':wastebasket:', ':litter_in_bin_sign:']",Direct,COMPLETENESS
+sound thrashing,😡🧹😭,"[':pouting_face:', ':broom:', ':loudly_crying_face:']",Metaphorical,COMPLETENESS
+sound thrashing,🔊🙅,"[':speaker_high_volume:', ':person_gesturing_NO:']",Direct,COMPLETENESS
+sound thrashing,👂🗑️,"[':ear:', ':wastebasket:']",Direct,COMPLETENESS
+sound advice,🤔,[':thinking_face:'],Single,REASONABLENESS
+sound advice,🔊🗣️,"[':speaker_high_volume:', ':speaking_head:']",Direct,REASONABLENESS
+sound advice,👍🗣️,"[':thumbs_up:', ':speaking_head:']",Direct,REASONABLENESS
+sound advice,🗣️🧏‍♂️💯,"[':speaking_head:', ':deaf_man:', ':hundred_points:']",Direct,REASONABLENESS
+sound advice,🔊🗣️,"[':speaker_high_volume:', ':speaking_head:']",Direct,REASONABLENESS
+sound advice,👍🏻🎙🗣,"[':thumbs_up_light_skin_tone:', ':studio_microphone:', ':speaking_head:']",Direct,REASONABLENESS
+sound advice,👦🗣️👩🤔👍,"[':boy:', ':speaking_head:', ':woman:', ':thinking_face:', ':thumbs_up:']",Metaphorical,REASONABLENESS
+sound advice,👍🧏‍♀️,"[':thumbs_up:', ':deaf_woman:']",Metaphorical,REASONABLENESS
+sound advice,👂💬,"[':ear:', ':speech_balloon:']",Metaphorical,REASONABLENESS
