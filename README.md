@@ -1,6 +1,6 @@
 # The ELCo Dataset
 
-The [ELCo.csv](https://github.com/WING-NUS/ELCo/ELCo.csv) file encompasses the complete ELCo dataset, which is segmented into five distinctive columns:
+The [ELCo.csv](https://github.com/WING-NUS/ELCo/blob/main/ELCo.csv) file encompasses the complete ELCo dataset, which is segmented into five distinctive columns:
 - EN: The English phrase;
 - EM: The emoji sequence corresponding to the English phrase;
 - Description: The description for the emojis; 
