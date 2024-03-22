@@ -7,7 +7,7 @@ The [ELCo.csv](https://github.com/WING-NUS/ELCo/blob/main/ELCo.csv) file encompa
 - Compositional strategy: The strategy used to compose the emoji, as identified in our corpus study. It includes direct representation, metaphorical representation, semantic list, reduplication, and single emojis. 
 - Attribute: The attribute of the English phrase. 
 
-Preview of first 5 rows in the complete csv:
+Preview of first 5 rows in the complete [ELCo.csv](https://github.com/WING-NUS/ELCo/blob/main/ELCo.csv):
 | EN           | EM         | Description                                                                                         | Composition strategy | Attribute |
 |--------------|------------|-----------------------------------------------------------------------------------------------------|----------------------|-----------|
 | big business | 👔📈         | [':necktie:', ':chart_increasing:']                                                                 | Metaphorical         | SIZE      |
