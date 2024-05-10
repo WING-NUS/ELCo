@@ -81,6 +81,22 @@ If you have questions or bug reports, please raise an issue or contact us direct
 Email address: 🐿@🐰\
 where 🐿️=`yisong`, 🐰=`comp.nus.edu.sg`
 
+# Citations
+If you find our work interesting, you are most welcome to use our datasets/codebase. \
+Please kindly cite our research:
+```
+@inproceedings{ELCo2024,
+    title = "The ELCo Dataset: Bridging Emoji and Lexical Composition",
+    author = {Yang, Zi Yun  and
+    	Zhang, Ziqing and
+      Miao, Yisong},
+    booktitle = "Proceedings of The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
+    month = May,
+    year = "2024",
+    address = "Turino, Italy",
+}
+```
+
 # Licence
 
 CC By 4.0
