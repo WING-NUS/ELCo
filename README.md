@@ -74,6 +74,10 @@ Our bash files execute various configurations of `emote.py`:
 - [`unsupervised.py`](https://github.com/WING-NUS/ELCo/blob/main/scripts/unsupervised.py): Called by `emote.py`, it performs unsupervised evaluation using a frozen model pretrained on the MNLI dataset. On the first run, a pretrained model will be downloaded from HuggingFace to your specified `huggingface_path`. Ensure there's enough space available (we recommend at least 20GB). The results are saved at `benchmark_data/results/TE-unsup/` directory. This directory will be automatically created once the experiments are performed;
 - [`finetune.py`](https://github.com/WING-NUS/ELCo/blob/main/scripts/finetune.py): Also called by `emote.py`, it fine-tunes the pretrained models. This script saves the `classification_report` for each fine-tuning epoch and records the best test accuracy (when validation accuracy is optimized) in the `_best.csv` file at `benchmark_data/results/TE-finetune/` directory. This directory will be automatically created once the experiments are performed. 
 
+# Contact 📤📥
+If you have bug reports, please raise an issue or contact us directly via the email:\
+Email address: 🦁@🐻\
+where 🦁=`yisong`, 🐻=`comp.nus.edu.sg`
 
 # Licence
 
