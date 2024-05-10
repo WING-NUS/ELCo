@@ -33,7 +33,8 @@ For most NLPers, probably you will be able to run our code with your existing vi
 
 ## Running experiments 🧪🔬
 
-Before running the bash files, please edit your path to the HuggingFace Cache. \
+### Specify Your Path 🏎️🛣️
+Before running the bash files, please edit the bash file to specify your path to the HuggingFace Cache. \
 For example, in [scripts/unsupervised.sh](https://github.com/WING-NUS/ELCo/blob/main/scripts/unsupervised.sh):
 ```
 #!/bin/bash
