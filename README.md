@@ -76,16 +76,12 @@ Our bash files execute various configurations of `emote.py`:
 - [`unsupervised.py`](https://github.com/WING-NUS/ELCo/blob/main/scripts/unsupervised.py): Called by `emote.py`, it performs unsupervised evaluation using a frozen model pretrained on the MNLI dataset. On the first run, a pretrained model will be downloaded from HuggingFace to your specified `huggingface_path`. Ensure there's enough space available (we recommend at least 20GB). The results are saved at `benchmark_data/results/TE-unsup/` directory. This directory will be automatically created once the experiments are performed;
 - [`finetune.py`](https://github.com/WING-NUS/ELCo/blob/main/scripts/finetune.py): Also called by `emote.py`, it fine-tunes the pretrained models. This script saves the `classification_report` for each fine-tuning epoch and records the best test accuracy (when validation accuracy is optimized) in the `_best.csv` file at `benchmark_data/results/TE-finetune/` directory. This directory will be automatically created once the experiments are performed. 
 
-# Contact 📤📥
-If you have questions or bug reports, please raise an issue or contact us directly via the email:\
-Email address: 🐿@🐰\
-where 🐿️=`yisong`, 🐰=`comp.nus.edu.sg`
 
 # Citations
-If you find our work interesting, you are most welcome to use our datasets/codebase. \
-Please kindly cite our research:
+If you find our work interesting, you are most welcome to try our dataset/codebase. \
+Please kindly cite our research if you have used our dataset/codebase:
 ```
-@inproceedings{ELCo2024,
+@inproceedings{ELCoDataset2024,
     title = "The ELCo Dataset: Bridging Emoji and Lexical Composition",
     author = {Yang, Zi Yun  and
     	Zhang, Ziqing and
@@ -96,6 +92,11 @@ Please kindly cite our research:
     address = "Turino, Italy",
 }
 ```
+
+# Contact 📤📥
+If you have questions or bug reports, please raise an issue or contact us directly via the email:\
+Email address: 🐿@🐰\
+where 🐿️=`yisong`, 🐰=`comp.nus.edu.sg`
 
 # Licence
 
