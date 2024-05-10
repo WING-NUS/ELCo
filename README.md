@@ -1,5 +1,7 @@
 # The ELCo Dataset
 
+This repo provides the dataset and official implementations for our paper <The ELCo Dataset: Bridging Emoji and Lexical Composition> @ [LREC-COLING 2024](https://lrec-coling-2024.org). 
+
 The [ELCo.csv](https://github.com/WING-NUS/ELCo/blob/main/ELCo.csv) file encompasses the complete ELCo dataset, which is segmented into five distinctive columns:
 - EN: The English phrase;
 - EM: The emoji sequence corresponding to the English phrase;
@@ -16,7 +18,7 @@ Preview of first 5 rows in the complete [ELCo.csv](https://github.com/WING-NUS/E
 | big business | 🏢🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑 | [':office_building:', ':people_holding_hands:', ':people_holding_hands:', ':people_holding_hands:'] | Metaphorical         | SIZE      |
 | big business | 👩‍💻🤑        | [':woman_technologist:', ':money-mouth_face:']                                                      | Metaphorical         | SIZE      |
 
-# Our Implementation for Benchmarking
+# Official Implementation for Benchmarking
 
 ## Installation 📀💻
 
