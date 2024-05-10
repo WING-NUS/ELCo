@@ -77,7 +77,7 @@ Our bash files execute various configurations of `emote.py`:
 - [`finetune.py`](https://github.com/WING-NUS/ELCo/blob/main/scripts/finetune.py): Also called by `emote.py`, it fine-tunes the pretrained models. This script saves the `classification_report` for each fine-tuning epoch and records the best test accuracy (when validation accuracy is optimized) in the `_best.csv` file at `benchmark_data/results/TE-finetune/` directory. This directory will be automatically created once the experiments are performed. 
 
 # Contact 📤📥
-If you have bug reports, please raise an issue or contact us directly via the email:\
+If you have questions or bug reports, please raise an issue or contact us directly via the email:\
 Email address: 🐿@🐰\
 where 🐿️=`yisong`, 🐰=`comp.nus.edu.sg`
 
