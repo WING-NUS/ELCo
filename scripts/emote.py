@@ -55,9 +55,9 @@ class CustomizedDataset(Dataset):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--finetune', type=int, default=1)
-    parser.add_argument('--model_name', type=str, default='bart-large')
-    parser.add_argument('--portion', type=float, default=0.1)
+    parser.add_argument('--finetune', type=int, default=0, help='0 means unsupervised, 1 means fine-tuning.')
+    parser.add_argument('--model_name', type=str, default='bert-base', help='Options include bert-base, roberta-base, roberta-large, or bart-large')
+    parser.add_argument('--portion', type=float, default=1, help='A float indicating the portion of training data used, default is 1.')
     parser.add_argument('--seed', type=int, default=43)
     parser.add_argument('--hfpath', type=str, default='YOUR_PATH', help='directory for huggingface cache')
     args = parser.parse_args()
