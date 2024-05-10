@@ -76,8 +76,8 @@ Our bash files execute various configurations of `emote.py`:
 
 # Contact 📤📥
 If you have bug reports, please raise an issue or contact us directly via the email:\
-Email address: 🦁@🐻\
-where 🦁=`yisong`, 🐻=`comp.nus.edu.sg`
+Email address: 🐿@🐰\
+where 🐿️=`yisong`, 🐰=`comp.nus.edu.sg`
 
 # Licence
 
