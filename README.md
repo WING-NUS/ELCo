@@ -2,7 +2,7 @@
 
 This repo provides the dataset and official implementations for our paper <The ELCo Dataset: Bridging Emoji and Lexical Composition> @ [LREC-COLING 2024](https://lrec-coling-2024.org). \
 Local copy of our paper: https://yisong.me/publications/ELCo@LREC-COLING24.pdf \
-Local copy of our slides: https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf \
+Local copy of our slides: https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf
 
 The [ELCo.csv](https://github.com/WING-NUS/ELCo/blob/main/ELCo.csv) file encompasses the complete ELCo dataset, which is segmented into five distinctive columns:
 - EN: The English phrase;
