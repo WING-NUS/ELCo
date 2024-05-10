@@ -1,0 +1,519 @@
+sent1,sent2,label,strategy
+This is necktie [EM] chart_increasing.,This is big business.,1,1
+This is office_building [EM] money-mouth_face [EM] money-mouth_face.,This is big business.,1,1
+This is man_technologist [EM] handshake.,This is big business.,1,1
+This is office_building [EM] people_holding_hands [EM] people_holding_hands [EM] people_holding_hands.,This is big business.,1,1
+This is woman_technologist [EM] money-mouth_face.,This is big business.,1,1
+This is money_bag [EM] chart_increasing.,This is big business.,1,1
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big business.,1,1
+This is handshake [EM] tear-off_calendar.,This is big business.,1,1
+This is chart_increasing [EM] money_with_wings.,This is big expenditure.,1,0
+This is shallow_pan_of_food [EM] burrito [EM] burrito [EM] money-mouth_face [EM] money-mouth_face [EM] money_with_wings [EM] money_with_wings.,This is big expenditure.,1,1
+This is man_technologist [EM] money_with_wings.,This is big expenditure.,1,1
+This is money_with_wings [EM] money_with_wings.,This is big expenditure.,1,3
+This is money-mouth_face [EM] money_with_wings.,This is big expenditure.,1,1
+This is chart_increasing [EM] money_with_wings.,This is big expenditure.,1,0
+This is elephant [EM] dollar_banknote [EM] money_with_wings.,This is big expenditure.,1,0
+This is money-mouth_face [EM] money_with_wings.,This is big expenditure.,1,1
+This is loudspeaker [EM] speaking_head.,This is big voice.,1,1
+This is loudspeaker [EM] megaphone.,This is big voice.,1,2
+This is speaker_high_volume.,This is big voice.,1,4
+This is speaking_head [EM] loudspeaker.,This is big voice.,1,1
+This is speaking_head [EM] anger_symbol.,This is big voice.,1,1
+This is studio_microphone [EM] speaking_head.,This is big voice.,1,1
+This is face_with_symbols_on_mouth [EM] face_with_symbols_on_mouth.,This is big voice.,1,3
+This is speaking_head [EM] anger_symbol.,This is big voice.,1,1
+This is people_holding_hands [EM] woman_and_man_holding_hands [EM] women_holding_hands [EM] men_holding_hands.,This is big group.,1,3
+This is family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy.,This is big group.,1,3
+This is men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands [EM] men_holding_hands.,This is big group.,1,3
+This is busts_in_silhouette [EM] busts_in_silhouette [EM] busts_in_silhouette.,This is big group.,1,3
+This is woman_and_man_holding_hands [EM] women_holding_hands [EM] family_man_man_girl_girl [EM] men_holding_hands [EM] family_man_man_girl.,This is big group.,1,2
+This is busts_in_silhouette [EM] busts_in_silhouette.,This is big group.,1,3
+This is family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy.,This is big group.,1,3
+This is people_holding_hands [EM] people_holding_hands [EM] people_holding_hands.,This is big group.,1,3
+This is man_beard [EM] astonished_face [EM] up_arrow.,This is big man.,1,1
+This is Santa_Claus.,This is big man.,1,4
+This is person_curly_hair.,This is big man.,1,4
+This is man_standing [EM] flexed_biceps.,This is big man.,1,1
+This is flexed_biceps [EM] man_beard.,This is big man.,1,1
+This is man_blond_hair [EM] left-right_arrow [EM] up-down_arrow.,This is big man.,1,1
+This is superhero [EM] man_superhero.,This is big man.,1,1
+This is flexed_biceps [EM] man_standing.,This is big man.,1,1
+This is sunset [EM] red_exclamation_mark.,This is big city.,1,1
+This is sunset [EM] foggy [EM] cityscape_at_dusk [EM] cityscape [EM] night_with_stars [EM] Statue_of_Liberty.,This is big city.,1,2
+This is Russia.,This is big city.,1,4
+This is cityscape.,This is big city.,1,4
+This is cityscape_at_dusk [EM] exploding_head.,This is big city.,1,1
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big city.,1,1
+This is night_with_stars [EM] night_with_stars [EM] night_with_stars [EM] night_with_stars [EM] night_with_stars.,This is big city.,1,3
+This is sunset [EM] cityscape.,This is big city.,1,2
+This is man_beard [EM] money_bag.,This is big tipper.,1,1
+This is pancakes [EM] money_with_wings.,This is big tipper.,1,1
+This is yen_banknote [EM] yen_banknote [EM] man_getting_massage [EM] man_getting_haircut.,This is big tipper.,1,1
+This is coin [EM] coin.,This is big tipper.,1,3
+This is money-mouth_face [EM] man_red_hair [EM] money_bag.,This is big tipper.,1,1
+This is dollar_banknote [EM] dollar_banknote.,This is big tipper.,1,3
+This is money_with_wings [EM] money_with_wings [EM] money_with_wings.,This is big tipper.,1,3
+This is thumbs_up [EM] money_with_wings.,This is big tipper.,1,1
+This is red_exclamation_mark [EM] tear-off_calendar.,This is big day.,1,0
+This is person_with_veil [EM] wedding [EM] man_in_tuxedo.,This is big day.,1,1
+This is couple_with_heart_woman_man [EM] person_with_veil.,This is big day.,1,1
+This is anxious_face_with_sweat [EM] sun.,This is big day.,1,1
+This is man_with_veil [EM] woman_with_veil [EM] man_in_tuxedo [EM] woman_in_tuxedo.,This is big day.,1,1
+This is 1st_place_medal [EM] sun.,This is big day.,1,1
+This is face_with_crossed-out_eyes [EM] face_with_crossed-out_eyes [EM] face_with_crossed-out_eyes.,This is big day.,1,1
+This is spiral_calendar.,This is big day.,1,4
+This is hot_face [EM] girl.,This is hot doll.,1,0
+This is nesting_dolls [EM] fire [EM] fire.,This is hot doll.,1,0
+This is nail_polish [EM] woman_blond_hair.,This is hot doll.,1,1
+This is fire [EM] nesting_dolls.,This is hot doll.,1,0
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot doll.,1,1
+This is fire [EM] teddy_bear.,This is hot doll.,1,0
+This is hot_springs [EM] nesting_dolls.,This is hot doll.,1,0
+This is hot_face [EM] teddy_bear.,This is hot doll.,1,0
+This is hot_springs [EM] sweat_droplets.,This is hot water.,1,0
+This is hot_face [EM] potable_water.,This is hot water.,1,0
+This is hot_springs [EM] droplet.,This is hot water.,1,0
+This is fire [EM] sweat_droplets.,This is hot water.,1,0
+This is hot_springs [EM] droplet [EM] potable_water.,This is hot water.,1,0
+This is hot_springs [EM] potable_water.,This is hot water.,1,0
+This is hot_springs [EM] droplet.,This is hot water.,1,0
+This is name_badge [EM] sweat_droplets.,This is hot water.,1,0
+This is thermometer [EM] hot_springs [EM] cooking.,This is hot stove.,1,0
+This is hot_springs [EM] cooking.,This is hot stove.,1,0
+This is hot_springs [EM] control_knobs [EM] fire.,This is hot stove.,1,0
+This is fire [EM] cooking.,This is hot stove.,1,0
+This is hot_face [EM] cooking [EM] fire.,This is hot stove.,1,0
+This is hot_springs [EM] fire.,This is hot stove.,1,0
+This is fire [EM] hot_springs.,This is hot stove.,1,0
+This is name_badge [EM] thermometer [EM] fondue.,This is hot stove.,1,0
+This is fire [EM] speaker_high_volume [EM] speaking_head [EM] speaking_head [EM] thinking_face [EM] thinking_face [EM] thumbs_up [EM] thumbs_down.,This is hot topic.,1,1
+This is star-struck [EM] speech_balloon.,This is hot topic.,1,1
+This is sun [EM] studio_microphone [EM] speaking_head.,This is hot topic.,1,0
+This is fire [EM] fire [EM] fire [EM] fire [EM] newspaper.,This is hot topic.,1,0
+This is fire [EM] speech_balloon.,This is hot topic.,1,0
+This is fire [EM] speaking_head.,This is hot topic.,1,0
+This is fire [EM] speaking_head.,This is hot topic.,1,0
+This is hot_face [EM] speech_balloon.,This is hot topic.,1,0
+This is fire [EM] eyes [EM] raised_hand [EM] raised_back_of_hand [EM] folded_hands [EM] pleading_face [EM] money_bag.,This is hot merchandise.,1,1
+This is fire [EM] fire [EM] t-shirt [EM] flat_shoe [EM] sunglasses.,This is hot merchandise.,1,0
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot merchandise.,1,0
+This is fire [EM] label.,This is hot merchandise.,1,0
+This is fire [EM] shopping_bags [EM] teddy_bear [EM] t-shirt [EM] dress [EM] pencil [EM] notebook_with_decorative_cover.,This is hot merchandise.,1,0
+This is fire [EM] mobile_phone.,This is hot merchandise.,1,0
+This is left_speech_bubble [EM] t-shirt.,This is hot merchandise.,1,1
+This is thumbs_up [EM] teddy_bear [EM] t-shirt.,This is hot merchandise.,1,0
+This is fire [EM] neutral_face [EM] pouting_face.,This is hot temper.,1,0
+This is face_with_steam_from_nose [EM] face_with_symbols_on_mouth [EM] man_gesturing_NO [EM] man_gesturing_NO.,This is hot temper.,1,1
+This is pouting_face [EM] pouting_face.,This is hot temper.,1,3
+This is pouting_face [EM] face_with_steam_from_nose [EM] face_with_symbols_on_mouth.,This is hot temper.,1,2
+This is pouting_face [EM] face_with_steam_from_nose.,This is hot temper.,1,2
+This is fire [EM] pouting_face.,This is hot temper.,1,0
+This is anger_symbol [EM] face_with_symbols_on_mouth.,This is hot temper.,1,1
+This is pouting_face [EM] face_with_symbols_on_mouth.,This is hot temper.,1,2
+This is fire [EM] speaking_head [EM] multiply [EM] speaking_head [EM] check_mark [EM] loudspeaker.,This is hot argument.,1,0
+This is person_gesturing_NO [EM] man_gesturing_NO [EM] face_with_steam_from_nose [EM] right_anger_bubble.,This is hot argument.,1,1
+This is pouting_face [EM] face_with_symbols_on_mouth [EM] speaking_head.,This is hot argument.,1,0
+This is face_with_symbols_on_mouth [EM] speaking_head [EM] megaphone.,This is hot argument.,1,0
+This is face_with_symbols_on_mouth [EM] speech_balloon [EM] pouting_face.,This is hot argument.,1,0
+This is fire [EM] face_with_symbols_on_mouth.,This is hot argument.,1,0
+This is anger_symbol [EM] speaking_head.,This is hot argument.,1,0
+This is face_with_symbols_on_mouth [EM] speech_balloon.,This is hot argument.,1,0
+This is sun [EM] face_with_thermometer [EM] thermometer [EM] face_with_medical_mask [EM] sleeping_face [EM] cold_face.,This is hot forehead.,1,1
+This is woozy_face [EM] face_with_thermometer [EM] man_health_worker.,This is hot forehead.,1,1
+This is fire [EM] face_with_thermometer [EM] thermometer.,This is hot forehead.,1,1
+This is hot_face [EM] face_with_thermometer [EM] face_with_thermometer.,This is hot forehead.,1,1
+This is thermometer [EM] face_with_thermometer.,This is hot forehead.,1,1
+This is hot_springs [EM] exploding_head.,This is hot forehead.,1,1
+This is stethoscope [EM] face_with_thermometer.,This is hot forehead.,1,1
+This is face_with_thermometer [EM] face_with_head-bandage.,This is hot forehead.,1,1
+This is hundred_points [EM] FREE_button [EM] video_game.,This is full game.,1,0
+This is bullseye [EM] basketball.,This is full game.,1,0
+This is video_game [EM] hundred_points.,This is full game.,1,0
+This is video_game [EM] chequered_flag.,This is full game.,1,0
+This is thumbs_up [EM] video_game.,This is full game.,1,0
+This is twelve_o’clock [EM] alien_monster.,This is full game.,1,0
+This is video_game [EM] men_holding_hands [EM] men_holding_hands.,This is full game.,1,1
+This is ticket [EM] person [EM] man [EM] person_curly_hair [EM] woman_curly_hair [EM] Japanese_no_vacancy_button.,This is full auditorium.,1,1
+This is man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] man_standing [EM] synagogue.,This is full auditorium.,1,3
+This is woman_technologist [EM] man_technologist [EM] school.,This is full auditorium.,1,1
+This is cross_mark [EM] flying_saucer [EM] stadium.,This is full auditorium.,1,0
+This is Japanese_no_vacancy_button [EM] school.,This is full auditorium.,1,0
+This is fuel_pump [EM] school.,This is full auditorium.,1,0
+This is admission_tickets [EM] admission_tickets [EM] performing_arts.,This is full auditorium.,1,1
+This is hundred_points [EM] red_exclamation_mark.,This is full attention.,1,0
+This is woman [EM] face_with_monocle [EM] exploding_head.,This is full attention.,1,1
+This is hundred_points [EM] red_exclamation_mark.,This is full attention.,1,0
+This is nerd_face [EM] man_technologist [EM] man_teacher [EM] man_student.,This is full attention.,1,2
+This is face_with_monocle [EM] writing_hand.,This is full attention.,1,1
+This is man_pilot.,This is full attention.,1,4
+This is man_raising_hand [EM] ear_with_hearing_aid [EM] school.,This is full attention.,1,1
+This is glass_of_milk [EM] plus [EM] potable_water [EM] potable_water [EM] potable_water [EM] potable_water [EM] potable_water [EM] Japanese_no_vacancy_button.,This is full glass.,1,1
+This is glass_of_milk [EM] Japanese_no_vacancy_button.,This is full glass.,1,0
+This is hundred_points [EM] glass_of_milk.,This is full glass.,1,0
+This is potable_water [EM] glass_of_milk.,This is full glass.,1,1
+This is potable_water [EM] check_mark_button.,This is full glass.,1,0
+This is beer_mug.,This is full glass.,1,4
+This is glass_of_milk [EM] clinking_glasses.,This is full glass.,1,2
+This is heart_suit [EM] family_man_woman_girl_boy [EM] briefcase [EM] money_bag [EM] money_bag [EM] money_bag [EM] hundred_points.,This is full life.,1,1
+This is moon_viewing_ceremony [EM] snow-capped_mountain [EM] sunrise_over_mountains.,This is full life.,1,2
+This is smiling_face_with_hearts [EM] smiling_face [EM] house_with_garden.,This is full life.,1,1
+This is party_popper [EM] smiling_face_with_smiling_eyes [EM] relieved_face [EM] smiling_face_with_open_hands [EM] partying_face [EM] star-struck.,This is full life.,1,1
+This is smiling_face_with_smiling_eyes [EM] heart_suit.,This is full life.,1,1
+This is hot_face [EM] rolling_on_the_floor_laughing [EM] hot_face [EM] rolling_on_the_floor_laughing.,This is full life.,1,1
+This is grinning_squinting_face [EM] partying_face [EM] couple_with_heart.,This is full life.,1,0
+This is boy.,This is little boy.,1,4
+This is boy [EM] person_standing.,This is little boy.,1,2
+This is pinching_hand [EM] baby [EM] boy.,This is little boy.,1,0
+This is boy.,This is little boy.,1,4
+This is backhand_index_pointing_down_light_skin_tone [EM] boy.,This is little boy.,1,0
+This is boy [EM] backhand_index_pointing_left [EM] baby.,This is little boy.,1,1
+This is boy_light_skin_tone.,This is little boy.,1,4
+This is pinching_hand [EM] boy.,This is little boy.,1,0
+This is man_beard.,This is little man.,1,4
+This is person_standing [EM] up-down_arrow [EM] pinching_hand.,This is little man.,1,0
+This is boy [EM] person_red_hair.,This is little man.,1,2
+This is pinching_hand [EM] man_standing.,This is little man.,1,0
+This is backhand_index_pointing_down_light_skin_tone [EM] man_walking.,This is little man.,1,0
+This is flexed_biceps [EM] boy.,This is little man.,1,1
+This is pinching_hand_light_skin_tone [EM] man_light_skin_tone.,This is little man.,1,0
+This is pinching_hand [EM] man_blond_hair.,This is little man.,1,0
+This is house.,This is little house.,1,4
+This is house [EM] up-down_arrow [EM] pinching_hand.,This is little house.,1,0
+This is house [EM] downwards_button.,This is little house.,1,0
+This is pinching_hand [EM] house_with_garden.,This is little house.,1,0
+This is framed_picture [EM] house_with_garden.,This is little house.,1,0
+This is derelict_house.,This is little house.,1,4
+This is pinching_hand_light_skin_tone [EM] house.,This is little house.,1,0
+This is pinching_hand [EM] house.,This is little house.,1,0
+This is oil_drum.,This is thin oil.,1,4
+This is hot_springs [EM] diya_lamp.,This is thin oil.,1,0
+This is pinching_hand [EM] diya_lamp.,This is thin oil.,1,0
+This is droplet [EM] diya_lamp.,This is thin oil.,1,1
+This is pinching_hand [EM] oil_drum.,This is thin oil.,1,0
+This is pinching_hand [EM] tumbler_glass.,This is thin oil.,1,0
+This is pinching_hand [EM] straight_ruler [EM] oil_drum.,This is thin oil.,1,0
+This is pinching_hand [EM] man_cook [EM] oil_drum.,This is thin oil.,1,0
+This is pot_of_food [EM] thumbs_down.,This is thin soup.,1,1
+This is hot_springs.,This is thin soup.,1,4
+This is droplet [EM] canned_food.,This is thin soup.,1,1
+This is sweat_droplets [EM] sweat_droplets [EM] bowl_with_spoon.,This is thin soup.,1,1
+This is steaming_bowl.,This is thin soup.,1,4
+This is pinching_hand [EM] fondue.,This is thin soup.,1,0
+This is pinching_hand [EM] straight_ruler [EM] bowl_with_spoon.,This is thin soup.,1,0
+This is pinching_hand [EM] bowl_with_spoon.,This is thin soup.,1,0
+This is fog.,This is thin air.,1,4
+This is hot_springs.,This is thin air.,1,4
+This is pinching_hand [EM] leaf_fluttering_in_wind.,This is thin air.,1,0
+This is leaf_fluttering_in_wind.,This is thin air.,1,4
+This is face_with_spiral_eyes [EM] dashing_away.,This is thin air.,1,1
+This is leaf_fluttering_in_wind [EM] pinching_hand.,This is thin air.,1,0
+This is pinching_hand [EM] straight_ruler [EM] dashing_away.,This is thin air.,1,0
+This is pinched_fingers_light_skin_tone [EM] wind_face.,This is thin air.,1,0
+This is pinching_hand [EM] writing_hand.,This is thin line.,1,0
+This is hot_springs [EM] pencil [EM] memo.,This is thin line.,1,0
+This is pinching_hand [EM] straight_ruler.,This is thin line.,1,0
+This is memo.,This is thin line.,1,4
+This is straight_ruler [EM] pinching_hand [EM] chart_decreasing.,This is thin line.,1,0
+This is pinching_hand [EM] pen.,This is thin line.,1,0
+This is pinching_hand [EM] straight_ruler [EM] minus.,This is thin line.,1,0
+This is pinched_fingers_light_skin_tone [EM] wavy_dash.,This is thin line.,1,0
+This is prince [EM] crown [EM] chart_decreasing [EM] thumbs_down.,This is ineffectual ruler.,1,1
+This is thumbs_down [EM] straight_ruler.,This is ineffectual ruler.,1,0
+This is thumbs_down [EM] prince [EM] princess.,This is ineffectual ruler.,1,0
+This is technologist [EM] woman_technologist [EM] man_technologist [EM] thumbs_down [EM] thumbs_down.,This is ineffectual ruler.,1,0
+This is cross_mark [EM] prince.,This is ineffectual ruler.,1,0
+This is pouting_face [EM] police_officer.,This is ineffectual ruler.,1,1
+This is castle [EM] crown [EM] thumbs_down [EM] thumbs_down [EM] thumbs_down [EM] men_holding_hands [EM] women_holding_hands [EM] pouting_face.,This is ineffectual ruler.,1,1
+This is crown [EM] person_gesturing_NO.,This is ineffectual ruler.,1,0
+This is ear [EM] deaf_woman [EM] thumbs_down [EM] unamused_face.,This is ineffectual therapy.,1,1
+This is thumbs_down [EM] person_getting_massage.,This is ineffectual therapy.,1,0
+This is thumbs_down [EM] hospital.,This is ineffectual therapy.,1,0
+This is person [EM] ear [EM] cross_mark [EM] cross_mark.,This is ineffectual therapy.,1,1
+This is cross_mark [EM] man_getting_massage [EM] man_health_worker.,This is ineffectual therapy.,1,0
+This is spiral_notepad [EM] cross_mark [EM] skull.,This is ineffectual therapy.,1,0
+This is man_health_worker [EM] speaking_head [EM] brain [EM] thumbs_down [EM] frowning_face.,This is ineffectual therapy.,1,1
+This is pill [EM] woman_gesturing_NO.,This is ineffectual therapy.,1,0
+This is thumbs_up [EM] ladder.,This is effective step.,1,1
+This is thumbs_up [EM] footprints [EM] right_arrow.,This is effective step.,1,0
+This is clapping_hands [EM] ladder.,This is effective step.,1,1
+This is thumbs_up [EM] footprints [EM] light_bulb [EM] speech_balloon.,This is effective step.,1,1
+This is hundred_points [EM] hundred_points [EM] hundred_points [EM] sparkles.,This is effective step.,1,1
+This is thumbs_up [EM] person_walking.,This is effective step.,1,0
+This is dashing_away [EM] ladder.,This is effective step.,1,1
+This is thumbs_up [EM] footprints.,This is effective step.,1,0
+This is thumbs_up [EM] face_with_symbols_on_mouth.,This is effective reprimand.,1,0
+This is face_with_steam_from_nose [EM] speaking_head [EM] speech_balloon.,This is effective reprimand.,1,1
+This is speaking_head [EM] deaf_woman [EM] thumbs_up.,This is effective reprimand.,1,0
+This is thumbs_up [EM] angry_face [EM] pouting_face [EM] face_with_steam_from_nose.,This is effective reprimand.,1,0
+This is face_with_steam_from_nose [EM] face_with_steam_from_nose [EM] pensive_face [EM] pensive_face [EM] pensive_face [EM] sad_but_relieved_face.,This is effective reprimand.,1,1
+This is pouting_face [EM] thumbs_up.,This is effective reprimand.,1,0
+This is dashing_away [EM] face_with_symbols_on_mouth.,This is effective reprimand.,1,1
+This is thumbs_up [EM] face_with_steam_from_nose.,This is effective reprimand.,1,0
+This is thumbs_up [EM] door.,This is effective entrance.,1,0
+This is thumbs_up [EM] door [EM] person.,This is effective entrance.,1,0
+This is woman_dancing [EM] clapping_hands.,This is effective entrance.,1,1
+This is thumbs_up [EM] door.,This is effective entrance.,1,0
+This is door [EM] clinking_glasses.,This is effective entrance.,1,1
+This is thumbs_up [EM] right_arrow.,This is effective entrance.,1,1
+This is dashing_away [EM] door.,This is effective entrance.,1,1
+This is thumbs_up [EM] door [EM] unlocked.,This is effective entrance.,1,0
+This is flexed_biceps [EM] man_standing.,This is big business.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big business.,0,6
+This is yen_banknote [EM] yen_banknote [EM] man_getting_massage [EM] man_getting_haircut.,This is big business.,0,6
+This is family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy [EM] family_man_boy.,This is big business.,0,6
+This is yen_banknote [EM] yen_banknote [EM] man_getting_massage [EM] man_getting_haircut.,This is big business.,0,6
+This is sunset [EM] red_exclamation_mark.,This is big business.,0,6
+This is woman_and_man_holding_hands [EM] women_holding_hands [EM] family_man_man_girl_girl [EM] men_holding_hands [EM] family_man_man_girl.,This is big business.,0,6
+This is man_beard [EM] money_bag.,This is big business.,0,6
+This is red_exclamation_mark [EM] tear-off_calendar.,This is big expenditure.,0,6
+This is sunset [EM] red_exclamation_mark.,This is big expenditure.,0,6
+This is man_with_veil [EM] woman_with_veil [EM] man_in_tuxedo [EM] woman_in_tuxedo.,This is big expenditure.,0,6
+This is coin [EM] coin.,This is big expenditure.,0,6
+This is sunset [EM] red_exclamation_mark.,This is big expenditure.,0,6
+This is red_exclamation_mark [EM] tear-off_calendar.,This is big expenditure.,0,6
+This is yen_banknote [EM] yen_banknote [EM] man_getting_massage [EM] man_getting_haircut.,This is big expenditure.,0,6
+This is man_standing [EM] flexed_biceps.,This is big expenditure.,0,6
+This is face_with_crossed-out_eyes [EM] face_with_crossed-out_eyes [EM] face_with_crossed-out_eyes.,This is big voice.,0,6
+This is sunset [EM] cityscape.,This is big voice.,0,6
+This is Santa_Claus.,This is big voice.,0,6
+This is 1st_place_medal [EM] sun.,This is big voice.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big voice.,0,6
+This is man_technologist [EM] handshake.,This is big voice.,0,6
+This is money_with_wings [EM] money_with_wings.,This is big voice.,0,6
+This is office_building [EM] money-mouth_face [EM] money-mouth_face.,This is big voice.,0,6
+This is Santa_Claus.,This is big group.,0,6
+This is speaking_head [EM] anger_symbol.,This is big group.,0,6
+This is woman_technologist [EM] money-mouth_face.,This is big group.,0,6
+This is money_with_wings [EM] money_with_wings [EM] money_with_wings.,This is big group.,0,6
+This is money-mouth_face [EM] money_with_wings.,This is big group.,0,6
+This is face_with_symbols_on_mouth [EM] face_with_symbols_on_mouth.,This is big group.,0,6
+This is spiral_calendar.,This is big group.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big group.,0,6
+This is shallow_pan_of_food [EM] burrito [EM] burrito [EM] money-mouth_face [EM] money-mouth_face [EM] money_with_wings [EM] money_with_wings.,This is big man.,0,6
+This is Russia.,This is big man.,0,6
+This is coin [EM] coin.,This is big man.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big man.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big man.,0,6
+This is handshake [EM] tear-off_calendar.,This is big man.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big man.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big man.,0,6
+This is man_technologist [EM] money_with_wings.,This is big city.,0,6
+This is shallow_pan_of_food [EM] burrito [EM] burrito [EM] money-mouth_face [EM] money-mouth_face [EM] money_with_wings [EM] money_with_wings.,This is big city.,0,6
+This is spiral_calendar.,This is big city.,0,6
+This is person_curly_hair.,This is big city.,0,6
+This is speaking_head [EM] anger_symbol.,This is big city.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big city.,0,6
+This is family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy [EM] family_woman_woman_boy_boy.,This is big city.,0,6
+This is superhero [EM] man_superhero.,This is big city.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big tipper.,0,6
+This is necktie [EM] chart_increasing.,This is big tipper.,0,6
+This is speaking_head [EM] anger_symbol.,This is big tipper.,0,6
+This is money_with_wings [EM] money_with_wings.,This is big tipper.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big tipper.,0,6
+This is money_with_wings [EM] money_with_wings.,This is big tipper.,0,6
+This is busts_in_silhouette [EM] busts_in_silhouette [EM] busts_in_silhouette.,This is big tipper.,0,6
+This is anxious_face_with_sweat [EM] sun.,This is big tipper.,0,6
+This is chart_increasing [EM] money_with_wings.,This is big day.,0,6
+This is office_building [EM] office_building [EM] office_building [EM] bar_chart [EM] globe_showing_Europe-Africa.,This is big day.,0,6
+This is shallow_pan_of_food [EM] burrito [EM] burrito [EM] money-mouth_face [EM] money-mouth_face [EM] money_with_wings [EM] money_with_wings.,This is big day.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big day.,0,6
+This is face_with_symbols_on_mouth [EM] face_with_symbols_on_mouth.,This is big day.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big day.,0,6
+This is cityscape [EM] up-down_arrow [EM] left-right_arrow.,This is big day.,0,6
+This is money_with_wings [EM] money_with_wings [EM] money_with_wings.,This is big day.,0,6
+This is hot_face [EM] potable_water.,This is hot doll.,0,6
+This is hot_springs [EM] droplet [EM] potable_water.,This is hot doll.,0,6
+This is pouting_face [EM] face_with_steam_from_nose.,This is hot doll.,0,6
+This is hot_face [EM] potable_water.,This is hot doll.,0,6
+This is hot_face [EM] speech_balloon.,This is hot doll.,0,6
+This is fire [EM] label.,This is hot doll.,0,6
+This is thumbs_up [EM] teddy_bear [EM] t-shirt.,This is hot doll.,0,6
+This is fire [EM] speaking_head.,This is hot doll.,0,6
+This is name_badge [EM] thermometer [EM] fondue.,This is hot water.,0,6
+This is hot_springs [EM] nesting_dolls.,This is hot water.,0,6
+This is hot_face [EM] cooking [EM] fire.,This is hot water.,0,6
+This is hot_springs [EM] nesting_dolls.,This is hot water.,0,6
+This is fire [EM] neutral_face [EM] pouting_face.,This is hot water.,0,6
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot water.,0,6
+This is thermometer [EM] hot_springs [EM] cooking.,This is hot water.,0,6
+This is hot_springs [EM] fire.,This is hot water.,0,6
+This is fire [EM] fire [EM] t-shirt [EM] flat_shoe [EM] sunglasses.,This is hot stove.,0,6
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot stove.,0,6
+This is fire [EM] neutral_face [EM] pouting_face.,This is hot stove.,0,6
+This is fire [EM] pouting_face.,This is hot stove.,0,6
+This is sun [EM] studio_microphone [EM] speaking_head.,This is hot stove.,0,6
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot stove.,0,6
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot stove.,0,6
+This is fire [EM] neutral_face [EM] pouting_face.,This is hot stove.,0,6
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot topic.,0,6
+This is thermometer [EM] face_with_thermometer.,This is hot topic.,0,6
+This is fire [EM] neutral_face [EM] pouting_face.,This is hot topic.,0,6
+This is fire [EM] fire [EM] t-shirt [EM] flat_shoe [EM] sunglasses.,This is hot topic.,0,6
+This is fire [EM] cooking.,This is hot topic.,0,6
+This is hot_springs [EM] droplet [EM] potable_water.,This is hot topic.,0,6
+This is thumbs_up [EM] teddy_bear [EM] t-shirt.,This is hot topic.,0,6
+This is hot_springs [EM] cooking.,This is hot topic.,0,6
+This is sun [EM] face_with_thermometer [EM] thermometer [EM] face_with_medical_mask [EM] sleeping_face [EM] cold_face.,This is hot merchandise.,0,6
+This is fire [EM] speaking_head [EM] multiply [EM] speaking_head [EM] check_mark [EM] loudspeaker.,This is hot merchandise.,0,6
+This is thermometer [EM] hot_springs [EM] cooking.,This is hot merchandise.,0,6
+This is hot_face [EM] speech_balloon.,This is hot merchandise.,0,6
+This is face_with_steam_from_nose [EM] face_with_symbols_on_mouth [EM] man_gesturing_NO [EM] man_gesturing_NO.,This is hot merchandise.,0,6
+This is fire [EM] sweat_droplets.,This is hot merchandise.,0,6
+This is hot_face [EM] face_with_thermometer [EM] face_with_thermometer.,This is hot merchandise.,0,6
+This is face_with_symbols_on_mouth [EM] speech_balloon [EM] pouting_face.,This is hot merchandise.,0,6
+This is woozy_face [EM] face_with_thermometer [EM] man_health_worker.,This is hot temper.,0,6
+This is nesting_dolls [EM] fire [EM] fire.,This is hot temper.,0,6
+This is fire [EM] speaking_head.,This is hot temper.,0,6
+This is fire [EM] sweat_droplets.,This is hot temper.,0,6
+This is fire [EM] shopping_bags [EM] teddy_bear [EM] t-shirt [EM] dress [EM] pencil [EM] notebook_with_decorative_cover.,This is hot temper.,0,6
+This is hot_springs [EM] cooking.,This is hot temper.,0,6
+This is left_speech_bubble [EM] t-shirt.,This is hot temper.,0,6
+This is hot_face [EM] speech_balloon.,This is hot temper.,0,6
+This is hot_springs [EM] droplet [EM] potable_water.,This is hot argument.,0,6
+This is fire [EM] speaker_high_volume [EM] speaking_head [EM] speaking_head [EM] thinking_face [EM] thinking_face [EM] thumbs_up [EM] thumbs_down.,This is hot argument.,0,6
+This is fire [EM] wrapped_gift [EM] wrapped_gift.,This is hot argument.,0,6
+This is name_badge [EM] thermometer [EM] fondue.,This is hot argument.,0,6
+This is thumbs_up [EM] teddy_bear [EM] t-shirt.,This is hot argument.,0,6
+This is hot_face [EM] girl.,This is hot argument.,0,6
+This is hot_springs [EM] control_knobs [EM] fire.,This is hot argument.,0,6
+This is hot_face [EM] teddy_bear.,This is hot argument.,0,6
+This is hot_springs [EM] droplet.,This is hot forehead.,0,6
+This is face_with_symbols_on_mouth [EM] speaking_head [EM] megaphone.,This is hot forehead.,0,6
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot forehead.,0,6
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot forehead.,0,6
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot forehead.,0,6
+This is keycap_1 [EM] nesting_dolls [EM] Japanese_dolls.,This is hot forehead.,0,6
+This is star-struck [EM] speech_balloon.,This is hot forehead.,0,6
+This is anger_symbol [EM] face_with_symbols_on_mouth.,This is hot forehead.,0,6
+This is fuel_pump [EM] school.,This is full game.,0,6
+This is glass_of_milk [EM] Japanese_no_vacancy_button.,This is full game.,0,6
+This is Japanese_no_vacancy_button [EM] school.,This is full game.,0,6
+This is potable_water [EM] check_mark_button.,This is full game.,0,6
+This is hundred_points [EM] red_exclamation_mark.,This is full game.,0,6
+This is hundred_points [EM] red_exclamation_mark.,This is full game.,0,6
+This is man_raising_hand [EM] ear_with_hearing_aid [EM] school.,This is full game.,0,6
+This is thumbs_up [EM] video_game.,This is full auditorium.,0,6
+This is hundred_points [EM] FREE_button [EM] video_game.,This is full auditorium.,0,6
+This is heart_suit [EM] family_man_woman_girl_boy [EM] briefcase [EM] money_bag [EM] money_bag [EM] money_bag [EM] hundred_points.,This is full auditorium.,0,6
+This is grinning_squinting_face [EM] partying_face [EM] couple_with_heart.,This is full auditorium.,0,6
+This is hundred_points [EM] glass_of_milk.,This is full auditorium.,0,6
+This is grinning_squinting_face [EM] partying_face [EM] couple_with_heart.,This is full auditorium.,0,6
+This is heart_suit [EM] family_man_woman_girl_boy [EM] briefcase [EM] money_bag [EM] money_bag [EM] money_bag [EM] hundred_points.,This is full auditorium.,0,6
+This is twelve_o’clock [EM] alien_monster.,This is full attention.,0,6
+This is smiling_face_with_hearts [EM] smiling_face [EM] house_with_garden.,This is full attention.,0,6
+This is hundred_points [EM] glass_of_milk.,This is full attention.,0,6
+This is woman_technologist [EM] man_technologist [EM] school.,This is full attention.,0,6
+This is smiling_face_with_hearts [EM] smiling_face [EM] house_with_garden.,This is full attention.,0,6
+This is woman_technologist [EM] man_technologist [EM] school.,This is full attention.,0,6
+This is ticket [EM] person [EM] man [EM] person_curly_hair [EM] woman_curly_hair [EM] Japanese_no_vacancy_button.,This is full attention.,0,6
+This is cross_mark [EM] flying_saucer [EM] stadium.,This is full glass.,0,6
+This is bullseye [EM] basketball.,This is full glass.,0,6
+This is video_game [EM] chequered_flag.,This is full glass.,0,6
+This is face_with_monocle [EM] writing_hand.,This is full glass.,0,6
+This is hundred_points [EM] red_exclamation_mark.,This is full glass.,0,6
+This is man_pilot.,This is full glass.,0,6
+This is party_popper [EM] smiling_face_with_smiling_eyes [EM] relieved_face [EM] smiling_face_with_open_hands [EM] partying_face [EM] star-struck.,This is full glass.,0,6
+This is video_game [EM] hundred_points.,This is full life.,0,6
+This is nerd_face [EM] man_technologist [EM] man_teacher [EM] man_student.,This is full life.,0,6
+This is bullseye [EM] basketball.,This is full life.,0,6
+This is ticket [EM] person [EM] man [EM] person_curly_hair [EM] woman_curly_hair [EM] Japanese_no_vacancy_button.,This is full life.,0,6
+This is admission_tickets [EM] admission_tickets [EM] performing_arts.,This is full life.,0,6
+This is hundred_points [EM] red_exclamation_mark.,This is full life.,0,6
+This is cross_mark [EM] flying_saucer [EM] stadium.,This is full life.,0,6
+This is derelict_house.,This is little boy.,0,6
+This is boy [EM] person_red_hair.,This is little boy.,0,6
+This is house [EM] up-down_arrow [EM] pinching_hand.,This is little boy.,0,6
+This is house.,This is little boy.,0,6
+This is house [EM] up-down_arrow [EM] pinching_hand.,This is little boy.,0,6
+This is pinching_hand [EM] house.,This is little boy.,0,6
+This is flexed_biceps [EM] boy.,This is little boy.,0,6
+This is pinching_hand [EM] man_blond_hair.,This is little boy.,0,6
+This is framed_picture [EM] house_with_garden.,This is little man.,0,6
+This is boy.,This is little man.,0,6
+This is boy [EM] backhand_index_pointing_left [EM] baby.,This is little man.,0,6
+This is pinching_hand [EM] house.,This is little man.,0,6
+This is house.,This is little man.,0,6
+This is framed_picture [EM] house_with_garden.,This is little man.,0,6
+This is house.,This is little man.,0,6
+This is house [EM] up-down_arrow [EM] pinching_hand.,This is little man.,0,6
+This is man_beard.,This is little house.,0,6
+This is pinching_hand_light_skin_tone [EM] man_light_skin_tone.,This is little house.,0,6
+This is pinching_hand_light_skin_tone [EM] man_light_skin_tone.,This is little house.,0,6
+This is pinching_hand [EM] man_blond_hair.,This is little house.,0,6
+This is pinching_hand_light_skin_tone [EM] man_light_skin_tone.,This is little house.,0,6
+This is backhand_index_pointing_down_light_skin_tone [EM] boy.,This is little house.,0,6
+This is pinching_hand [EM] baby [EM] boy.,This is little house.,0,6
+This is pinching_hand [EM] man_standing.,This is little house.,0,6
+This is memo.,This is thin oil.,0,6
+This is hot_springs [EM] pencil [EM] memo.,This is thin oil.,0,6
+This is pinching_hand [EM] pen.,This is thin oil.,0,6
+This is sweat_droplets [EM] sweat_droplets [EM] bowl_with_spoon.,This is thin oil.,0,6
+This is hot_springs [EM] pencil [EM] memo.,This is thin oil.,0,6
+This is pinching_hand [EM] straight_ruler.,This is thin oil.,0,6
+This is steaming_bowl.,This is thin oil.,0,6
+This is steaming_bowl.,This is thin oil.,0,6
+This is droplet [EM] diya_lamp.,This is thin soup.,0,6
+This is straight_ruler [EM] pinching_hand [EM] chart_decreasing.,This is thin soup.,0,6
+This is droplet [EM] diya_lamp.,This is thin soup.,0,6
+This is hot_springs [EM] pencil [EM] memo.,This is thin soup.,0,6
+This is hot_springs.,This is thin soup.,0,6
+This is pinched_fingers_light_skin_tone [EM] wavy_dash.,This is thin soup.,0,6
+This is pinching_hand [EM] straight_ruler [EM] minus.,This is thin soup.,0,6
+This is pinching_hand [EM] straight_ruler [EM] oil_drum.,This is thin soup.,0,6
+This is pinching_hand [EM] fondue.,This is thin air.,0,6
+This is pinching_hand [EM] bowl_with_spoon.,This is thin air.,0,6
+This is pinching_hand [EM] bowl_with_spoon.,This is thin air.,0,6
+This is memo.,This is thin air.,0,6
+This is steaming_bowl.,This is thin air.,0,6
+This is pinching_hand [EM] pen.,This is thin air.,0,6
+This is straight_ruler [EM] pinching_hand [EM] chart_decreasing.,This is thin air.,0,6
+This is hot_springs [EM] pencil [EM] memo.,This is thin air.,0,6
+This is pinching_hand [EM] straight_ruler [EM] oil_drum.,This is thin line.,0,6
+This is pinching_hand [EM] oil_drum.,This is thin line.,0,6
+This is leaf_fluttering_in_wind [EM] pinching_hand.,This is thin line.,0,6
+This is oil_drum.,This is thin line.,0,6
+This is pinching_hand [EM] straight_ruler [EM] dashing_away.,This is thin line.,0,6
+This is pinching_hand [EM] man_cook [EM] oil_drum.,This is thin line.,0,6
+This is pinching_hand [EM] man_cook [EM] oil_drum.,This is thin line.,0,6
+This is pinching_hand [EM] man_cook [EM] oil_drum.,This is thin line.,0,6
+This is person [EM] ear [EM] cross_mark [EM] cross_mark.,This is ineffectual ruler.,0,6
+This is thumbs_down [EM] person_getting_massage.,This is ineffectual ruler.,0,6
+This is cross_mark [EM] man_getting_massage [EM] man_health_worker.,This is ineffectual ruler.,0,6
+This is pill [EM] woman_gesturing_NO.,This is ineffectual ruler.,0,6
+This is thumbs_down [EM] person_getting_massage.,This is ineffectual ruler.,0,6
+This is ear [EM] deaf_woman [EM] thumbs_down [EM] unamused_face.,This is ineffectual ruler.,0,6
+This is thumbs_down [EM] person_getting_massage.,This is ineffectual ruler.,0,6
+This is thumbs_down [EM] hospital.,This is ineffectual ruler.,0,6
+This is thumbs_down [EM] prince [EM] princess.,This is ineffectual therapy.,0,6
+This is crown [EM] person_gesturing_NO.,This is ineffectual therapy.,0,6
+This is cross_mark [EM] prince.,This is ineffectual therapy.,0,6
+This is prince [EM] crown [EM] chart_decreasing [EM] thumbs_down.,This is ineffectual therapy.,0,6
+This is technologist [EM] woman_technologist [EM] man_technologist [EM] thumbs_down [EM] thumbs_down.,This is ineffectual therapy.,0,6
+This is thumbs_down [EM] straight_ruler.,This is ineffectual therapy.,0,6
+This is castle [EM] crown [EM] thumbs_down [EM] thumbs_down [EM] thumbs_down [EM] men_holding_hands [EM] women_holding_hands [EM] pouting_face.,This is ineffectual therapy.,0,6
+This is technologist [EM] woman_technologist [EM] man_technologist [EM] thumbs_down [EM] thumbs_down.,This is ineffectual therapy.,0,6
+This is thumbs_up [EM] right_arrow.,This is effective step.,0,6
+This is thumbs_up [EM] angry_face [EM] pouting_face [EM] face_with_steam_from_nose.,This is effective step.,0,6
+This is dashing_away [EM] door.,This is effective step.,0,6
+This is thumbs_up [EM] door.,This is effective step.,0,6
+This is dashing_away [EM] face_with_symbols_on_mouth.,This is effective step.,0,6
+This is thumbs_up [EM] door.,This is effective step.,0,6
+This is dashing_away [EM] door.,This is effective step.,0,6
+This is thumbs_up [EM] face_with_steam_from_nose.,This is effective step.,0,6
+This is thumbs_up [EM] door.,This is effective reprimand.,0,6
+This is thumbs_up [EM] footprints [EM] light_bulb [EM] speech_balloon.,This is effective reprimand.,0,6
+This is thumbs_up [EM] footprints.,This is effective reprimand.,0,6
+This is thumbs_up [EM] ladder.,This is effective reprimand.,0,6
+This is thumbs_up [EM] right_arrow.,This is effective reprimand.,0,6
+This is thumbs_up [EM] door.,This is effective reprimand.,0,6
+This is thumbs_up [EM] right_arrow.,This is effective reprimand.,0,6
+This is thumbs_up [EM] footprints.,This is effective reprimand.,0,6
+This is thumbs_up [EM] person_walking.,This is effective entrance.,0,6
+This is speaking_head [EM] deaf_woman [EM] thumbs_up.,This is effective entrance.,0,6
+This is dashing_away [EM] face_with_symbols_on_mouth.,This is effective entrance.,0,6
+This is thumbs_up [EM] footprints.,This is effective entrance.,0,6
+This is clapping_hands [EM] ladder.,This is effective entrance.,0,6
+This is face_with_steam_from_nose [EM] speaking_head [EM] speech_balloon.,This is effective entrance.,0,6
+This is dashing_away [EM] face_with_symbols_on_mouth.,This is effective entrance.,0,6
+This is thumbs_up [EM] footprints [EM] right_arrow.,This is effective entrance.,0,6

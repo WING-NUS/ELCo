@@ -1,0 +1,8 @@
+transformers
+torch
+torchvision
+numpy 
+matplotlib
+pandas
+emoji
+scikit-learn
