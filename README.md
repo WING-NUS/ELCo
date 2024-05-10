@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Our codebase does not require specific versions of the packages in [`requirements.txt`](https://github.com/WING-NUS/ELCo/blob/main/scripts/requirements.txt). \
 For most NLPers, probably you will be able to run our code with your existing virtual (conda) environments. 
 
-## Running experiments 🧪🔬
+## Running Experiments 🧪🔬
 
 ### Specify Your Path 🏎️🛣️
 Before running the bash files, please edit the bash file to specify your path to the HuggingFace Cache. \
@@ -47,14 +47,14 @@ huggingface_path=YOUR_PATH
 you may change `YOUR_PATH` to the absolute directory location of your Huggingface Cache. 
 
 
-### Unsupervised evaluation on EmoTE task: 📘📝
+### Unsupervised Evaluation on EmoTE Task: 📘📝
 ```
 conda activate
 cd ELCo
 bash scripts/unsupervised.sh
 ```
 
-### Fine-tuning on EmoTE task: 📖📝
+### Fine-tuning on EmoTE Task: 📖📝
 ```
 conda activate
 cd ELCo
