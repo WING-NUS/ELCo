@@ -38,7 +38,7 @@ For most NLPers, probably you will be able to run our code with your existing vi
 ## Running Experiments 🧪🔬
 
 ### Specify Your Path 🏎️🛣️
-Before running the bash files, please edit the bash file to specify your path to the HuggingFace Cache. \
+Before running the bash files, please edit the bash file to specify your path to your local HuggingFace Cache. \
 For example, in [scripts/unsupervised.sh](https://github.com/WING-NUS/ELCo/blob/main/scripts/unsupervised.sh):
 ```
 #!/bin/bash
@@ -46,7 +46,7 @@ For example, in [scripts/unsupervised.sh](https://github.com/WING-NUS/ELCo/blob/
 # Please define your own path here
 huggingface_path=YOUR_PATH
 ```
-you may change `YOUR_PATH` to the absolute directory location of your Huggingface Cache. 
+you may change `YOUR_PATH` to the absolute directory location of your Huggingface Cache (e.g. `/disk1/yisong/hf-cache`). 
 
 
 ### Unsupervised Evaluation on EmoTE Task: 📘📝
